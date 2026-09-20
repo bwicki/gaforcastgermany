@@ -1,112 +1,91 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-225
-FBEU40 EDZH 201200
+296
+FBEU40 EDZH 201800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 20.09.2026, 12.00 UTC bis 21.09.2026, 09.00 UTC
+gültig vom 20.09.2026, 18.00 UTC bis 21.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Rückseitig einer Kaltfront, welche am Vormittag nach Südosten
-abgezogen ist, fließt mit einer lebhaften teils stürmischen
-westlichen Strömung eine kühlere, etwas trockenere, jedoch labilere
-Luftmasse ein. Bis zum Abend dreht die Strömung zunehmend auf eine
-Nordwestliche Richtung.
+Unter Trogeinfluss wird mit einer lebhaften nordwestlichen Strömung
+kühlere und labil geschichtete Meeresluft herangeführt. Ein
+Hochdruckgebiet mit Schwerpunkt über Frankreich stabilisiert am
+Montag die Luftmasse zunehmend.
 
 Wettergeschehen:
-Zu Beginn zeigen sich südlich einer Linie Grafschaft Bentheim - Harz
-SCT/BKN CU/SC mit Untergrenzen in 3000-4500 FT AMSL. Im südlichen
-Weser-Leine-Bergland können sich lokal noch FEW/SCT ST Felder in
-600-900 FT AGL halten, welche jedoch rasch nach Süden abziehen bzw.
-sich auflösen. Die Obergrenzen der Quellbewölkung liegt meist bei
-5000 FT AMSL.
-Nördlich angrenzend kommt es im gesamten Nachmittagsverlauf zu
-FEW/SCT CU in 2500-3500 FT AMSL, mit Obergrenzen in 4000-5000 FT
-AMSL. Vereinzelt können sich daraus ISOL TCU mit Tops zwischen FL080
-und FL100 entwickeln und kurzlebige Schauer können auftreten. Damit
-Verbunden treten Windböen aus westlicher später nordwestlicher
-Richtung bis 35 KT auf.
-Von der Ostfriesischen Küste bis zum Herzogtum Lauenburg, sowie
-Richtung Norden über der Nordsee und dem übrigen Teil
-Schleswig-Holsteins kommt es verbreitet zu Schauern aus ISOL TCU mit
-Untergrenzen zwischen 2000 und 3500 FT AMSL und Tops um FL160.
-Teilweise kommt es zur linienartigen Anordnung der Schauer. Im
-Zusammenhang mit mäßigen Schauern können die Untergrenzen lokal auf
-1000 bis 1500 FT AMSL absinken und Böen bis 45 KT sind nicht
-ausgeschlossen. Insbesondere in der Nordhälfte der Deutschen Bucht
-und Schleswig-Holsteins können einzelne Gewitter aus CBs mit Tops bis
-FL200 nicht ausgeschlossen werden.
-
-Im Laufe des Abends geht die Bewölkung Südwestlich etwa der Linie
-Harz - Dollart zu FEW/SCT SC mit Untergrenzen um 3000 FT AMSL und
-Obergrenzen um 5000 FT AMSL über, gebietsweise löst sich die
-Bewölkung auf. Nordöstlich der Linie sinken die Obergrenzen der TCUs
-auf Werte zwischen FL100 und FL150 ab und die Gewitter kommen zum
-Erliegen. Die Schauer schwächen sich bis in die erste Nachthälfte ab.
-Entlang der Elbe können einzelne jedoch bis Ende der zweiten
-Nachthälfte auftreten. Dabei sinken die Untergrenzen verbreitet auf
-Werte zwischen 1000 und 2000 FT AMSL ab. Ausgangs der Nacht ziehen im
-Nordwesten SCT/BKN AC/CI oberhalb FL180 auf.
-
-Am Montag bildet sich in den Morgen- und Vormittagsstunden im
-gesamten Gebiet SCT/BKN CU/SC/AC mit Untergrenzen in 1500-2500 FT
-AMSL und Obergrenzen zwischen 5000 FT AMSL im Westen und FL070-080 in
-der Osthälfte. Dann bleibt es niederschlagsfrei.
+Verbreitet zeigt sich SCT/BKN CU mit Basis in 2500 bis 4000 FT AMSL
+und Obergrenzen bei 3000 bis 5000 FT AMSL. Daraus können sich im
+Süden ISOL TCU mit Tops um FL100 und nach Norden hin ISOL TCU/CB mit
+Tops bei FL160 bis FL200 entwickeln, die im Süden mit einzelnen
+Schauern und im Norden mit teils mäßigen Schauern sowie kurzen
+Gewittern einhergehen können. Im Niederschlag sinken die Untergrenzen
+auf 1000 bis 1500 FT AMSL ab.
+Im Laufe des Abends geht die Bewölkung südwestlich etwa einer Linie
+Dollart - Braunschweig in FEW/SCT SC zwischen 2500 und 5000 FT AMSL
+über, gebietsweise löst sich die Bewölkung auch auf. Nordöstlich
+dieser Linie sinken die TCU/CB-Tops auf FL110 bis FL170 ab, die
+Gewitter kommen zum Erliegen und die Schauer schwächen sich in der
+ersten Nachthälfte ab, kommen jedoch nicht vollständig zum Erliegen.
+Bis zum Morgen sinken die Tops auf um FL100 ab, dabei sind vor allem
+entlang der Elbe bis zum Vormittag weiterhin vereinzelt leichte
+Schauer möglich.
+Ansonsten zeigt sich im Laufe des Vormittags verbreitet SCT/BKN CU
+mit Basis in 1500 bis 2500 FT AMSL, nachmittags auf 2500 bis 4000 FT
+AMSL ansteigend mit Obergrenzen bei 4000 FT AMSL bis FL065. Darüber
+zeitweise Durchzug von mittelhohen und hohen Wolkenfeldern.
 
 Sichtweite:
-Abseits von Niederschlägen 20-50 km. Bei Niederschlägen je nach Art
-und Intensität auf 3-8 km, bei hohen Sprühregenanteilen lokal auf 1-4
-km zurückgehend.
+Bei 20 bis 50 km und im Schauer erfolgt ein Rückgang auf 3 bis 8 km.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 290/25KT  13C | 300/25KT  12C |
-1000FT | 290/30KT  12C | 300/30KT  11C |
-1500FT | 290/30KT  10C | 310/35KT  10C |
-2000FT | 290/35KT  09C | 310/35KT  08C |
-3000FT | 300/40KT  06C | 320/45KT  06C |
-5000FT | 300/40KT  03C | 310/45KT  03C |
-FL100  | 300/40KT M06C | 320/50KT M06C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 290/25KT  12C | 310/20KT  14C |
+1000FT | 290/30KT  11C | 310/25KT  12C |
+1500FT | 300/40KT  10C | 320/30KT  10C |
+2000FT | 300/40KT  09C | 320/30KT  09C |
+3000FT | 310/45KT  07C | 320/40KT  05C |
+5000FT | 300/45KT  03C | 320/40KT  02C |
+FL100  | 300/45KT M06C | 320/45KT M04C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 300/25KT  17C | 270/20KT  11C |
-1000FT | 300/25KT  15C | 280/30KT  11C |
-1500FT | 300/30KT  13C | 300/35KT  11C |
-2000FT | 300/30KT  12C | 310/35KT  10C |
-3000FT | 300/30KT  09C | 310/40KT  07C |
-5000FT | 300/30KT  04C | 310/40KT  04C |
-FL100  | 290/45KT M04C | 310/45KT M04C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 280/20KT  13C | 300/20KT  14C |
+1000FT | 280/25KT  12C | 300/25KT  13C |
+1500FT | 290/30KT  10C | 310/30KT  11C |
+2000FT | 290/30KT  09C | 310/35KT  10C |
+3000FT | 310/35KT  07C | 310/30KT  08C |
+5000FT | 310/35KT  04C | 320/30KT  04C |
+FL100  | 310/40KT M03C | 330/50KT M02C |
 
 Turbulenz:
-Mäßig unterhalb 2000 bis 3000 FT AMSL. Außerdem im Bereich von TCU/CB
-mäßig bis stark.
+Mäßig unterhalb von 2000 bis 3000 FT AMSL. Außerdem in und in der
+Nähe von TCU/CB mäßig bis stark.
 
 Vereisung:
 In TCU/CB mäßig bis stark.
 
 Nullgradgrenze:
-FL065 im Nordwesten bis FL085 im Südosten. Im Nachmittagsverlauf im
-gesamten Gebiet rasch um FL070 einpendelnd.
+Bei FL065 bis FL075. Ab Mitternacht von Südwesten her ansteigend mit
+Werten am Morgen bei FL095 bis FL100 im Südwesten und am Nachmittag
+dann allgemein verbreitet zwischen FL080 bis FL100.
 
 Inversionen:
-In der Südwesthälfte in der zweiten Nachthälfte zwischen FL060 und
-FL090 Ausbildung einer schwachen Absinkinversion. Zudem über Land in
-der Nacht zum Montag bei größeren Wolkenlücken Ausbildung einer
-Bodeninversion unterhalb 1500 FT AGL, in den Morgenstunden erneut
-auflösend. Am Vormittag bildet sich verbreitet eine Absinkinversion
-zwischen FL055 und FL080.
+Vor allem im Süden schwache Absinkinversion zwischen FL060 und FL100.
+In der Nacht kann sich über Land bei größeren Wolkenlücken eine
+Bodeninversion unterhalb von 1000 FT AMSL ausbilden, die sich im
+Laufe des Vormittags auflöst. Gleichzeit zeigt sich verbreitet eine
+Absinkinversion zwischen FL050 und FL080.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  17.26 | 18.02 | 04.29 | 05.05
-Hannover  17.25 | 17.58 | 04.31 | 05.05
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  04.29 | 05.05 | 17.24 | 18.00
+Hannover  04.31 | 05.05 | 17.23 | 17.55
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 21.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/SC
+Luftfahrtberatungszentrale Hamburg/BR
