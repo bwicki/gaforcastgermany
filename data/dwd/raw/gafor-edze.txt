@@ -1,112 +1,112 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-821
-FBEU40 EDZE 200600
+891
+FBEU40 EDZE 201200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 20.09.2026, 06.00 UTC bis 21.09.2026, 03.00 UTC
+gültig vom 20.09.2026, 12.00 UTC bis 21.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Die Kaltfront eines Tiefs über Skandinavien hat das Vorhersagegebiet
-erreicht und zieht im Tagesverlauf südwärts ab. Zunächst wird aus
-Südwest noch milde, wolkenreiche Luft herangeführt. Rückseitig der
-Front wird mit lebhafter West- bis Nordwestströmung trockenere und
-kühlere Meeresluft herangeführt, die in der kommenden Nacht unter
-Hochdruckeinfluss gerät.
+Die Kaltfront eines Tiefs über Skandinavien zieht am Nachmittag
+südwärts ab. Rückseitig der Front wird mit lebhafter West- bis
+Nordwestströmung trockenere und kühlere Meeresluft herangeführt, die
+in der Nacht unter Hochdruckeinfluss gerät.
 
 Wettergeschehen:
-Zu Berichtsbeginn vor allem in der Mitte des Bereichs leichter bis
-mäßiger Regen und Sprühregen, ganz im Norden des Vorhersagebereichs
-teils bereits, im Süden noch niederschlagsfrei. Dabei überwiegend
-BKN/OVC LYR SC/AS/AC/CI, Untergrenzen in der Nordhälfte in 1500-2500
-FT AMSL, Obergrenze über FL245. An der Südgrenze teils noch stark LYR
-mit Ceiling in 3000 FT AMSL bis FL060. Im und nach Niederschlag
-örtlich SCT/BKN ST in 800 bis 1200 FT AGL, im Bergland örtlich
-bereits 400-800 FT AGL.
-Im weiteren Verlauf des Morgens im Bergland verbreitet BKN ST unter
-1000 FT AGL, Hochlagen in Wolken.
+Am Mittag in der Südhälfte noch frontale Bewölkung, BKN/OVC
+SC/AC/AS/CI ab 1500-3000 FT AMSL, Obergrenzen meist oberhalb FL245.
+Darunter BKN ST mit Basis in 500-1000 FT AGL, in Hochlagen
+aufliegend. Leichter bis mäßiger Regen oder Sprühregen, teils
+schauerartig verstärkt. Nördlich davon verbreitet SCT/BKN CU in
+2000-3500 FT AMSL, Tops bei FL055-080. Hier nur ganz vereinzelt noch
+leichter, schauerartiger Regen oder Sprühregen, meist
+niederschlagsfrei. Im Norden Windzunahme, Böen bis 30 KT aus
+West/Nordwest.
 
-Am Vormittag Verlagerung der Niederschläge in die Südhälfte.
-Gleichzeitig im Norden Ausschichten der Bewölkung und Übergang zu
-SCT/BKN CU/SC in 2000-2500 FT AMSL, Tops bis FL060. Darüber noch
-AC-Felder um FL130 und BKN CI oberhalb von FL245.
-Am Mittag Windzunahme und gebietsweise Böen um 25 KT aus W bis NW,
-Schwerpunt im Norden und Nordosten, dort auch einzelne Böen um 30 KT
-möglich.
-Am Mittag noch von der Eifel bis in den Westerwald frontale Bewölkung
-mit entsprechend tiefen Untergrenzen und leichtem Regen oder
-Sprühregen. Nördlich davon verbreitet SCT/BKN CU in 3000-4000 FT
-AMSL, Tops bis FL080, darüber teilweise noch CI oberhalb von FL245.
+Im Laufe des Nachmittags Abzug der Front auch aus dem Süden des
+Bereichs. Dann auch dort Übergang in SCT/BKN CU. In der Nordhälfte
+größer werdende Auflockerungen im CU, Basis hier auf 4000-4500 FT
+AMSL ansteigend. Im Osten und Süden des Bereichs ganz vereinzelt noch
+schauerartiger Regen/Sprühregen möglich, sonst niederschlagsfrei.
+Außerdem im Norden und Nordosten kräftiger West-/Nordwestwind mit
+Böen um 30 KT.
+Am Abend weiterer Bewölkungsrückgang, örtlich noch SCT SC zwischen
+3000 FT AMSL und FL060, teils SKC. Im Verlauf von Westen BKN CI,
+teils ab FL230. Verbreitet niederschlagsfrei.
 
-Im Laufe des Nachmittags zögerlicher Abzug der Front auch aus dem
-Süden des Bereichs. Dann auch dort Übergang in SCT/BKN CU. In der
-Nordhälfte größer werdende Auflockerungen im CU, Basis teils bei
-4000-4500 FT AMSL.
-Am Abend nachlassender Wind. Verbreitet Bewölkungsrückgang, in der
-Nordhälfte teils bereits SKC, in der Südhälfte noch flacher SCT/BKN
-SC zwischen 3500 und 5500 FT AMSL.
+In der Nacht Durchzug von CI-Feldern oberhalb von FL230, später von
+Westen teils BKN AS/CI ab FL160. Im Verlauf örtlich bis gebietsweise
+SCT/BKN SC zwischen 3000 FT AMSL und FL060. In Tal- und Muldenlagen
+des Berglands örtlich Dunst-/Nebelfelder.
 
-In der Nacht zum Montag teils SKC, teils Durchzug von CI-Feldern
-oberhalb von FL230, später im Westen oberhalb FL180. Örtlich weiter
-SCT, teils LYR SC zwischen 3000 FT AMSL und FL060.
+Montagvormittag Übergang zu meist BKN, teils LYR CU/SC-Bewölkung.
+Anfangsbasis der CU teils bei 1500-2000 FT AMSL, Basis ansonsten
+meist bei 3000-4500 FT AMSL, Obergrenzen um FL055. Darüber BKN AS/CI
+etwa zwischen FL140 und FL220.
 
 Sichtweite:
-Meist 30-60 km. Bei Regen um 10 km, bei Sprühregen 3-8 km. Im
-Bergland bei aufliegenden Wolken teils um 200 m. Rückseitig der
-Kaltfront 40-70 km.
-In der kommenden Nacht Rückgang auf 20-40 km. Im Bergland im Verlauf
-örtlich Bildung von Dunst- und Nebelfeldern mit Sicht unter 3 km.
+Im Regen im Süden anfangs noch 5-10 km, bei Sprühregen 2-5 km, im
+Bergland bei aufliegenden Wolken unter 500 m. Rückseitig der
+Kaltfront dann Besserung auf 40-70 km.
+In der Nacht Rückgang auf 15-40 km. In Tal- und Muldenlagen des
+Berglands bei Bildung von Dunst- und Nebelfeldern Sichten unter 5
+bzw. teils unter 1 km. Montagvormittag wieder Besserung.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 260/15KT  16C | 290/10KT  13C |
-1000FT | 270/20KT  15C | 300/20KT  13C |
-1500FT | 270/25KT  13C | 310/20KT  11C |
-2000FT | 280/25KT  13C | 310/20KT  10C |
-3000FT | 280/30KT  11C | 310/25KT  08C |
-5000FT | 280/40KT  09C | 310/25KT  04C |
-FL100  | 270/50KT  02C | 310/35KT  01C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 300/20KT  17C | 260/10KT  11C |
+1000FT | 300/25KT  15C | 280/15KT  12C |
+1500FT | 300/25KT  13C | 300/20KT  12C |
+2000FT | 300/25KT  12C | 310/20KT  11C |
+3000FT | 300/30KT  09C | 310/20KT  09C |
+5000FT | 290/25KT  05C | 320/25KT  04C |
+FL100  | 290/45KT  01C | 320/35KT  03C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 240/10KT  15C | 300/10KT  12C |
-1500FT | 240/20KT  14C | 310/15KT  11C |
-2000FT | 250/25KT  14C | 310/20KT  11C |
-3000FT | 260/30KT  12C | 320/20KT  07C |
-5000FT | 270/35KT  10C | 320/25KT  05C |
-FL100  | 280/40KT  03C | 310/35KT  02C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 290/15KT  16C | 270/05KT  10C |
+1500FT | 300/20KT  14C | 290/10KT  09C |
+2000FT | 300/25KT  13C | 300/15KT  10C |
+3000FT | 300/30KT  10C | 320/20KT  08C |
+5000FT | 300/30KT  05C | 330/25KT  04C |
+FL100  | 290/45KT  02C | 320/35KT  03C |
 
 Turbulenz:
 Mäßig unterhalb etwa 3000-4000 FT AMSL, am Abend nachlassend.
+Außerdem im Frontbereich im Süden anfangs noch mäßig bis FL120, am
+Nachmittag abziehend. Außerdem am späten Nachmittag mit aufkommendem
+Jetstream vor allem im Nordosten des Bereichs mäßig oberhalb FL120,
+im Laufe der Nacht zögerlich nachlassend bzw. nach Osten abziehend.
 
 Vereisung:
-Im Bereich der Kaltfront mäßig in Bewölkung zwischen FZLVL und FL200.
-Rückseitig der Kaltfront nicht mehr signifikant oder keine.
+Im Süden in frontaler Bewölkung anfangs noch mäßig zwischen FZLVL und
+FL200. Rückseitig der Kaltfront nicht mehr signifikant oder keine. In
+der zweiten Nachthälfte und Montagvormittag nur vereinzelt mäßig in
+mittelhoher Bewölkung ab FL140 bis FL220.
 
 Nullgradgrenze:
-Im Nordwesten FL105-110, im Süden um FL120. Ab dem Mittag von Norden
-absinkend, zunächst auf FL095 am Teutoburger Wald, an der Mosel
-weiter FL120. Am Nachmittag und Abend im Nordosten teils mehrere
-zwischen FL065 und FL100, im Südwesten FL110-FL120.
-Am Abend zwischen FL065-070 im Nordosten des Bereichs und bis FL120
-im äußersten Südwesten. In der Nacht zum Montag im Nordosten wieder
-auf FL090 ansteigend, im Südwesten weiter bei FL115-120.
+Am Mittag im Norden bei FL095-100, im Süden bei FL110-115. Am
+Nachmittag und Abend im Nordosten zeitweise mehrere zwischen FL065
+und FL100, im Südwesten/Süden FL110-FL120.
+Im Laufe der Nacht im Nordosten wieder auf FL090-100 ansteigend, im
+Südwesten weiter bei FL115-120. Montagvormittag zwischen FL095 und
+FL115.
 
 Inversionen:
-Anfangs noch nicht signifikant. Rückseitig der Kaltfront im
-Tagesverlauf von Norden Bildung einer Absinkinversion etwa zwischen
-FL055 und FL100. In der kommenden Nacht absinkend auf 5000 FT AMSL
-bis FL085, zudem Bildung einer Bodeninversion unterhalb 1000-1500 FT
-AGL.
+Rückseitig der Kaltfront von Norden Bildung einer Absinkinversion
+etwa zwischen FL055 und FL100. In der Nacht absinkend auf 4500 FT
+AMSL bis FL080. Zudem örtlich Bildung einer Bodeninversion unterhalb
+1000-1500 FT AGL, die sich am Vormittag wieder auflöst.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Düsseldorf  04.43 | 05.15 | 17.36 | 18.09
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Düsseldorf  17.36 | 18.09 | 04.44 | 05.17
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
 Regionale Wetterberatungszentrale Essen/dt
