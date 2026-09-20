@@ -1,58 +1,47 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-290
-FBEU40 EDZF 191800
+465
+FBEU40 EDZF 200600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 19.09.2026, 18.00 UTC bis 20.09.2026, 15.00 UTC
+gültig vom 20.09.2026, 06.00 UTC bis 21.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Zu Beginn liegt das Vorhersagegebiet noch unter Hochdruckeinfluss
-ausgehend vom östlichem Nordatlantik zusammen mit einer
-trocken-warmen Luftmasse. Im Laufe der Nacht erreicht die Kaltfront
-eines Tiefs über dem Europäischen Nordmeer das Vorhersagegebiet und
-verlagert sich mit der westlichen bis nordwestlichen Höhenströmung in
-Richtung Südosten. Diese führt hochreichend feuchte und kühle Luft
-heran. Bis zum Mittag erreicht die Front eine Linie Pfälzer
-Wald-Odenwald und zieht bis Berichtsende bis auf die Höhe Stuttgart.
-Rückseitig trocknet die kühlere Luft wieder ab. Im äußersten Norden
-ist sie dabei teils labil geschichtet.
+Am Morgen ist im Süden noch Hochdruckeinfluss vorherrschend. Im
+Norden zieht die Kaltfront eines Tiefs über Skandinavien auf. Diese
+Front verlagert sich unter leichte Abschwächung weiter Richtung
+Süden, erreicht bis zum Mittag das Rhein-Main-Gebiet und zieht im
+Verlauf des Nachmittags nach Bayern ab. Frontrückseitig zieht fließt
+mit einer nordwestlichen Strömung kühlere Luft ein. Zum Abend weitet
+sich von Westen wieder Hochdruckeinfluss aus.
 
 Wettergeschehen:
-Am Abend liegt über Nordhessen eine flache SCT/BKN SC Bewölkung um
-FL055 vor. Anderswo ist es ausgenommen von CI Feldern oberhalb FL245
-wolkenfrei.
-
-Im Verlauf der ersten Nachthälfte lockert die SC Bewölkung im Norden
-auf. Gleichzeitig zieht aus Nordwesten eine BKN/OVC AS/CS/CI
-Bewölkung oberhalb von FL180 auf, die bis zum Ende der Nachthälfte
-etwa die Mainlinie erreicht.
-
-In der zweiten Nachthälfte weitet sich bis zum Morgen die AS/CS/CI
-Bewölkung auf das gesamte Vorhersagegebiet aus. Gleichzeitig
-verdichtet sie sich bis zur Mainlinie zu einer BKN/OVC NS Bewölkung
-über Hessen und einer BKN LYR SC/AC/CI Bewölkung in RLP jeweils
-oberhalb von 2000-3000 FT AMSL. Das dort befindliche Bergland gerät
-in Wolken. Aus ihr fällt leichter bis mäßiger Regen, der über RLP mit
-einem Sprühregenanteil einhergeht.
+Am Morgen zeigt sich verbreitet SCT/BKN AS/CS/CI Bewölkung ab FL150.
+Über der Nordhälfte verdichtet sie sich die Bewölkung rasch zu
+BKN/OVC NS über Hessen und einer BKN LYR SC/AS/CI Bewölkung in RLP
+jeweils oberhalb von 2000-3000 FT AMSL. Das dort befindliche Bergland
+gerät in Wolken. Es fällt leichter bis mäßiger Regen, der über RLP
+mit einem Sprühregenanteil einhergeht.
 
 Im Vormittagsverlauf schichtet die NS Bewölkung auch im östlichem
-Teil zu einer BKN LYR SC/AC/CI Bewölkung aus. Die Untergrenzen heben
+Teil zu einer BKN LYR SC/AS/CI Bewölkung aus. Die Untergrenzen heben
 etwas an auf 2500-3500 FT AMSL und der Niederschlag lässt nach, wobei
 nun verbreitet mit einem Sprühregenanteil zu rechnen ist. Südlich
-davon bleibt die AS/CS/CI Bewölkung oberhalb von FL180. Nördlich der
+davon bleibt die AS/CS/CI Bewölkung oberhalb von FL150. Nördlich der
 Mainlinie lockert es auf, sodass sich ein FEW/SCT CU mit Basen
 zwischen 2500-3500 FT AMSL und TOPs bis meistens FL060 bilden kann.
 
-Am Nachmittag erreicht die BKN LYR SC/AC/CI Bewölkung in etwa die
-Höhe Stuttgart und liegt somit mit Ausnahme des äußersten Südens über
-Baden-Württemberg und dem südlichen RLP. Die Basen des FEW/SCT CU
-heben weiter an auf 3000-4000 FT AMSL. Über Nordhessen können diese
-dann auch vereinzelt zu ISOL TCU mit TOPs bis FL130 heranwachsen, die
-leichte bis mäßige Schauer bringen. Ebenfalls frischt der Wind dort
-auf, sodass Windböen bis 30 KT aus W bis NW möglich sind.
+Am Nachmittag erreicht die BKN LYR SC/AC/CI Bewölkung dann ab 4000 FT
+AMSL in etwa die Höhe Stuttgart und liegt somit mit Ausnahme des
+äußersten Südens über Baden-Württemberg und dem südlichen RLP. Über
+Nordhessen können sich vereinzelt auch ISOL TCU mit TOPs bis FL130
+bilden, die leichte bis mäßige Schauer bringen.
+In der Nacht zum Montag lockert es von Norden her immer mehr auf und
+es zeigen sich meist nur hohe CI Felder. Ganz im Süden halten sich
+noch dichtere SC/AC Felder ab 3500 FT AMSL, es fällt aber kein Regen
+mehr.
 
 Sichtweite:
 30-70 km. Im Niederschlag überwiegend bei 15-5 km, bei höherem
@@ -60,46 +49,45 @@ Sprühregenanteil Reduktion auf bis zu 3 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 220/05KT  18C | 220/10KT  16C |
-1500FT | 240/15KT  17C | 240/20KT  14C |
-2000FT | 250/15KT  17C | 250/20KT  14C |
-3000FT | 260/25KT  14C | 280/30KT  11C |
-5000FT | 260/30KT  09C | 280/40KT  09C |
-FL100  | 270/30KT  07C | 270/45KT  04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 220/10KT  15C | 280/05KT  13C |
+1500FT | 240/20KT  14C | 300/15KT  11C |
+2000FT | 260/20KT  14C | 310/15KT  11C |
+3000FT | 270/30KT  12C | 320/25KT  07C |
+5000FT | 270/30KT  10C | 320/25KT  05C |
+FL100  | 270/40KT  03C | 320/35KT  01C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 210/05KT  21C | 220/10KT  18C |
-1500FT | 230/10KT  20C | 240/15KT  17C |
-2000FT | 230/10KT  19C | 250/15KT  16C |
-3000FT | 260/15KT  16C | 260/20KT  13C |
-5000FT | 250/20KT  12C | 270/20KT  11C |
-FL100  | 280/15KT  05C | 280/30KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 240/05KT  18C | 350/10KT  18C |
+1500FT | 240/15KT  17C | 350/15KT  16C |
+2000FT | 250/15KT  16C | 350/15KT  15C |
+3000FT | 260/15KT  13C | 350/15KT  11C |
+5000FT | 260/20KT  10C | 300/15KT  09C |
+FL100  | 280/30KT  05C | 290/30KT  02C |
 
 Turbulenz:
 In der Umgebung von TCU mäßig bis stark. Sonst nicht signifikant.
 
 Vereisung:
-In der NS und LYR SC/AC/CI Bewölkung mäßig zwischen FL120-210. In TCU
-mäßig bis stark.
+In der NS und LYR SC/AC/CI Bewölkung mäßig zwischen FL120-210, im
+Tagesverlauf nach Süden verlagernd und abschwächend. In TCU mäßig bis
+stark.
 
 Nullgradgrenze:
-Zu Beginn FL130-140. Ab der zweiten Nachthälfte von Nordwesten
-Absinken, sodass bei Berichtsende im äußersten Norden sie auf FL080
-und im äußersten Süden auf FL125 absinkt.
+Zwischen FL115 im Norden und FL130 im Süden. Im Tagesverlauf auf
+FL095-120 fallend.
 
 Inversionen:
-Nachts im Süden flache Bodeninversion unterhalb 500 FT AGL, am
+Am Morgen im Süden flache Bodeninversion unterhalb 1000 FT AGL, am
 Vormittag auflösend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.36 | 05.08 | 17.28 | 18.00
 Karlsruhe  04.38 | 05.10 | 17.29 | 18.00
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 20.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/lb
+Flugwetterzentrale Frankfurt/Hr

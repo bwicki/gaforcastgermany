@@ -1,89 +1,103 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-758
-FBEU40 EDZB 191800
+469
+FBEU40 EDZB 200600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 19.09.2026, 18.00 UTC bis 20.09.2026, 15.00 UTC
+gültig vom 20.09.2026, 06.00 UTC bis 21.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Ein Tief liegt über dem Nordatlantik. Sein okkludierendes
-Frontensystem erstreckt sich aktuell über Nordwestdeutschland und
-zieht bis Sonntagnachmittag von Nordwest nach Südost über
-Ostdeutschland hinweg. Auf seiner Rückseite fließt kühlere und labil
-geschichtete Luft ein.
+Die Kaltfront eines Tiefs über dem Nordmeer erstreckt sich über
+Sachsen-Anhalt und Brandenburg, verlagert sich unter Intensivierung
+südostwärts und zieht erst am späten Nachmittag vollständig ab.
+Rückseitig fließt mit lebhafter West- bis Nordwestströmung mäßig
+warme und labil geschichtete Meeresluft ein. Erst in der Nacht zum
+Montag wird die Luftmasse von Südwesten zwischenzeitlich stabilisiert
+und trocknet ab.
 
 Wettergeschehen:
-In der Nordwesthälfte anfangs SCT/BKN SC in etwa 4000 FT AMSL. In
-Mecklenburg-Vorpommern zeitweise leichter Regen oder Sprühregen, bei
-stärkerem Niederschlag Untergrenzen zwischen 1500 und 2000 FT AMSL.
+In weiten Teilen Sachsen-Anhalts und Brandenburgs BKN/OVC SC/AC/AS/CS
+mit Untergrenzen in 3000 bis 4000 FT AMSL, Obergrenzen oberhalb
+FL245. Daraus gebietsweise leichter, lokal auch mäßiger Regen.
+Südlich der Front noch niederschlagsfrei bei kompakter BKN/OVC
+AC/AS/CS-Bewölkung oberhalb FL140. Rückseitig SCT/BKN CU/SC/AC in
+1500 bis 3000 FT AMSL, Obergrenzen um FL110. Darüber teils Durchzug
+von AC/AS-Feldern oberhalb FL150. Dabei nur vereinzelt etwas Regen.
 
-In der Südosthälfte anfangs einzelne AC/CS-Felder oberhalb FL100 oder
-klar. Nach Mitternacht auch hier zunehmend SC in 3000 bis 4000 FT
-AMSL, aber erst nach Mitternacht von W bis NW zeitweise leichter
-Regen. Mit dem Regen teils auf 1500 bis 3000 FT AMSL absinkende
-Wolkenbasis, Oberharz zunehmend in Wolken gehend.
+Im Vormittagsverlauf Südostverlagerung der Kaltfrontbedingungen, am
+Mittag Sachsen und Thüringen beeinflussend. Dabei verbreitet leichter
+bis mäßiger Regen. Vor allem im Nordstau der Mittelgebirge teils
+Bildung tieferer ST-Bewölkung in 800 bis 1500 FT AGL, Berge zeitweise
+in Wolken.
+Nördlich davon, rückseitig der Front, Übergang zu SCT/BKN CU/SC/AC.
+Ab dem späten Vormittag von der Ostsee her zunehmend Entwicklung von
+TCU/CB mit Tops um FL150 und örtlich Schauern.
 
-Am Sonntagvormittag zieht die Kaltfront langsam südostwärts und liegt
-gegen 9 UTC über Thüringen und Sachsen. Im Frontbereich hochreichende
-BKN/OVC NS-Bewölkung in 2000 bis 3000 FT AMSL und leichter bis
-mäßiger Regen. Dabei teils Bildung tiefer Stratusbewölkung in
-500-1000 FT AGL, Berge zunehmend in Wolken. Die Front mit ihrem Regen
-zieht bis zum Spätnachmittag nach Böhmen ab.
+Am Nachmittag allmählich Abzug der frontalen Wetter- und
+Wolkenbedingungen nach Tschechien. Von Mecklenburg-Vorpommern weiter
+nach Süden ausgreifende TCU/CB-Entwicklungen, am Abend auch das
+Erzgebirge erreichend. Dabei ansteigende Tops bis FL180 im Binnenland
+und FL280 an der Küste. Dabei zeit- und gebietsweise Schauer,
+strichweise auch Gewitter mit Sturmböen zwischen 30 und 40 KT sowie
+kleinkörnigem Hagel möglich.
 
-Nördlich der Kaltfront SCT/BKN CU/SC im Höhenbereich zwischen 2000 FT
-AMSL und FL070. Gegen Mittag an der Küste aufkommende CB mit
-Obergrenzen bis FL130 und Regenschauern, die ins Binnenland ziehen.
-Nachmittags sind einzelne Gewitter möglich. Erst gegen Abend
-abschwächende Schauer- und Gewittertätigkeit.
+Eingangs der Nacht von Norden her, mit Ausnahme der Küstenregion,
+auflockernde Bewölkung und abnehmende Schauer- und Gewittertätigkeit.
+In der ersten Nachthälfte in der Nordhälfte dann SCT/BKN SC zwischen
+1500 und 3000 FT AMSL, an der Küste noch einzelne TCU/CB mit teils
+leichten Schauern. In der Südhälfte nach Abzug letzter Niederschläge
+oftmals wolkenlos, später auch hier dünne SC-Felder.
+In der zweiten Nachthälfte in Mecklenburg-Vorpommern erneut zeitweise
+aufkommende Schauer oder einzelne Gewitter.
 
 Sichtweite:
-30-70 km, im Regen Rückgang auf 5 bis 15 km, bei hohem
-Sprühregenanteil um 2 km.
+Meist 30 bis 60 km. Im Niederschlag je nach Intensität Rückgang auf 4
+bis 10 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 220/15KT  18C | 250/15KT  18C |
-1000FT | 230/25KT  17C | 250/20KT  16C |
-1500FT | 250/35KT  16C | 250/20KT  14C |
-2000FT | 250/35KT  16C | 250/20KT  14C |
-3000FT | 260/35KT  14C | 270/30KT  11C |
-5000FT | 270/35KT  10C | 270/35KT  08C |
-FL100  | 260/40KT  02C | 270/45KT M01C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 250/15KT  17C | 280/20KT  12C |
+1000FT | 250/15KT  15C | 280/25KT  11C |
+1500FT | 260/25KT  14C | 280/35KT  09C |
+2000FT | 260/25KT  14C | 290/35KT  09C |
+3000FT | 270/30KT  12C | 300/40KT  08C |
+5000FT | 270/35KT  08C | 300/40KT  04C |
+FL100  | 270/45KT  00C | 300/35KT M05C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 220/15KT  18C | 230/15KT  16C |
-1500FT | 250/25KT  18C | 250/25KT  15C |
-2000FT | 260/25KT  17C | 250/30KT  14C |
-3000FT | 270/30KT  14C | 270/30KT  12C |
-5000FT | 270/30KT  09C | 270/30KT  10C |
-FL100  | 270/30KT  04C | 280/45KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 240/20KT  17C | 290/20KT  14C |
+1500FT | 240/20KT  16C | 300/30KT  13C |
+2000FT | 250/25KT  15C | 300/30KT  12C |
+3000FT | 270/30KT  13C | 310/30KT  08C |
+5000FT | 270/35KT  10C | 310/30KT  05C |
+FL100  | 270/40KT  01C | 310/35KT M04C |
 
 Turbulenz:
-Im Bereich der Kaltfront teils mäßig zwischen FL080 und FL170,
-vereinzelt auch stark durch TCU/CB in Mecklenburg-Vorpommern. Böen im
-Bereich der Küste 30 bis 35 KT aus Südwest, sonst 18 bis 25 KT. In
-den Kammlagen der Mittelgebirge 25 bis 30 KT, auf dem Brocken 40 bis
-50 KT.
+Im Bereich der Kaltfront teils mäßig zwischen FL080 und FL170.
+Im Tagesverlauf böig auffrischender W/NW-Wind mit 25 bis 35 KT, an
+der Küste und auf dem Brocken bis 45 KT möglich. Dabei leichte bis
+mäßige Turbulenz unterhalb 2000 FT AMSL im Norden und FL060 im
+Mittelgebirgsraum. Am Abend mit Ausnahme der Küstenregion und
+Kammlagen der Mittelgebirge abschwächend.
+Zudem in und um TCU/CB mäßig bis stark.
 
 Vereisung:
-Teils mäßig in kompakter Schichtbewölkung und im Bereich der
-Kaltfront zwischen Nullgradgrenze und FL180, am Sonntag auch stark in
-TCU/CB.
+In kompakter unterkühlter Frontbewölkung teils mäßig bis FL230. Zudem
+in TCU/CB mäßig bis stark.
 
 Nullgradgrenze:
-Anfangs um FL120, bis zum Morgen im Nordwesten auf FL100 bis
-Sonntagnachmittag allgemein auf FL070 bis FL095 sinkend mit dem
-höheren Werten im Südosten.
+Zwischen FL100 an der Ostsee und FL125 in Sachsen und Thüringen.
+Rückseitig der Kaltfront von Norden verbreitet auf FL070 bis FL090
+absinkend mit den höchsten Werten im Südwesten.
 
 Inversionen:
-Nachts im Süden Ausbildung einer Bodeninversion unterhalb 500-1000 FT
-AGL, mit Aufzug der Kaltfront am Sonntagmorgen wieder auflösend.
-Sonst nicht signifikant.
+Anfangs im Südosten vereinzelt schwache Bodeninversion unterhalb 1000
+FT AGL, mit Frontannäherung rasch auflösend. In der Nacht zum Montag
+im Süden erneut örtlich Ausbildung einer Bodeninversion.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.14 | 04.48 | 17.09 | 17.42
@@ -91,7 +105,6 @@ Leipzig  04.21 | 04.54 | 17.14 | 17.47
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 20.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Ns
+Luftfahrtberatungszentrale Berlin/Ze

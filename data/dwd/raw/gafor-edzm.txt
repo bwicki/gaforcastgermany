@@ -1,99 +1,131 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-289
-FBEU40 EDZM 191800
+466
+FBEU40 EDZM 200600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 19.09.2026, 18.00 UTC bis 20.09.2026, 15.00 UTC
+gültig vom 20.09.2026, 06.00 UTC bis 21.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Ein Hochdruckgebiet mit Zentrum über dem Golf von Biskaya sorgt für
-ruhiges Wetter in Süddeutschland. Mit westlicher Strömung gelangt
-eine trockene und warme Atlantikluftmasse heran.
-Am SONNTAG zieht ausgehend von einem Tief über Finnland eine
-Kaltfront von Norden heran. Diese erreicht am Nachmittag etwa die
-Donauregion. Rückseitig strömt eine feuchte, gemäßigte warme
-Meeresluftmasse ein.
+Zunächst ist Zwischenhocheinfluss wetterbestimmend. Vereinzelt hat
+sich eine feuchte bodennahe Schicht gebildet, die sich im Laufe des
+Morgens rasch auflöst. Im Tagesverlauf nähert sich aus Nordwesten die
+Okklusion eines Tiefs mit Kern über Skandinavien. Diese erreicht
+abends den Südosten und nachts die Alpen. Dort staut sie nachts an.
 
 Wettergeschehen:
-In der Nacht zum Sonntag ist es gering bewölkt mit durchziehenden FEW
-AC bei FL170, oberhalb FL230 ziehen noch FEW CI durch. Zwischendurch
-sternenklar. In den Morgenstunden des Sonntages bildet sich in der
-östlichen Donauniederung und an der Salzach flacher Nebel mit
-Sichteinschränkungen, ebenso läuft in den östlichen Bayerischen Alpen
-sehr wahrscheinlich das Inntal mit Talbewölkung BKN SC zwischen 3000
-und 4500 FT AMSL zu. Ebenso zieht in Unterfranken BKN SC bei 4000 FT
-AMSL auf, darüber Schichtbewölkung.
+Verbreitet von CI/CS oberhalb FL200-220. Im äußersten Südosten auch
+teils wolkenlos. Dort bevorzugt in Gewässernähe einzelne flache
+Dunst- und Nebelfelder.
 
-Am SONNTAG ist es von der Hohenloher Ebene über Mittelfranken bis zum
-Oberpfälzer Wald in der ersten Tageshälfte noch weitgehend freundlich
-mit etwas Sonne aber auch schon aufziehender AC/AS-Bewölkung oberhalb
-FL180. Am Nachmittag zieht hier von Unter- und Oberfranken her
-hingegen BKN/OVC SC, teilweise auch NS auf, mit Untergrenze 3000 FT
-AMSL, darin eingelagert stellenweise TCU sowie schauerartiger, meist
-aber leichter Regen. In den östlichen Mittelgebirgen, hier vom
-Frankenwald über das Fichtelgebirge bis zum nördlichen Teil des
-Bayerwaldes, sinken die Untergrenzen im Weststau teilweise bis auf
-2000 FT AMSL ab, Hügel und Mittelgebirge in Wolken.
-In den Regionen südlich der Donau im Wesentlichen anderes Wetter,
-hier deutlich freundlicher mit mehr Sonnenschein und kaum
-durchziehenden CI/CS-Feldern meist oberhalb FL230. Über den Alpen
-mittags und nachmittags flache FEW CU bei etwa 8000 FT AMSL. Trocken.
+Im Laufe des Morgens rasche Auflösung etwaiger Dunst- und
+Nebelfelder. Die CI/CS-Bewölkung ist vor allem nördlich der Donau
+relativ dicht, südlich der Donau weiterhin auch Wolkenlücken.
+
+Vormittags erreicht die dichtere CI/CS-Bewölkung auch den äußersten
+Südosten. Im Nordwesten ziehen BKN SC-Felder in die Mainregion
+zwischen 4000 FT AMSL und FL070.
+
+Mittags verdichtet sich die Bewölkung nördlich des Mains rasch zu
+BKN/OVC NS mit Untergrenze in 4000-5000 FT AMSL und es setzt leichter
+bis mäßiger Regen ein. Obergrenze oberhalb FL245. Darin können
+einzelne TCU eingelagert sein, die den Niederschlag schauerartig
+verstärken können. Südlich einer Linie Heilbronn-Nürnberg-Weiden
+überwiegt noch die hohe Aufzugsbewölkung.
+
+Nachmittags kommen die frontalen Bedingungen etwa bis zur Donau
+voran. Im Weststau der östlichen Mittelgebirge (v.a. Hofer
+Land/Fichtelgebirge) sinkt die Untergrenze auf 3000 FT AMSL ab. Aus
+der Bewölkung fällt weiterhin leichter bis mäßiger Regen, bei
+weiterhin einzelnen eingelagerten TCU auch schauerartig verstärkt.
+Südlich der Donau bleibt es bis zum frühen Abend noch meist trocken;
+hier überwiegt OVC CS oberhalb FL180.
+
+Abends erreicht die Frontbewölkung mit eingelagerten TCU auch die
+Gebiete südlich der Donau. Die Untergrenze liegt um FL050, im Stau
+der östlichen Mittelgebirge teilweise Untergrenzen um 2500 FT AMSL.
+Obergrenze um FL240. Der Nordwesten gelangt indes auf die
+Frontrückseite, hier schichtet die Bewölkung stark aus zu BKN SC/AC
+zwischen FL060 und FL090 und die Niederschläge klingen ab.
+
+In der ersten Nachthälfte verlagert sich der Niederschlagsschwerpunkt
+an den Alpenrand. Im äußersten Nordwesten klart es auf. Im Bereich
+der Schwäbisch-Fränkischen Alb bilden sich BKN SC-Felder um 3000-4000
+FT AMSL.
+
+Gegen Mitternacht erreicht die Aufklarungszone aus Nordwesten die
+Donau. Gleichzeitig ziehen von Württemberg her dünne CI-Felder
+oberhalb FL245 nach Franken. Über der Schwäbischen Alb hält sich
+BKN/OVC SC zwischen 2500 und 5500 FT AMSL. Auch am Bayerischen Wald
+hält sich noch teils BKN SC zwischen 2500 und 4000 FT AMSL. Südlich
+der Donau überwiegt BKN/OVC SC/AC zwischen 3000 FT AMSL und FL080, am
+Alpenrand zwischen 4000 FT AMSL und FL130. Dort regnet es noch länger
+anhaltend.
+
+In der zweiten Nachthälfte sinken auch am Alpenrand die TOPs langsam
+auf FL100. Südlich einer Linie Ulm-München-Burghausen überwiegt dann
+weiterhin BKN/OVC SC/AC mit Untergrenzen um 3000 FT AMSL, Obergrenze
+um FL060. Am Alpenrand sinken die TOPs langsam auf FL100 ab, dort
+fällt weiterhin leichter bis mäßiger Regen. Nördlich der Linie
+abgesehen von dünnen CI oberhalb FL245 wolkenlos, nur im Bereich der
+Schwäbischen Alb noch gebietsweise BKN SC-Felder um 4000-5000 FT
+AMSL. Vereinzelt bilden sich flache Dunst- und Nebelfelder.
 
 Sichtweite:
-Vorherrschend 50 bis 70 km, in den Alpen Flugsichten um 100 km. Am
-Morgen in der östlichen Donauniederung sowie an Inn und Salzach
-einzelne Nebelfelder, hier Bodensichten stellenweise unter 500 m. In
-den Bayerischen Alpen, hier etwa im Inntal, unter der Talbewölkung
-Dunst mit Sichten 2 bis 8 km sehr wahrscheinlich. Im Laufe des
-Vormittages deutliche Besserung.
+Zunächst um 20-40 km. Im Dunst 2-5 km, im Nebel unter 1 km.
+Tagsüber im Südosten Besserung auf 30-60 km. Im Nordwesten im
+Tagesverlauf mit Aufzug der Front Rückgang auf 5-15 km im Regen.
+Diese Bedingungen erreichen abends die Donau und nachts den
+Alpenrand. Frontrückseitig Sichtbesserung auf 20-50 km. Unter tiefer
+SC-Bewölkung Sichten um 10-20 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 230/10KT  18C | 240/10KT  17C |
-2000FT | 240/10KT  18C | 240/10KT  16C |
-3000FT | 260/20KT  15C | 270/20KT  13C |
-5000FT | 270/15KT  12C | 270/20KT  10C |
-FL100  | 270/15KT  05C | 270/35KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 250/10KT  17C | 310/20KT  14C |
+2000FT | 250/15KT  17C | 320/20KT  13C |
+3000FT | 280/20KT  13C | 330/25KT  10C |
+5000FT | 270/20KT  10C | 310/30KT  06C |
+FL100  | 270/35KT  05C | 290/45KT  02C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 230/05KT  18C | 250/10KT  17C |
-3000FT | 250/10KT  16C | 260/10KT  15C |
-5000FT | 260/15KT  13C | 260/15KT  13C |
-FL100  | 320/10KT  05C | 280/25KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 250/05KT  17C | 270/15KT  15C |
+3000FT | 270/10KT  15C | 310/30KT  13C |
+5000FT | 260/15KT  12C | 300/35KT  11C |
+FL100  | 280/20KT  05C | 290/35KT  03C |
 
 Turbulenz:
-In der Nacht keine signifikante Turbulenz. Am SONNTAG von Norden her
-bei TCU-Bewölkung.
-Im Laufe des Nachmittages auf den Bayerischen Voralpen und in
-Kammlagen der östlichen Mittelgebirge starke Windböen bis 35 KT aus W
-bis NW, entsprechend mäßige Turbulenz.
+Zunächst keine mäßige oder starke Turbulenz. Im Tagesverlauf mit der
+Front bei eingelagerten TCUs mäßig bis stark.
+Zusätzlich vor allem nördlich der Donau mittags und nachmittags
+zeitweise mäßig unterhalb 5000 FT AMSL.
 
 Vereisung:
-In der Nacht keine signifikante Vereisung. Am SONNTAG von Norden her
-mäßige Vereisung FL110/250, darüber noch leichte Vereisung.
-Zusätzlich eingelagerte TCU.
+Zunächst keine mäßige oder starke Vereisung. Im Tagesverlauf mit
+Aufzug der frontalen Schichtbewölkung verbreitet mäßig zwischen FL100
+und FL170-200. Bei eingelagerten TCU mäßig bis stark.
 
 Nullgradgrenze:
-In der Nacht bei FL130. Am SONNTAG im Laufe des Tages nördlich der
-Donau absinkend auf FL110.
+Zunächst um FL130. Mit der Front im Tagesverlauf von Nordwesten
+absinkend auf FL095-110. Nachts auch südlich der Donau Rückgang auf
+FL095-105.
 
 Inversionen:
-Nächtliche Bodeninversion mit Obergrenze bei etwa 2500 FT AMSL, bis
-Mittag auflösend. Ansonsten Absinkinversion zwischen 4500 und 6000 FT
-AMSL, in den Alpen entsprechend als Talinversion ausgeprägt.
+Anfangs verbreitet flache Bodeninversion mit Obergrenze bei etwa 2500
+FT AMSL, bis zum Vormittag auflösend. Nachmittags von Nordwesten
+rückseitig der Front Ausbildung einer Absinkinversion zwischen FL050
+und FL080. In der Nacht zum Montag auch die Gebiete im Süden
+erreichend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.27 | 04.59 | 17.19 | 17.49
 München  04.25 | 04.56 | 17.15 | 17.47
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 20.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Regionale Wetterberatung Süd, München-Flughafen/kü
+Luftfahrtberatungszentrale München/pv
