@@ -1,86 +1,89 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-586
-FBEU40 EDZM 211200
+844
+FBEU40 EDZM 211800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 21.09.2026, 12.00 UTC bis 22.09.2026, 09.00 UTC
+gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Auf der Rückseite einer nach Südosten abgezogenen Kaltfront fließt
-aus Nordwesten kühle Luft nach Süddeutschland. Aus Westen baut sich
-Zwischenhocheinfluss auf, der die Luftmasse abtrocknet.
+Ein Hochdruckgebiet mit Schwerpunkt über dem Ärmelkanal weitet seinen
+Einfluss nach Osten aus. Dadurch trocknet die, aus Nordwesten
+eingeflossene kühle Luft weiter ab.
 
 Wettergeschehen:
-Verbreitet ziehen SCT/BKN AC/CI Wolkenfelder mit Untergrenze um FL150
-durch Süddeutschland. Darunter haben sich SCT, am Alpenrand und an
-den östlichen Mittelgebirgen BKN CU mit Untergrenze um 4000 FT AMSL
-gebildet. Die Obergrenze der Quellbewölkung reicht bis etwa FL080.
+Vom Steigerwald bis zur unteren Donau und östlich davon SCT SC mit
+Untergrenzen zwischen 4500 und 5500 FT AMSL, Obergrenzen um FL090. An
+den Alpen BKN SC mit Untergrenzen zwischen FL050 und FL060,
+Obergrenzen um FL070. Zudem verbreitet SCT AC oberhalb etwa FL180. Im
+äußersten Südwesten nur CI oberhalb FL245.
 
-Im Laufe des Nachmittages trocknet die Quellbewölkung von Westen in
-Schwaben, auf der Alb, und im Kocher-Jagst-Gebiet ab. Weiter im Osten
-wird die Quellbewölkung dünner und die Untergrenze steigt auf 4500 FT
-AMSL an. Am Alpenrand bleibt die Quellbewölkung bis zum Abend
-geschlossen, dann auch hier Auflockerungen.
+Nachts leichtes Ausdehnen der SC-Felder nach Westen und an
+Bedeckungsgrad zunehmend. Am Morgen vom Steigerwald bis zum
+Mangfall-Gebirge und östlich davon BKN SC mit Untergrenzen zwischen
+4500 und 5000 FT AMSL, Obergrenzen um FL070. Westlich dieser Regionen
+meist klar. Dort örtlich Dunst oder Nebel unterhalb 2200 FT AMSL.
+Sonst nur noch vereinzelt Durchzug von FEW AC zwischen FL130 und
+FL160.
 
-Nachts Übergang zu dünner SC Bewölkung mit Untergrenze um 4500 FT
-AMSL und Obergrenze bei FL060. Die Bewölkung bleibt in Ostbayern
-meist geschlossen. Bei größeren Wolkenlücken bildet sich in der
-zweiten Nachthälfte vereinzelt Nebel.
+Im Vormittagsverlauf Auflösen von Dunst und Nebel. Zudem Übergang des
+SC zu CU. Am Mittag entlang der östlichen Mittelgebirge BKN CU mit
+Untergrenzen zwischen 4000 und 4500 FT AMSL und Obergrenzen um FL060.
+Sonst eher flache CU mit Basis zwischen 3500 und 4500 FT AMSL, nach
+Westen hin an Bedeckungsgrad abnehmend. Im äußersten Südwesten
+überwiegend wolkenlos.
 
-Am Dienstag lösen sich die vereinzelten flachen Nebelfelder morgens
-rasch auf. Am Bodensee, in Schwaben und auf der Schwäbischen Alb ist
-es meist wolkenlos oder es ziehen dünne AC/CI Wolkenfelder oberhalb
-FL150 durch. In Franken, der Oberpfalz, in Ober- und Niederbayern
-hält sich der dünne SCT/BKN SC mit Basis um 4500-5000 FT AMSL und
-Obergrenze noch um FL055. Im Südostbayern liegt die Wolkenobergrenze
-noch bei FL075.
-Vormittags bilden sich im Westen FEW CU, in der Mitte und im Osten
-Bayerns Übergang zu SCT/BKN CU. Die Basis der Quellbewölkung liegt
-Anfangs um 3500-4000 FT AMSL.
+Am Nachmittag weiteres Anheben und beginnendes Auflösen der CU. Zum
+Berichtsende nördlich der Donau SCT/BKN CU mit Untergrenzen zwischen
+4500 und 5000 FT AMSL, südlich der Donau FEW/SCT mit Basis zwischen
+FL055 und FL060.
 
 Sichtweite:
-Verbreitet um 30-50 km. Nachts bei flachen Nebelfedern vereinzelt
-400-800 m.
+Verbreitet 30-60 km. Nachts bei Nebel unter 1, im Dunst 1 bis 5 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 310/15KT  14C | 340/10KT  10C |
-2000FT | 310/15KT  14C | 340/10KT  10C |
-3000FT | 310/15KT  09C | 350/10KT  06C |
-5000FT | 310/15KT  05C | 350/15KT  02C |
-FL100  | 340/40KT  02C | 350/30KT  00C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 300/10KT  12C | 330/05KT  12C |
+2000FT | 310/15KT  12C | 330/05KT  11C |
+3000FT | 340/15KT  09C | 330/05KT  06C |
+5000FT | 330/20KT  05C | 020/10KT  03C |
+FL100  | 340/30KT M01C | 360/30KT M00C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 330/15KT  14C | 320/10KT  09C |
-3000FT | 320/15KT  10C | 340/10KT  08C |
-5000FT | 320/15KT  06C | 310/15KT  04C |
-FL100  | 320/30KT  01C | 350/30KT M02C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 310/10KT  13C | 330/05KT  11C |
+3000FT | 310/10KT  10C | 330/10KT  07C |
+5000FT | 320/15KT  06C | 300/15KT  04C |
+FL100  | 340/25KT M01C | 350/25KT M02C |
 
 Turbulenz:
-Es wird keine mäßige oder starke Turbulenz erwartet.
+Anfangs entlang der östlichen Mittelgebirge teils mäßig unterhalb
+FL060. Nachts abschwächend.
 
 Vereisung:
 Es wird keine mäßige oder starke Vereisung erwartet.
 
 Nullgradgrenze:
-Im Westen um FL110, im Osten um FL070.
+Zwischen FL115 in Oberschwaben und FL070 entlang der östlichen
+Mittelgebirge. Am Dienstagnachmittag, abseits des äußersten
+Südostens, leicht ansteigend. Zum Berichtsende zwischen FL100 und
+FL125, mit den höchsten Werten in Oberschwaben.
 
 Inversionen:
-Absinkinversion um FL080. In der Nacht bildet sich verbreitet eine
-flache Bodeninversion aus, die am Dienstag langsam abgebaut wird.
+Absinkinversion um FL070. Nachts leicht absinkend. Nachts verbreitet
+Bildung einer Bodeninversion mit Obergrenze zwischen 2000 und 3000 FT
+AMSL, am Dienstagvormittag wieder abbauend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  17.16 | 17.49 | 04.29 | 05.02
-München  17.13 | 17.44 | 04.27 | 04.59
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.29 | 05.02 | 17.14 | 17.46
+München  04.27 | 04.59 | 17.11 | 17.42
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/st
+Luftfahrtberatungszentrale München/zo

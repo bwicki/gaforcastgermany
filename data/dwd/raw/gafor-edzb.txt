@@ -1,92 +1,97 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-575
-FBEU40 EDZB 211200
+848
+FBEU40 EDZB 211800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 21.09.2026, 12.00 UTC bis 22.09.2026, 09.00 UTC
+gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Zwischen einem Tief über Skandinavien und einem Hoch im Bereich
-Ärmelkanal hat sich eine kräftige Nordwestströmung eingestellt, die
-frische und leicht labil geschichtete Meeresluft heranführt. In der
-Nacht zum Dienstag bildet sich stellenweise eine feuchte Grundschicht
-aus.
+Ein Hoch mit Schwerpunkt über England, Nordfrankreich und Benelux
+weitet seinen Einflussbereich nach Osten aus und die zuvor
+wetterbestimmende labil geschichtete Meeresluft wird dabei aus dem
+Vorhersagegebiet verdrängt. Bei nordwestlicher Grundströmung
+stabilisiert sich die mäßig warme Luftmasse und zum Dienstag kann
+sich stellenweise vorübergehend eine feuchte Grundschicht ausbilden.
 
 Wettergeschehen:
-Zu Beginn häufig SCT/BKN CU/SC-Bewölkung in 2000-4000 FT AMSL, im
-Nachmittagsverlauf ansteigend auf 4000 FT AMSL bis FL060. Obergrenzen
-zwischen FL070 im Norden und FL110 im Südosten. Bis zum Abend lokal
-TCU mit Schauern möglich, vorzugsweise entlang der Oder-Neiße-Grenze.
-Hier am Nachmittag kurzzeitig CB mit einem kurzen Gewitter gering
-wahrscheinlich. Ansonsten überwiegend trocken. In der Westhälfte
-darüber CI Felder oberhalb FL200.
-
-Am Abend und in der ersten Nachthälfte letzte abklingende Schauer in
-der Oberlausitz, ansonsten verbreitet Wolkenauflockerung,
-stellenweise SCT/BKN SC um 2000-3000 FT AMSL, lokal aber auch größere
-wolkenfrei Stellen.
-In der zweiten Nachthälfte und am Morgen in der Nordosthälfte (also
-von der Oberlausitz über den Berliner Raum bis nach
-Mecklenburg-Vorpommern), sowie im Nordweststau des Erzgebirges
-Bildung von BKN/OVC ST in 100-500 FT AGL möglich, Obergrenzen um 1000
-FT AGL.
-Im Vormittagsverlauf langsames Anheben des ST auf 800-1000 FT AGL,
-anschließend zum Berichtsende allmählich auflockernd. Ansonsten teils
-Bildung von SCT/BKN SC/CU um 1500-2500 FT AMSL, teils wolkenfreie
-Gebiete. Trocken.
+Im Gebiet stellenweise wolkenfreie Bereiche, aber in der Mehrheit
+noch FEW/SCT oder SCT/BKN CU/SC mit Untergrenzen in 3500 bis 4500 FT
+AMSL, Obergrenzen meist bei FL060 bis FL080. Richtung Lausitz und
+teils im Bereich des Erzgebirges zunächst auch noch etwas
+höherreichende Quellwolkentops bis etwa FL100, dort anfangs lokal
+letzte schwache bis leichte Schauer möglich.
+In den kommenden Stunden insbesondere von Nordosten bzw. von der
+Küste her Bewölkungsrückgang und zur Nacht dort zunächst dann nur
+noch lokal flache SC-Schollen. In der Süd-/Südwesthälfte des
+Vorhersagegebiets in der Nacht hingegen weiterhin häufiger
+SCT/BKN-Bedingungen. Untergrenzen im Verlauf nach und nach absinkend
+auf 2000 bis 3500 FT AMSL, im Nordweststau der Mittelgebirge damit
+auch ST möglich, höhere Berglagen teils in Wolken oder Untergrenzen
+in wenigen hundert FT AGL. Ausgangs der Nacht auch von
+Mecklenburg-Vorpommern bis zur Lausitz mitunter ebenfalls flache
+ST-Bildung unter 500 FT AGL nicht ausgeschlossen.
+Am Dienstagvormittag allmähliches Anheben und Auflockern von
+vorhandenem ST im Osten, Richtung Erzgebirge zäher anhebend, dort bis
+zum späten Vormittag teils Untergrenzen bei 700 bis 1200 FT AGL.
+Ansonsten Erhalt bzw. Neubildung von CU/SC, im Norden als FEW/SCT,
+lokal BKN, im Süden/Südwesten zumeist als SCT/BKN. Untergrenzen bei
+2000 bis 4000 FT AMSL mit den tieferen Werten im Norden.
+Am Nachmittag Basis auf 2500 bis 5000 FT AMSL anhebend. Obergrenzen
+zwischen 5000 FT AMSL und FL080 mit den höheren Werten im Osten.
+Voraussichtlich niederschlagsfrei.
 
 Sichtweite:
-40-60 km. Bei Schauern 10-20 km. Unterm tiefen ST 5-15 km.
+30 bis 60 km. Unter tieferem ST vorübergehend 5 bis 15 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 320/20KT  15C | 320/10KT  09C |
-1000FT | 320/25KT  14C | 340/20KT  10C |
-1500FT | 320/25KT  12C | 360/15KT  10C |
-2000FT | 320/25KT  11C | 360/15KT  10C |
-3000FT | 320/30KT  07C | 010/10KT  08C |
-5000FT | 320/30KT  03C | 360/15KT  04C |
-FL100  | 330/35KT M04C | 010/25KT M02C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 300/15KT  11C | 320/10KT  12C |
+1000FT | 310/25KT  10C | 320/10KT  11C |
+1500FT | 330/25KT  09C | 350/15KT  10C |
+2000FT | 340/25KT  09C | 360/10KT  10C |
+3000FT | 340/25KT  06C | 360/10KT  08C |
+5000FT | 350/25KT  02C | 360/15KT  04C |
+FL100  | 340/30KT M03C | 010/20KT M02C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 310/20KT  16C | 320/15KT  09C |
-1500FT | 310/25KT  14C | 330/15KT  08C |
-2000FT | 310/25KT  13C | 340/15KT  08C |
-3000FT | 310/25KT  09C | 350/10KT  04C |
-5000FT | 310/30KT  05C | 010/10KT  03C |
-FL100  | 340/35KT M07C | 010/30KT M02C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 310/15KT  13C | 320/05KT  11C |
+1500FT | 320/20KT  11C | 320/05KT  09C |
+2000FT | 320/25KT  10C | 320/05KT  08C |
+3000FT | 330/30KT  06C | 350/10KT  05C |
+5000FT | 330/25KT  03C | 020/10KT  03C |
+FL100  | 340/40KT M03C | 010/20KT M03C |
 
 Turbulenz:
-Zu Beginn an der Küste und über See Sturmböen, etwas landeinwärts
-Windböen, dabei mäßige Turbulenz unterhalb 3000 FT AMSL, im
-Tagesverlauf etwas abschwächend. Sonst in den übrigen Gebieten mäßige
-Turbulenz bis zum späten Nachmittag unterhalb FL050. Zudem in und um
-TCU/CB mäßig bis stark.
+Anfangs an der See und über den Kammlagen der Mittelgebirge noch
+Wind- und stürmische Böen, in den kommenden Stunden jedoch
+nachlassend. Ansonsten zu Beginn meist bodennah nur leichte
+Turbulenz, ebenfalls nachlassend.
 
 Vereisung:
-In TCU/CB mäßig bis stark.
+Nicht signifikant.
 
 Nullgradgrenze:
-Anfangs zwischen FL060-FL070. Ab dem Abend von Westen her ansteigend,
-dann bei FL090-100 im Westen und FL060-070 an Oder und Neiße.
+Im Osten bei FL060 bis FL075, im Westen bei FL080 bis FL095. Zum
+Dienstagmorgen etwa um 5000 FT anhebende Nullgradgrenzen. Am
+Nachmittag an der Oder-Neiße-Grenze um FL070, im Westen des Gebiets
+zwischen FL105 und FL115.
 
 Inversionen:
-Abseits der TCU/CB Absinkinversion an der Obergrenze der SC/AC- bzw.
-CU/SC-Bewölkung. Kommende Nacht schwache Bodeninversion bis 1000 FT
-AGL.
+Absinkinversion an der Obergrenze der CU/SC-Bewölkung. Kommende Nacht
+schwache Bodeninversion bis 1000 FT AGL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  17.07 | 17.40  | 04.18 | 04.51
-Leipzig  17.12 | 17.44  | 04.22 | 04.57
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.18 | 04.51 | 17.05 | 17.37
+Leipzig  04.22 | 04.57 | 17.10 | 17.42
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Hi
+Luftfahrtberatungszentrale Berlin/dh

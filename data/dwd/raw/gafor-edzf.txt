@@ -1,79 +1,84 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-585
-FBEU40 EDZF 211200
+845
+FBEU40 EDZF 211800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 21.09.2026, 12.00 UTC bis 22.09.2026, 09.00 UTC
+gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Rückseitig einer nach Südosten abgezogenen Kaltfront setzt sich von
-Südwesten her Hochdruckeinfluss durch.
-Mit einer nordwestlichen Strömung wird kühlere und in höheren
-Schichten zunächst noch feuchte Luft herangeführt.
-Ab dem Abend trocknet die Luftmasse auch in der Höhe ab.
-In der Nacht zum Dienstag bildet sich dann wieder eine feuchtkalte
-Grundschicht, die sich am Dienstag rasch auflöst.
+Wetterbestimmend ist ein Hoch mit Zentrum über der Biskaya. Mit einer
+nördlichen Strömung wird eine trockene, mäßig warme und stabile
+Luftmasse wetterbestimmend. In der Nacht zum Dienstag bildet sich
+lokal eine feuchte Grundschicht aus, welche sich am Vormittag rasch
+auflöst.
 
 Wettergeschehen:
-SCT/BKN AC/CI/CS oberhalb von FL150, darunter bilden sich SCT/BKN CU
-mit Basen zwischen 4000-5000 FT AMSL und TOPs bis FL070.
+Nordöstlich einer Linie zwischen dem mittlerem Neckarraum und dem
+Taunus ist eine FEW/SCT AC/CI-Bewölkung oberhalb von FL160 vorhanden.
+Zudem haben sich lokal im gesamten Gebiet FEW/SCT CU zwischen 5000 FT
+AMSL und FL070 ausgebildet.
 
-Bis zum Abend lockern die AC/CI Felder zu FEW/SCT auf oder lösen sich
-teils gänzlich auf. Die CU Bewölkung lockert ebenfalls zu FEW auf und
-die Basen heben auf 5000 FT AMSL bis FL060 an.
+Im Laufe des Abends und der Nacht verlässt die FEW/SCT
+AC/CI-Bewölkung das Vorhersagegebiet nach Norden, und die FEW/SCT SC
+lösen sich größtenteils aus. Lokal bilden sich einzelne Dunst- und
+Nebelfelder aus.
 
-In der zweiten Nachthälfte lokal Dunstbildung, teils SCT/BKN ST
-zwischen 500 und 1000 FT AGL, teils als Nebel aufliegend.
+Dienstagvormittag lösen sich die Dunst- und Nebelfelder rasch auf. Im
+Mittagsverlauf bilden sich SCT/BKN CU zwischen 3500 und 4500 FT AMSL
+aus. Zudem hat sich vereinzelt eine FEW AC-Bewölkung zwischen FL140
+und FL180 ausgebildet.
 
-Am Dienstagvormittag Auflösung von Dunst und Nebel, Übergang zu
-SCT/BKN CU in 3000 FT AMSL, trocken.
+Bis zum Nachmittag löst sich der SCT/BKN CU südlich einer Linie
+zwischen Stuttgart und Taunus größtenteils auf, Nördlich der Linie
+bleibt die CU-Bewölkung erhalten.
 
 Sichtweite:
-30-60 km. In der Frühe Dunst 5-1 km, im Nebel unter 1 km.
+30-60 km. Im Dunst 5-1 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 310/10KT  16C | 360/05KT  11C |
-1500FT | 310/15KT  14C | 360/05KT  10C |
-2000FT | 310/15KT  13C | 360/10KT  09C |
-3000FT | 310/15KT  10C | 360/10KT  06C |
-5000FT | 320/15KT  06C | 360/15KT  06C |
-FL100  | 340/35KT  02C | 360/35KT  02C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 340/05KT  14C | 360/05KT  12C |
+1500FT | 350/10KT  13C | 360/05KT  10C |
+2000FT | 350/10KT  12C | 360/05KT  09C |
+3000FT | 350/20KT  08C | 010/05KT  06C |
+5000FT | 340/25KT  06C | 010/15KT  05C |
+FL100  | 330/25KT  01C | 010/30KT  03C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 030/10KT  18C | 050/10KT  13C |
-1500FT | 030/10KT  16C | 050/10KT  12C |
-2000FT | 030/10KT  15C | 050/10KT  11C |
-3000FT | 030/10KT  11C | 060/10KT  09C |
-5000FT | 350/05KT  08C | 030/10KT  08C |
-FL100  | 340/25KT  03C | 010/30KT  03C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 050/05KT  16C | 030/10KT  14C |
+1500FT | 050/05KT  15C | 040/10KT  12C |
+2000FT | 050/10KT  14C | 060/10KT  12C |
+3000FT | 040/10KT  10C | 060/10KT  08C |
+5000FT | 020/10KT  06C | 030/10KT  08C |
+FL100  | 340/20KT  02C | 020/30KT  03C |
 
 Turbulenz:
-Mäßig oberhalb von FL160 im Osten, nachlassend.
+Keine signifikante.
 
 Vereisung:
-Mäßig bis Stark oberhalb von FL200, nachlassend.
+Keine signifikante.
 
 Nullgradgrenze:
-Zwischen FL100 im Norden und FL125 im Süden.
+Zwischen FL100 im Norden und FL120 im Süden. Bis Dienstagnachmittag
+auf FL115 im Nordosten und FL125 im Südwesten ansteigend.
 
 Inversionen:
-Absinkinversion zwischen 5000 FT AMSL und FL070, auf FL070-80
-ansteigend. In der kommenden Nacht flache Bodeninversion unterhalb
-1000 FT AGL, am Vormittag rasch auflösend.
+Absinkinversion zwischen 5000 FT AMSL und FL070, bis Dienstagmittag
+auf 4000 bis 5000 FT AMSL absinkend. In der kommenden Nacht flache
+Bodeninversion unterhalb 1000 FT AGL, am Vormittag rasch auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Gießen  17.26 | 17.57 | 04.37 | 05.11
-Karlsruhe  17.27 | 17.57 | 04.40 | 05.13
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Gießen  04.37 | 05.11 | 17.24 | 17.57
+Karlsruhe  04.40 | 05.13 | 17.25 | 17.57
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um 02.00
+UTC
 
-Flugwetterzentrale Frankfurt/Go
+Flugwetterzentrale Frankfurt/MJ

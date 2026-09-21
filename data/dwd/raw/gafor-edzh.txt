@@ -1,98 +1,119 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-574
-FBEU40 EDZH 211200
+847
+FBEU40 EDZH 211800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 21.09.2026, 12.00 UTC bis 22.09.2026, 09.00 UTC
+gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
 Am Rande eines Hochdruckgebietes mit Schwerpunkt über Südengland und
-dem Ärmelkanal wird mit einer teils lebhaften Nordwestströmung mäßig
-warme Meeresluft herangeführt. Kommende Nacht erreicht der
-Hochschwerpunkt Benelux und die Strömung schwächt sich ab. Bis in die
-Vormittagsstunden dreht die Strömung dabei auf zunehmend auf Nord.
+dem Ärmelkanal wird mit einer anfangs frischen Nordwestströmung mäßig
+warme Meeresluft herangeführt. Bis zum Morgen verlagert das Hoch
+seinen Schwerpunkt in Eifel und bis zum Dienstagnachmittag ins
+Westfälische Becken. Dabei verstärkt sich der Hochdruckeinfluss
+nochmals, während die Strömung abflaut und auf nordwestliche bis
+westliche Richtungen dreht. Am Vormittag erreichen zudem Reste einer
+Warmfront den äußersten Westen.
 
 Wettergeschehen:
-Verbreitet FEW/SCT CU mit Basis in 2500-4500 FT AMSL, und Obergrenzen
-bei 5000 FT AMSL-FL065. Über Schleswig-Holstein kann die
-Quellbewölkung teils als SCT/BKN auftreten. Aus vereinzelten, von der
-Nordsee kommenden und höherquellenden Wolken ist besonders im
-Küstenumfeld und entlang der Elbe etwas Regen mit schauerartigem
-Charakter nicht ausgeschlossen. Meist bleibt es aber
-niederschlagsfrei. Darüber ziehen zeitweise mittelhohe und hohe
-Wolkenfelder durch.
+Gebietsweise zeigen sich derzeit SCT/BKN SC (über der See auch CU/SC)
+bei Untergrenzen in 2500-3500 FT AMSL und Obergrenzen in 4500 FT AMSL
+und FL060. Über dieser Quellbewölkung ziehen in der Westhälfte in
+Schichten FEW/SCT, strichweise auch BKN, AC/CI Bändern durch. Die
+Untergrenzen liegen hierbei im äußersten Westen zwischen FL100-FL130,
+nach Osten hin um FL160, bei Obergrenzen oberhalb von FL245. Diese
+hohe Bewölkung löst sich im Laufe der Nacht weiter, aber nicht
+vollends auf.
 
-Am Abend lösen sich die CU verbreitet auf und es bleiben nach Westen
-SCT/BKN, nach Osten FEW/SCT SC zwischen 2000 und 3000 FT AMSL
-erhalten. Im Laufe der Nacht bilden sich in aufgelockerten Bereichen
-über Land örtlich Dunst, Nebel sowie SCT/BKN ST-Felder bei 400-800 FT
-AGL. Von Westen zieht in der zweiten Nachthälfte SCT/BKN AC in
-FL080-090 auf, mit Obergrenzen zwischen FL190 und FL230. Bis ausgangs
-der Nacht erreicht die mittelhohe Bewölkung etwa eine Linie
-Nordfriesische Küste - Altes Land - Raum Hannover.
+In der Nacht lösen sich SC-Felder westlich der Weser und östlich der
+Elbe über Land auf. Sonst verbleibt im auflandigen Küstenstrom von
+Nord- und Ostsee SC-Schollen, welche nur hin und wieder ein paar
+Lücken aufzeigen. Die Untergrenzen sinken dabei im Laufe der Nacht
+auf 1500-2500 FT AMSL bei Obergrenzen in 3500-4500 FT AMSL ab, das
+höhere Leine-Bergland gelangt dabei in Wolken. Im Laufe der Nacht
+bilden sich in wolkenfreien Bereichen flache Wald- und
+Wiesennebelfelder, welche ab der zweiten Nachthälfte auch zu SCT/BKN
+ST unterhalb von 300 FT AGL anwachsen können. Im äußersten Osten
+können sich auch SCT/BKN ST-Felder in 300-600 FT AGL bei Obergrenzen
+in 1000 FT AGL ausbilden. Insbesondere in einem Streifen von der
+holsteinischen Schweiz bis in die Lübecker Bucht.
 
-In den Vormittagsstunden lösen sich Dunst-, Nebel-, sowie ST-Felder
-zögerlich auf. Es bilden sich erste FEW/SCT CU mit Untergrenzen
-zunächst um 1000-1500 FT AMSL und Obergrenzenzwischen 3000 und 4500
-FT AMSL. Bis zum Berichtsende heben die Untergrenzen verbreitet auf
-1500-2500 FT AMLS an. In einem Streifen von der deutsch-dänischen
-Grenze bis in die Lüneburger Heide bleibt es am längsten
-quellwolkenfrei. Oberhalb der sich bildenden CU-Bewölkung zieht
-wiederholt SCT/BKN AC in FL090-110 mit Obergrenzen bis FL200 durch.
+Am Vormittag lösen sich Dunst-, Nebel-, sowie ST-Felder zögerlich
+auf. Es bilden sich vielerorts FEW/SCT CU mit Untergrenzen zunächst
+um 1000-1500 FT AMSL, welche über den Mittag zusammen mit der
+SC-Bewölkung über Land auf 2500-3500 FT AMSL bei Obergrenzen in
+3500-4500 FT AMSL anwachsen werden bzw. in der Osthälfte zum
+Nachmittag wieder auflösen werden.
+
+Im Westen hingegen verdichtet sich vom Vormittag bis zum Mittag die
+Bewölkung zu BKN/OVC SC LYR AC. Die Untergrenzen liegen dabei meist
+bei 2000-3000 FT AMSL und die Obergrenzen in FL100-FL130. Im Bereich
+von der westlichen Deutschen Bucht bis ins Emsland kann dabei selten
+etwas Sprühregen aus der Bewölkung fallen. Dabei sinken die
+Untergrenzen örtlich auf 1000-1500 FT AMSL ab. Diese Entwicklung ist
+aber noch mit entsprechenden Unsicherheiten behaftet. Der AC zieht
+derweil bis zum Nachmittag auf eine Linie Angeln - Osnabrück, lockert
+und löst dabei aber zunehmend auf.
 
 Sichtweite:
-Verbreitet bei 20-50 km, im Schauer lokal auf 4-8 km zurückgehend.
+Verbreitet bei 20-50 km, am Morgen auf 10-30 km absinkend, bei
+Starkdunst auf 1-5 km und im Nebel um 500 m. Im Laufe des Tages
+wieder auf überregionale 25-50 km ansteigend. Bei Sprühregen örtlich
+auf 3-6 km zurückgehend.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 310/20KT  14C | 330/10KT  10C |
-1000FT | 310/25KT  12C | 340/15KT  10C |
-1500FT | 310/25KT  10C | 350/15KT  09C |
-2000FT | 310/30KT  09C | 350/15KT  08C |
-3000FT | 310/25KT  05C | 360/05KT  07C |
-5000FT | 330/30KT  04C | 350/10KT  05C |
-FL100  | 330/40KT M00C | 350/30KT  02C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 320/15KT  11C | 310/05KT  12C |
+1000FT | 320/25KT  11C | 330/05KT  11C |
+1500FT | 330/25KT  09C | 330/05KT  11C |
+2000FT | 330/25KT  08C | 320/05KT  10C |
+3000FT | 340/25KT  06C | 040/05KT  07C |
+5000FT | 360/20KT  06C | 030/05KT  06C |
+FL100  | 340/35KT  00C | 360/25KT  02C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 310/20KT  16C | 300/10KT  11C |
-1000FT | 310/20KT  15C | 330/10KT  10C |
-1500FT | 310/25KT  12C | 350/10KT  09C |
-2000FT | 310/25KT  11C | 350/15KT  08C |
-3000FT | 310/25KT  08C | 340/15KT  06C |
-5000FT | 310/25KT  05C | 330/15KT  04C |
-FL100  | 340/40KT  00C | 350/35KT  01C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 290/15KT  13C | 290/05KT  13C |
+1000FT | 310/20KT  12C | 290/05KT  11C |
+1500FT | 320/25KT  10C | 320/05KT  09C |
+2000FT | 320/20KT  09C | 330/10KT  08C |
+3000FT | 330/20KT  07C | 340/15KT  06C |
+5000FT | 330/25KT  04C | 010/15KT  06C |
+FL100  | 340/35KT M00C | 360/25KT  02C |
 
 Turbulenz:
-Vereinzelt mäßig unterhalb von 2000-3000 FT AMSL, bis zum Abend
-nachlassend. Außerdem in und in der Nähe von TCU mäßig bis stark.
+Anfangs im Nordosten noch mäßig unterhalb von 2000 FT AMSL, im Laufe
+der Nacht von Südwesten nachlassend.
 
 Vereisung:
-In TCU mäßig bis stark. In der aufziehenden mittelhohen Bewölkung
-oberhalb der Nullgradgrenze lokal mäßig.
+In der AC/CI-Bewölkung oberhalb der Nullgradgrenze mit geringer
+Wahrscheinlichkeit mäßig bis FL160. In der Nacht abschwächend,
+nachfolgend nicht signifikant.
 
 Nullgradgrenze:
-Zwischen FL070 im Südosten und FL095-105 im Nordwesten. Bis eingangs
-der Nacht ansteigend bis auf FL120 im Norden und FL100 im Süden. Zum
-Berichtsende im gesamten Gebiet um FL115.
+Anfangs zwischen FL080-FL090 im Osten und FL105-FL115 im Westen. Bis
+zum Morgen im Osten auf um FL105 ansteigend. Nachfolgend wenig
+Änderung.
 
 Inversionen:
 Schwache Absinkinversion zwischen FL060 und FL090, kommende Nacht auf
-3000-5000 FT AMSL absinkend. Über Land in der Nacht Ausbildung einer
-schwachen Bodeninversion unterhalb von 1000 FT AMSL, in den
-Frühstunden rasch auflösend.
+3000-5000 FT AMSL absinkend, nachfolgend wenig Änderung. Über Land
+zudem weitere Intensivierung einer zurzeit schwachen Bodeninversion
+in wolkenfreien Bereichen auf Obergrenzen in 1000-1500 FT AMSL, in
+den Frühstunden nur zögerlich auflösend, teils zunächst auf 1000 FT
+AMSL anhebend und nachfolgend auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  17.24 | 18.00 | 04.31 | 05.07
-Hannover  17.23 | 17.55 | 04.33 | 05.07
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  04.31 | 05.07 | 17.21 | 17.57
+Hannover  04.33 | 05.07 | 17.20 | 17.53
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/SC
+Luftfahrtberatungszentrale Hamburg/RO
