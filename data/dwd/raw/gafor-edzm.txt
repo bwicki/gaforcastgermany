@@ -1,42 +1,42 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-442
-FBEU40 EDZM 201800
+885
+FBEU40 EDZM 210600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 20.09.2026, 18.00 UTC bis 21.09.2026, 15.00 UTC
+gültig vom 21.09.2026, 06.00 UTC bis 22.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Nachts überquert uns eine Kaltfront südwärts. Rückseitig fließt kühle
-Meeresluft ein, die am Montag rasch wieder unter Hochdruckeinfluss
-gelangt.
+Auf der Rückseite einer nach Südosten abgezogenen Kaltfront fließt
+aus Nordwesten kühle Luft nach Süddeutschland, die im Laufe des
+Montags rasch wieder unter Hochdruckeinfluss gerät. Die Alpen
+verbleiben bis in den Nachmittag im Nordstau.
 
 Wettergeschehen:
-Anfangs vor der Front im Süden BKN CI oberhalb FL200 und darunter von
-Norden zunehmende AC-Bewölkung bei FL120-150.
-Im Norden und in der Mitte geschlossene Kaltfrontbewölkung aus OVC
-SC/AC/AS mit Untergrenzen bei 4000-6000 FT AMSL. Es regnet öfter und
-bei 1500-2500 FT AMSL liegen zum Teil ST-Felder. Obergrenze bei FL160
-mit CI-CS-Schichten darüber.
-Die Front zieht weiter nach Süden und erreicht kurz nach Mitternacht
-den Alpenrand. Hier liegen dann die ST-Felder bei 2500-3500 FT AMSL.
-Im Norden bereits im Laufe der ersten Nachthälfte Übergang in
-Rückseitenwetter mit wenigen SC-Feldern bei 4000-5000 FT AMSL und
-noch CI-Feldern oberhalb FL240.
+Etwa südlich einer Linie Kempten - Salzburg liegt BKN/OVC ST mit
+Untergrenze zwischen 2000 und 3000 FT AMSL, Tops um FL120. Am
+Alpenrand können daraus noch letzte Tropfen Sprühregen fallen. Nach
+Norden hin lockert die Bewölkung rasch auf, im restlichen Gebiet muss
+oft nur in den Nordweststaulagen, vor allem aber entlang der
+östlichen Mittelgebirge mit flachen ST - Feldern bei 1500 bis 2000 FT
+AMSL gerechnet werden, nachts haben sich vor allem in Franken
+gebietsweise flache Nebelfelder gebildet. Darüber ziehen SCT/BKN CI -
+Felder oberhalb FL180 durch.
 
-Das Rückseitenwetter erreicht am Morgen die Linie Memmingen-München.
-Im Norden und in der Mittebilden sich in den Niederungen örtlich
-flache Nebelfelder, die sich zwischen 06 und 08 UTC auflösen oder in
-tiefe CU-Bewölkung übergehen. Südlich der Linie Memmingen-München am
-Tagesanfang noch BKN/OVC SC bei 4000-6000 FT AMSL und ST-Felder bei
-2500-3500 FT AMSL. Gelegentlich fällt noch Regen. Tops bei FL100.
-
-Am Vormittag im gesamten Bereich Übergang in SCT CU, am Alpenrand und
-über dem Nordosten Bayerns BKN CU, bei 3000-4000 FT AMSL. Bis zum
-Nachmittag lockert die CU-Bewölkung weiter auf und steigt auf
-5000-6000 FT AMSL an. Trocken.
+Vormittags zieht die Schichtbewölkung nach Südosten ab, gleichzeitig
+bilden sich tief ansetzende Quellwolken, entlang der Mittelgebirge
+und am Alpenrand überwiegend BKN, sonst FEW/SCT. Basis anfangs um
+2500 FT AMSL, im Tagesverlauf auf 4500 bis 5500 FT AMSL anhebend,
+Tops der Quellwolken zwischen FL090 im Osten und FL050 im Südwesten.
+Im Osten tendenziell etwas stärkere Bewölkung, nach Westfranken und
+Schwaben hin teils größere Wolkenlücken. Darüber weiterhin Durchzug
+von CI - Feldern.
+Abends trocknen die Quellwolken ab, an den östlichen Mittelgebirgen
+bleiben oft SCT SC - Schollen um 3000 FT AMSL übrig, sonst ist es
+verbreitet frei von tiefer Bewölkung. Im Laufe der Nacht bilden sich
+verbreitet flache Dunst- und Nebelfelder.
 
 Sichtweite:
 40 bis 80 km. Im Regen 8 bis 15 km, örtlich um 5 km. Am Morgen am
@@ -46,42 +46,40 @@ km bessernd.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 320/20KT  13C | 290/10KT  10C |
-2000FT | 320/20KT  13C | 290/10KT  10C |
-3000FT | 330/25KT  09C | 320/15KT  06C |
-5000FT | 320/30KT  06C | 330/20KT  03C |
-FL100  | 280/45KT  01C | 320/35KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 290/10KT  11C | 300/10KT  12C |
+2000FT | 290/10KT  10C | 310/15KT  12C |
+3000FT | 320/15KT  07C | 340/15KT  09C |
+5000FT | 330/20KT  03C | 340/15KT  05C |
+FL100  | 320/35KT  01C | 350/30KT M00C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 310/15KT  17C | 300/05KT  10C |
-3000FT | 310/25KT  13C | 310/10KT  07C |
-5000FT | 300/30KT  10C | 310/15KT  05C |
-FL100  | 280/40KT  02C | 310/30KT  00C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 300/05KT  10C | 300/10KT  13C |
+3000FT | 310/10KT  07C | 310/10KT  10C |
+5000FT | 310/15KT  05C | 320/10KT  06C |
+FL100  | 310/30KT  00C | 340/25KT M01C |
 
 Turbulenz:
-Bis Mitternacht an der Kaltfront gelegentlich mäßig unterhalb FL080.
+Keine mäßige oder starke Turbulenz.
 
 Vereisung:
-In der Kaltfront mäßig unterhalb FL160, in der 2. Nachthälfte kaum
-noch Vereisung durch das Absinken der Obergrenzen.
+Keine mäßige oder starke Turbulenz.
 
 Nullgradgrenze:
-Vor der Kaltfront um FL120. Rückseitig im Westen auf FL110 und im
-Osten auf FL070 absinkend.
+Im Westen um FL100, im Osten um FL065.
 
 Inversionen:
-Rückseitig der Front Absinkinversion um FL080. In der Nordhälfte am
-Morgen oft bodennahe Inversion um 2000 FT AMSL.
+Absinkinversion um FL080. In der Nordhälfte am Morgen oft bodennahe
+Inversion um 2000 FT AMSL. In der Nacht zum Dienstag bildet sich
+verbreitet eine flache Bodeninversion.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.27 | 05.00 | 17.16 | 17.49
 München  04.27 | 04.57 | 17.13 | 17.44
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 21.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/AG
+Luftfahrtberatungszentrale München/bq

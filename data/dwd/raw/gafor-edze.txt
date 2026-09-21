@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-684
-FBEU40 EDZE 210300
+102
+FBEU40 EDZE 210600 COR
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 21.09.2026, 03.00 UTC bis 22.09.2026, 00.00 UTC
+gültig vom 21.09.2026, 06.00 UTC bis 22.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -14,16 +14,16 @@ Wettergeschehen in Westdeutschland. Mit einer nordwestlichen Strömung
 fließt mäßig warme Meeresluft ein.
 
 Wettergeschehen:
-Durchzug von CI-Feldern oberhalb von FL230, am Morgen teils SCT/BKN
-AC/CI ab FL160. Örtlich bis gebietsweise SCT/BKN SC zwischen 3000 FT
-AMSL und FL060. In Hochlagen von Westerwald und Sauerland teils BKN
-ST in 500-1000 FT AGL. In Tal- und Muldenlagen des Berglands örtlich
+Am Morgen SCT/BKN AC/CI oberhalb FL140 bis FL180. Darunter örtlich
+bis gebietsweise SCT/BKN SC zwischen 3000 FT AMSL und FL060. In
+Hochlagen von Westerwald und Sauerland teils BKN ST in 500-1000 FT
+AGL. In Tal- und Muldenlagen des Berglands örtlich
 Dunst-/Nebelfelder.
 
 Am Vormittag Übergang zu SCT/BKN, teils LYR CU/SC-Bewölkung.
 Anfangsbasis der CU teils bei 1500-2000 FT AMSL, im Bergland um 1000
 FT AGL. Basis ansonsten meist bei 3000-4500 FT AMSL, Obergrenzen um
-FL055. Darüber BKN AC/CI etwa zwischen FL140 und FL220.
+FL055. Darüber SCT/BKN AC/CI etwa zwischen FL140 und FL220.
 
 Im Tagesverlauf weiter verbreitet SCT/BKN CU/SC, Basis am Nachmittag
 bis 4000 FT AMSL, Tops bis max. FL070. Die mittelhohe Bewölkung
@@ -31,34 +31,40 @@ darüber absinkend auf FL120-160 und später teils auflockernd.
 
 Am Abend und in der Nacht zum Dienstag zeitweise dünner SCT/BKN SC
 zwischen 2000 und 4000 FT AMSL, vor allem im Bergland in der Nacht
-zunehmend BKN ST in 300-800 FT AGL. Sonst weiterhin dünner CI. Meist
-niederschlagsfrei.
+zunehmend BKN ST in 300-800 FT AGL. Sonst weiterhin dünner CI.
+Abseits des Berglands im Laufe der Nacht zeitweise größere
+Auflockerungen und teils SKC oder nur FEW/SCT SC in 2000-3000 FT
+AMSL. Meist niederschlagsfrei.
+Zur zweiten Nachthälfte teils wieder etwas dichter werdende
+Bewölkung, dann stellenweise auch im Tiefland SCT/BKN ST unter 500 FT
+AGL oder Nebel.
 
 Sichtweite:
 In Tal- und Muldenlagen des Berglands am Morgen bei Bildung von
 Dunst- und Nebelfeldern Sichten unter 5 bzw. teils unter 1 km, sonst
 10-30 km. Am Vormittag Besserung auf 30-60 km. In der Nacht zum
 Dienstag häufiger Dunst- und bei Auflockerungen auch Nebelbildung.
+Abseits davon 10-30 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 240/05KT  11C | 310/10KT  17C |
-1000FT | 270/20KT  12C | 320/10KT  16C |
-1500FT | 280/20KT  12C | 320/15KT  14C |
-2000FT | 290/20KT  11C | 320/15KT  13C |
-3000FT | 300/20KT  09C | 320/15KT  10C |
-5000FT | 310/20KT  04C | 320/15KT  06C |
-FL100  | 320/30KT  03C | 340/25KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 230/05KT  13C | 360/05KT  15C |
+1000FT | 260/10KT  11C | 360/15KT  14C |
+1500FT | 300/15KT  12C | 350/10KT  12C |
+2000FT | 310/15KT  11C | 340/10KT  11C |
+3000FT | 310/15KT  08C | 320/10KT  09C |
+5000FT | 310/15KT  04C | 340/15KT  09C |
+FL100  | 330/30KT  01C | 350/30KT  02C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 250/05KT  10C | 310/05KT  15C |
-1500FT | 280/10KT  09C | 310/15KT  14C |
-2000FT | 290/15KT  10C | 320/15KT  13C |
-3000FT | 310/15KT  08C | 320/15KT  10C |
-5000FT | 330/20KT  04C | 320/15KT  06C |
-FL100  | 320/30KT  03C | 330/25KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 260/05KT  12C | 340/05KT  14C |
+1500FT | 260/10KT  10C | 350/10KT  12C |
+2000FT | 280/15KT  09C | 350/15KT  12C |
+3000FT | 300/15KT  08C | 340/15KT  09C |
+5000FT | 320/20KT  04C | 330/20KT  08C |
+FL100  | 340/30KT  03C | 340/25KT  01C |
 
 Turbulenz:
 Zunächst zeitweise noch mäßig oberhalb FL180, im Tagesverlauf
@@ -66,13 +72,13 @@ abschwächend.
 
 Vereisung:
 Am Morgen bis zum Mittag örtlich mäßig in mittelhoher Bewölkung ab
-FL140 bis FL220, im Tagesverlauf absinkend auf FL120-160, später
-nachlassend.
+FL140 bis FL260, lokal auch stark nicht völlig ausgeschlossen. Im
+Tagesverlauf absinkend auf FL120-160, später nachlassend.
 
 Nullgradgrenze:
-Bis zum Morgen im Nordosten auf FL095-FL100 ansteigend, im Südwesten
-um FL115. Tagsüber zwischen FL095 und FL110. In der Nacht zum
-Dienstag auf FL110-FL115 ansteigend.
+Am Morgen im Nordosten in FL095-FL100, im Südwesten um FL110.
+Tagsüber zwischen FL095 und FL110. In der Nacht zum Dienstag auf
+FL110-FL115 ansteigend, im Südwesten teils FL120.
 
 Inversionen:
 Absinkinversion zwischen FL055 und FL070. Darunter örtliche
@@ -86,6 +92,6 @@ Düsseldorf  04.44 | 05.17 | 17.34 | 18.06
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Regionale Wetterberatungszentrale Essen/oh
+Regionale Wetterberatungszentrale Essen/DB

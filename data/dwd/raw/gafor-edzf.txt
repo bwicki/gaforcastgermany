@@ -1,93 +1,73 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-443
-FBEU40 EDZF 201800
+886
+FBEU40 EDZF 210600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 20.09.2026, 18.00 UTC bis 21.09.2026, 15.00 UTC
+gültig vom 21.09.2026, 06.00 UTC bis 22.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Zu Beginn verläuft über Süd RLP und Baden-Württemberg noch von West
-nach Ost eine Kaltfront eines Tiefs über Nordfennoskandien. Diese
-bleibt in der Nacht dann an der Deutsch-Schweizer Grenze liegen und
-löst sich am Morgen auf. Damit setzt sich dort wie zuvor im
-restlichen Vorhersagegebiet Hochdruckeinfluss ausgehend von
-Westeuropa durch. Die nordwestliche Höhenströmung hat dabei eine
-kühle und eher trockene Luftmasse einfließen lassen. Nachts bildet
-sich teils eine feuchte Grundschicht aus.
+Rückseitig einer nach Südosten abgezogenen Kaltfront setzt sich von
+Südwesten her Hochdruckeinfluss durch. Aus der Nacht hält sich vor
+allem im Süden teils eine feuchtkalte Grundschicht, welche sich am
+Vormittag auflöst. Mit einer nordwestlichen Strömung wird kühlere und
+in höheren Schichten zunächst noch feuchte Luft herangeführt. Ab dem
+Abend trocknet die Luftmasse auch in der Höhe ab. In der Nacht zum
+Dienstag bildet sich dann wieder eine feuchtkalte Grundschicht.
 
 Wettergeschehen:
-Am Abend liegt zu Beginn über Baden-Württemberg und dem äußersten
-Süden von RLP eine BKN/OVC LYR SC/AC/CI Bewölkung mit Untergrenzen
-zwischen 4000-5000 FT AMSL und Obergrenzen bis FL220, aus welcher
-leichter Regen mit Sprühregen fällt. Im restlichen Vorhersagegebiet
-liegt gebietsweise FEW SC zwischen 3000-5000 FT AMSL. Teilweise ist
-es wolkenfrei.
-
-Im weiteren Verlauf des Abends und der Nacht zieht die BKN/OVC LYR
-SC/AC/CI Bewölkung nach Süden und schichtet immer weiter aus, sodass
-sie bis zum Morgen nur noch als BKN SC mit Untergrenzen zwischen
-3000-4000 FT AMSL und Obergrenzen bis FL060 über dem südlichen
-Oberrheingraben und Südschwarzwald liegt. Im restlichen
-Vorhersagegebiet löst sich der SC innerhalb der ersten Nachthälfte
-auf. Es ziehen wiederholt SCT/BKN AC/CI Felder oberhalb von FL180 von
-West nach Ost über RLP, Hessen und den Norden Baden-Württembergs
-durch. Im Süden von RLP bildet sich in der zweiten Nachthälfte Dunst
-und Nebel.
+Ganz im Süden halten sich am Morgen noch SC Felder um 2500 FT AMSL,
+das Bergland ist dort teils in Wolken. Sonst zeigen sich verbreitet
+SCT/BKN AC/CI Felder oberhalb von FL180. Aus der Nacht halten sich
+vor allem in südlichen Tallagen und im Flachland teils Dunst oder
+flache Nebelfelder.
 
 Am Morgen und Vormittag lösen sich Dunst und Nebel auf. Der BKN SC im
 südlichen Oberrheingraben und Südschwarzwald wird sich bis in die
-Mittagsstunden halten. In den östlichen Teilen des Vorhersagegebiets
-können noch SCT/BKN AC/CI Felder oberhalb von FL180 vorliegen. In den
-westlichen Teilen ist es zunächst gering bewölkt bis wolkenfrei.
-Gegen Mittag bildet sich SCT/BKN CU mit Basen zwischen 4000-5000 FT
-AMSL und TOPs bis FL070. Der SC im äußersten Süden wandelt sich dann
-ebenfalls in diese CU Bewölkung um.
+Mittagsstunden halten. Gegen Mittag bildet sich SCT/BKN CU mit Basen
+zwischen 4000-5000 FT AMSL und TOPs bis FL070. Der SC im äußersten
+Süden wandelt sich dann ebenfalls in diese CU Bewölkung um.
 
-Am Nachmittag bis Berichtsende verlassen die AC/CI Felder das
-Vorhersagegebiet. Die CU Bewölkung lockert zu FEW auf und die Basen
-heben auf 5000 FT AMSL bis FL060 an.
+Bis zum Abend lockern die AC/CI Felder zu FEW/SCT auf oder lösen sich
+teils gänzlich auf. Die CU Bewölkung lockert ebenfalls zu FEW auf und
+die Basen heben auf 5000 FT AMSL bis FL060 an, eingangs der Nacht
+löst sich die tiefe Bewölkung oft ganz auf.
 
 Sichtweite:
-30-60 km. Im Niederschlag auf 15-5 km, reduziert. Im Dunst 5-1 km, im
-Nebel unter 1 km.
+30-60 km. Am Morgen im Dunst 5-1 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 260/05KT  13C | 260/10KT  13C |
-1500FT | 290/10KT  11C | 260/10KT  11C |
-2000FT | 300/10KT  11C | 270/10KT  10C |
-3000FT | 320/25KT  08C | 310/20KT  08C |
-5000FT | 320/25KT  04C | 320/30KT  05C |
-FL100  | 320/35KT  01C | 330/35KT  03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 290/10KT  13C | 330/05KT  14C |
+1500FT | 290/10KT  11C | 350/10KT  13C |
+2000FT | 290/10KT  10C | 350/10KT  12C |
+3000FT | 320/20KT  08C | 350/15KT  09C |
+5000FT | 330/20KT  04C | 340/20KT  05C |
+FL100  | 330/35KT  02C | 340/25KT  01C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 350/15KT  18C | 030/10KT  14C |
-1500FT | 350/15KT  16C | 030/10KT  12C |
-2000FT | 350/15KT  15C | 040/10KT  11C |
-3000FT | 350/10KT  12C | 050/10KT  09C |
-5000FT | 280/20KT  09C | 010/05KT  07C |
-FL100  | 300/25KT  03C | 330/20KT  03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 030/10KT  14C | 070/05KT  16C |
+1500FT | 030/10KT  12C | 060/10KT  15C |
+2000FT | 050/10KT  11C | 060/10KT  14C |
+3000FT | 060/10KT  09C | 050/10KT  10C |
+5000FT | 030/05KT  07C | 030/10KT  06C |
+FL100  | 340/25KT  03C | 340/20KT  01C |
 
 Turbulenz:
-Bis zum Beginn der zweiten Nachthälfte über Nordhessen mäßig oberhalb
-von FL160. Anschließend nach Osten abziehend.
+Nicht signifikant.
 
 Vereisung:
-Anfangs über Baden-Württemberg mäßig zwischen FL110-220. Im Laufe der
-Nacht deutlich abschwächend.
+Nicht signifikant.
 
 Nullgradgrenze:
-Anfangs zwischen FL070 im Norden und FL130 im Süden. Im Verlauf der
-Nacht im Norden auf FL100 ansteigend und im Süden auf FL125
-absinkend.
+Zwischen FL100 im Norden und FL125 im Süden.
 
 Inversionen:
-In der kommenden Nacht flache Bodeninversion unterhalb 500 FT AGL, am
+Aus der Nacht flache Bodeninversion unterhalb 500 FT AGL, am
 Vormittag rasch auflösend. Am Morgen Bildung einer Absinkinversion
 zwischen 5000 FT AMSL und FL070, im Vormittagsverlauf auf FL070-80
 ansteigend.
@@ -95,10 +75,9 @@ ansteigend.
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.36 | 05.10 | 17.26 | 17.57
 Karlsruhe  04.40 | 05.11 | 17.27 | 17.57
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 21.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/lb
+Flugwetterzentrale Frankfurt/Hr
