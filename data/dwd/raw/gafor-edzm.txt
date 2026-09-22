@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-844
-FBEU40 EDZM 211800
+323
+FBEU40 EDZM 220600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
+gültig vom 22.09.2026, 06.00 UTC bis 23.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
@@ -14,76 +14,80 @@ Einfluss nach Osten aus. Dadurch trocknet die, aus Nordwesten
 eingeflossene kühle Luft weiter ab.
 
 Wettergeschehen:
-Vom Steigerwald bis zur unteren Donau und östlich davon SCT SC mit
-Untergrenzen zwischen 4500 und 5500 FT AMSL, Obergrenzen um FL090. An
-den Alpen BKN SC mit Untergrenzen zwischen FL050 und FL060,
-Obergrenzen um FL070. Zudem verbreitet SCT AC oberhalb etwa FL180. Im
-äußersten Südwesten nur CI oberhalb FL245.
+Nordöstlich einer Linie Hohenloher Ebene - Mangfall Gebirge BKN SC
+mit Untergrenze in 4000 bis 5000 FT AMSL, Obergrenze um FL065.
+Besonders im Frankenwald und Teilen Oberbayerns teils darunter in den
+Morgenstunden ST-Felder mit Untergrenze um 3000 FT AMSL. Weiter
+westlich klar oder Durchzug von AC-Feldern zwischen FL130 und FL160.
+Besonders dort wo es aufgelockerter ist, aber auch an
+Flussniederungen und in Mainfranken haben sich flache Dunst- und
+Nebelfelder unterhalb 2200 FT AMSL ausgebildet.
 
-Nachts leichtes Ausdehnen der SC-Felder nach Westen und an
-Bedeckungsgrad zunehmend. Am Morgen vom Steigerwald bis zum
-Mangfall-Gebirge und östlich davon BKN SC mit Untergrenzen zwischen
-4500 und 5000 FT AMSL, Obergrenzen um FL070. Westlich dieser Regionen
-meist klar. Dort örtlich Dunst oder Nebel unterhalb 2200 FT AMSL.
-Sonst nur noch vereinzelt Durchzug von FEW AC zwischen FL130 und
-FL160.
+In den Morgenstunden löst sich der Dunst und Nebel auf. Der SC
+lockert vielerorts auf, besonders in Niederbayern sowie von
+Oberbayern bis zum Bayrischen Wald bleibt der SC jedoch vielerorts
+als BKN bestehen. Im Vormittagsverlauf geht der SC in CU über und
+auch weiter westlich kommt es zur Bildung von flachen FEW/SCT CU.
+Untergrenze an den östlichen Mittelgebirgen in 4000 bis 4500 FT AMSL,
+Obergrenzen um FL060. Ansonsten Untergrenze meist zwischen 3500 und
+4000 FT AMSL, nach Westen aufgelockerter. Lokal noch Durchzug von AC-
+Feldern oberhalb FL120.
 
-Im Vormittagsverlauf Auflösen von Dunst und Nebel. Zudem Übergang des
-SC zu CU. Am Mittag entlang der östlichen Mittelgebirge BKN CU mit
-Untergrenzen zwischen 4000 und 4500 FT AMSL und Obergrenzen um FL060.
-Sonst eher flache CU mit Basis zwischen 3500 und 4500 FT AMSL, nach
-Westen hin an Bedeckungsgrad abnehmend. Im äußersten Südwesten
-überwiegend wolkenlos.
-
-Am Nachmittag weiteres Anheben und beginnendes Auflösen der CU. Zum
-Berichtsende nördlich der Donau SCT/BKN CU mit Untergrenzen zwischen
-4500 und 5000 FT AMSL, südlich der Donau FEW/SCT mit Basis zwischen
-FL055 und FL060.
+Am Nachmittag Anheben der Untergrenzen und beginnendes Auflösen des
+CU. Untergrenzen dann verbreitet zwischen 4500 und 5000 FT AMSL,
+südlich der Donau in FL055 bis FL060.
+Am Abend geht der CU in SC über mit ähnlichen Untergrenzen. Dabei
+löst sich der SC am Abend und in der ersten Nachthälfte zügig weiter
+auf. Am längsten bleibt der SC in Mainfranken und Mittelfranken
+bestehen, löst sich aber auch dort im Verlauf der ersten Nachthälfte
+auf. Lokal bleiben noch SC-Felder übrig. Vielerorts kommt es im
+Verlauf der Nacht zur Bildung von Nebel oder Dunst.
 
 Sichtweite:
 Verbreitet 30-60 km. Nachts bei Nebel unter 1, im Dunst 1 bis 5 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 300/10KT  12C | 330/05KT  12C |
-2000FT | 310/15KT  12C | 330/05KT  11C |
-3000FT | 340/15KT  09C | 330/05KT  06C |
-5000FT | 330/20KT  05C | 020/10KT  03C |
-FL100  | 340/30KT M01C | 360/30KT M00C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 340/10KT  12C | 070/05KT  12C |
+2000FT | 340/10KT  11C | 070/10KT  12C |
+3000FT | 330/10KT  06C | 060/05KT  08C |
+5000FT | 360/10KT  02C | 070/05KT  04C |
+FL100  | 360/30KT  00C | 010/20KT  02C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 310/10KT  13C | 330/05KT  11C |
-3000FT | 310/10KT  10C | 330/10KT  07C |
-5000FT | 320/15KT  06C | 300/15KT  04C |
-FL100  | 340/25KT M01C | 350/25KT M02C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 330/05KT  11C | 060/05KT  12C |
+3000FT | 330/10KT  07C | 070/05KT  09C |
+5000FT | 300/15KT  04C | 250/05KT  06C |
+FL100  | 350/30KT M02C | 010/15KT  00C |
 
 Turbulenz:
-Anfangs entlang der östlichen Mittelgebirge teils mäßig unterhalb
-FL060. Nachts abschwächend.
+Es wird keine mäßige oder starke Turbulenz erwartet.
 
 Vereisung:
 Es wird keine mäßige oder starke Vereisung erwartet.
 
 Nullgradgrenze:
-Zwischen FL115 in Oberschwaben und FL070 entlang der östlichen
-Mittelgebirge. Am Dienstagnachmittag, abseits des äußersten
-Südostens, leicht ansteigend. Zum Berichtsende zwischen FL100 und
-FL125, mit den höchsten Werten in Oberschwaben.
+Zwischen FL105 am Bodensee und FL060 an den östlichen Mittelgebirgen.
+Im Osten örtlich mehrfach zwischen FL060 und FL080. Tagsüber von
+Nordwesten ansteigend, bis zum Berichtsende auf FL125 im Westen und
+FL105 in der Oberpfalz. Am südlichen Bayrischen Wald sowie im
+Innviertel noch tiefer zwischen FL070 und FL090.
 
 Inversionen:
-Absinkinversion um FL070. Nachts leicht absinkend. Nachts verbreitet
-Bildung einer Bodeninversion mit Obergrenze zwischen 2000 und 3000 FT
-AMSL, am Dienstagvormittag wieder abbauend.
+Absinkinversion um FL065, am Dienstag absinkend auf FL055. Zudem hat
+sich verbreitet eine Bodeninversion gebildet mit Obergrenze zwischen
+2000 und 3000 FT AMSL, am Dienstagvormittag wieder abbauend. In der
+Nacht zum Mittwoch erneut Ausbildung einer Absinkinversion unterhalb
+von 2000 bis 3000 FT AMSL.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.29 | 05.02 | 17.14 | 17.46
 München  04.27 | 04.59 | 17.11 | 17.42
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/zo
+Luftfahrtberatungszentrale München/ma

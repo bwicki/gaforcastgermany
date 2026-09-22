@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-151
-FBEU40 EDZE 220300
+178
+FBEU40 EDZE 220600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 22.09.2026, 03.00 UTC bis 23.09.2026, 00.00 UTC
+gültig vom 22.09.2026, 06.00 UTC bis 23.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
@@ -12,32 +12,32 @@ Wetterlage und -entwicklung:
 Ein Hochdruckgebiet verschiebt seinen Schwerpunkt vom Ärmelkanal nach
 Süddeutschland und führt bei einer nördlichen Strömung mäßig warme
 Meeresluft heran. Bei bodennah geringen Luftdruckgegensätzen hat sich
-örtlich eine feuchte Grundschicht gebildet, die am Vormittag anhebt.
+örtlich eine feuchte Grundschicht gebildet, die am Vormittag anhebt
+und sich schließlich auflöst.
 
 Wettergeschehen:
-Neben wolkenlosen Bereichen zeigen sich örtlich SCT/BKN SC zwischen
-2000 und 4000 FT AMSL, darüber aus Norden verdichtende BKN
-SC/AC-Schicht ab FL065-080 mit Obergrenzen FL100-120. Im Bergland
-breitet sich bis zum Morgen häufig ST unter 500 FT AGL aus, in den
-Tälern und auch im Tiefland vereinzelt Dunst- und Nebelfelder.
+Es zeigt sich gebietsweise SCT/BKN zwischen 2500 und 4500 FT AMSL,
+darüber vor allem im Westen weitere Schichten ab FL060-070 mit
+Obergrenzen um FL100. Im Bergland hat sich vereinzelt BKN ST
+unterhalb 500 FT AGL gebildet, in dortigen Tälern bei geringer
+Bewölkung auch Dunst oder Nebel.
 
-Am Vormittag gehen die ST- und Nebelfelder zögerlich in SCT/BKN CU
-über. Anfangsbasis oft unter 1000 FT AGL, bis zum Mittag auf
-2000-3000 FT AMSL ansteigend. Auch im restlichen Gebiet bilden sich
-bis zum Mittag CU mit ähnlichen Bedingungen. Darüber hauptsächlich im
-Westen geschichtete SC/AC-Schichten ab 5000 FT AMSL mit Obergrenzen
-um FL090.
+Im Vormittagsverlauf bilden sich unterhalb der SC-Schicht tief
+ansetzende CU mit Anfangsbasis unter 1000 FT AGL, bis zum Mittag auf
+2000-3000 FT AMSL ansteigend. Auch die ST- und Nebelfelder gehen
+allmählich in CU über. Darüber hauptsächlich im Westen geschichtete
+SC/AC-Schichten ab 5000 FT AMSL mit Obergrenzen um FL090.
 
 Am Nachmittag breiten sich die CU inversionsbedingt gebietsweise zu
 BKN CU/SC mit Untergrenzen 3500-4000 FT AMSL aus, Schwerpunkt
 voraussichtlich östlich des Rheins. Im Westen tendenziell weniger CU
-und nur noch im Nordwesten SC-Felder um FL060.
+und nur noch im Nordwesten SC-Felder um FL060. Niederschlagsfrei.
 
 In der Nacht zum Mittwoch lockern die SC-Felder verbreitet auf und es
-wird wolkenlos. Lediglich im äußersten Nordwesten ist eine dünne
-SCT/BKN SC-Schicht zwischen 3000 und 4500 FT AMSL möglich. Später im
-Verlauf bilden sich in den Mittelgebirgstälern und vereinzelt im
-Tiefland Dunst- und Nebelfelder.
+wird wolkenlos. Lediglich im Nordwesten bleibt eine dünne SCT/BKN
+SC-Schicht zwischen 3000 und 4500 FT AMSL bestehen. Später im Verlauf
+bilden sich in den Mittelgebirgstälern und vereinzelt im Tiefland
+Dunst- und Nebelfelder.
 
 Sichtweite:
 15-30 km, unter ST oder bei Dunst teilweise 2-5 km, bei Nebel und
@@ -47,23 +47,23 @@ Bergland erneut flache Dunst- und Nebelschwaden möglich.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 300/05KT  12C | 010/05KT  16C |
-1000FT | 360/05KT  12C | 030/05KT  15C |
-1500FT | 350/05KT  10C | 040/05KT  13C |
-2000FT | 350/05KT  09C | 040/05KT  12C |
-3000FT | 350/10KT  08C | 050/05KT  09C |
-5000FT | 350/15KT  08C | 010/10KT  10C |
-FL100  | 350/25KT  04C | 020/15KT  03C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 310/05KT  13C | 090/05KT  16C |
+1000FT | 320/05KT  12C | 090/05KT  15C |
+1500FT | 350/05KT  10C | 080/05KT  13C |
+2000FT | 360/05KT  09C | 080/05KT  11C |
+3000FT | 360/05KT  07C | 080/05KT  09C |
+5000FT | 010/15KT  08C | 020/10KT  11C |
+FL100  | 010/25KT  03C | 020/15KT  04C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 330/05KT  11C | 040/05KT  15C |
-1500FT | 350/05KT  10C | 040/05KT  13C |
-2000FT | 360/05KT  09C | 040/05KT  12C |
-3000FT | 350/05KT  07C | 040/05KT  09C |
-5000FT | 360/15KT  08C | 020/05KT  09C |
-FL100  | 360/30KT  05C | 020/15KT  04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 330/05KT  13C | 080/05KT  13C |
+1500FT | 340/05KT  11C | 080/10KT  12C |
+2000FT | 340/05KT  10C | 080/10KT  11C |
+3000FT | 010/05KT  07C | 080/10KT  08C |
+5000FT | 360/15KT  08C | 050/10KT  09C |
+FL100  | 010/25KT  04C | 020/15KT  04C |
 
 Turbulenz:
 Nicht signifikant.
@@ -89,6 +89,6 @@ Düsseldorf  04.44 | 05.19 | 17.32 | 18.04
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Regionale Wetterberatungszentrale Essen/JK
+Regionale Wetterberatungszentrale Essen/LU

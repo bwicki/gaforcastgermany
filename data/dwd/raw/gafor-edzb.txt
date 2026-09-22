@@ -1,85 +1,76 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-848
-FBEU40 EDZB 211800
+312
+FBEU40 EDZB 220600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 21.09.2026, 18.00 UTC bis 22.09.2026, 15.00 UTC
+gültig vom 22.09.2026, 06.00 UTC bis 23.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Ein Hoch mit Schwerpunkt über England, Nordfrankreich und Benelux
-weitet seinen Einflussbereich nach Osten aus und die zuvor
-wetterbestimmende labil geschichtete Meeresluft wird dabei aus dem
-Vorhersagegebiet verdrängt. Bei nordwestlicher Grundströmung
-stabilisiert sich die mäßig warme Luftmasse und zum Dienstag kann
-sich stellenweise vorübergehend eine feuchte Grundschicht ausbilden.
+Auf der Ostflanke eines Hochs mit dem Schwerpunkt über dem Westen
+Deutschlands fließt mit nordwestlicher Strömung mäßig warme und
+leicht labil geschichtete Meeresluft ein.
 
 Wettergeschehen:
-Im Gebiet stellenweise wolkenfreie Bereiche, aber in der Mehrheit
-noch FEW/SCT oder SCT/BKN CU/SC mit Untergrenzen in 3500 bis 4500 FT
-AMSL, Obergrenzen meist bei FL060 bis FL080. Richtung Lausitz und
-teils im Bereich des Erzgebirges zunächst auch noch etwas
-höherreichende Quellwolkentops bis etwa FL100, dort anfangs lokal
-letzte schwache bis leichte Schauer möglich.
-In den kommenden Stunden insbesondere von Nordosten bzw. von der
-Küste her Bewölkungsrückgang und zur Nacht dort zunächst dann nur
-noch lokal flache SC-Schollen. In der Süd-/Südwesthälfte des
-Vorhersagegebiets in der Nacht hingegen weiterhin häufiger
-SCT/BKN-Bedingungen. Untergrenzen im Verlauf nach und nach absinkend
-auf 2000 bis 3500 FT AMSL, im Nordweststau der Mittelgebirge damit
-auch ST möglich, höhere Berglagen teils in Wolken oder Untergrenzen
-in wenigen hundert FT AGL. Ausgangs der Nacht auch von
-Mecklenburg-Vorpommern bis zur Lausitz mitunter ebenfalls flache
-ST-Bildung unter 500 FT AGL nicht ausgeschlossen.
-Am Dienstagvormittag allmähliches Anheben und Auflockern von
-vorhandenem ST im Osten, Richtung Erzgebirge zäher anhebend, dort bis
-zum späten Vormittag teils Untergrenzen bei 700 bis 1200 FT AGL.
-Ansonsten Erhalt bzw. Neubildung von CU/SC, im Norden als FEW/SCT,
-lokal BKN, im Süden/Südwesten zumeist als SCT/BKN. Untergrenzen bei
-2000 bis 4000 FT AMSL mit den tieferen Werten im Norden.
-Am Nachmittag Basis auf 2500 bis 5000 FT AMSL anhebend. Obergrenzen
-zwischen 5000 FT AMSL und FL080 mit den höheren Werten im Osten.
-Voraussichtlich niederschlagsfrei.
+Zunächst nordöstlich der Elbe meist wolkenfrei und trocken. Von
+Vorpommern bis in den Osten Brandenburgs vereinzelt SCT/BKN ST bei
+600 bis 1200 FT AGL mit Obergrenzen bis 1500 FT AGL.
+Südwestlich der Elbe meist SCT/BKN, lokal BKN/OVC SC bei 2500 bis
+3500 FT AMSL mit Tops bis FL065. Darunter besonders in den
+Nordweststaulagen der Mittelgebirge SCT/BKN ST/SC bei 1000 bis 2000
+FT AGL, lokal 40 bis 800 FT AGL mit den Kammlagen in Wolken sowie
+örtlichen Dunst- bzw. Nebelfeldern. Dabei meist niederschlagsfrei.
+
+Bis zum Vormittag langsam auflösende Dunst,- Nebel- und
+Stratusfelder. Dafür Bildung bzw. Übergang in FEW/SCT, nach Süden
+SCT/BKN CU/SC in 1500 bis 2500 FT AMSL, lokal um 1000 FT AGL mit Tops
+bis 5000 FT AMSL. Kammlagen der Mittelgebirge weiterhin häufig in
+Wolken. Dabei trocken.
+
+In den Mittags- und Nachmittagsstunden weiterer Übergang in FEW/SCT,
+teils SCT/BKN CU/SC in 3500 bis 4500 FT AMSL, in Thüringen meist in
+2000 bis 3000 FT AMSL, Tops bei FL060 bis FL080. Trocken.
+
+Ab dem Abend langsam wolkenfrei, nur örtlich flache SC-Felder um 5000
+FT AMSL.
 
 Sichtweite:
-30 bis 60 km. Unter tieferem ST vorübergehend 5 bis 15 km.
+Meist oberhalb 20 bis 50 km. Unter tieferem ST im Dunst 2 bis 5 km,
+im Nebel 200 bis 800 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 300/15KT  11C | 320/10KT  12C |
-1000FT | 310/25KT  10C | 320/10KT  11C |
-1500FT | 330/25KT  09C | 350/15KT  10C |
-2000FT | 340/25KT  09C | 360/10KT  10C |
-3000FT | 340/25KT  06C | 360/10KT  08C |
-5000FT | 350/25KT  02C | 360/15KT  04C |
-FL100  | 340/30KT M03C | 010/20KT M02C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 330/10KT  12C | 340/05KT  13C |
+1000FT | 330/10KT  11C | 350/10KT  13C |
+1500FT | 360/15KT  10C | 360/10KT  11C |
+2000FT | 360/15KT  10C | 360/10KT  10C |
+3000FT | 360/10KT  08C | 360/10KT  08C |
+5000FT | 010/15KT  03C | 360/15KT  04C |
+FL100  | 010/25KT M02C | 010/30KT  00C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 310/15KT  13C | 320/05KT  11C |
-1500FT | 320/20KT  11C | 320/05KT  09C |
-2000FT | 320/25KT  10C | 320/05KT  08C |
-3000FT | 330/30KT  06C | 350/10KT  05C |
-5000FT | 330/25KT  03C | 020/10KT  03C |
-FL100  | 340/40KT M03C | 010/20KT M03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 330/05KT  11C | 320/10KT  14C |
+1500FT | 330/05KT  09C | 340/10KT  13C |
+2000FT | 330/05KT  08C | 340/10KT  12C |
+3000FT | 340/10KT  04C | 360/10KT  08C |
+5000FT | 020/10KT  03C | 010/10KT  03C |
+FL100  | 010/25KT M02C | 010/25KT  01C |
 
 Turbulenz:
-Anfangs an der See und über den Kammlagen der Mittelgebirge noch
-Wind- und stürmische Böen, in den kommenden Stunden jedoch
-nachlassend. Ansonsten zu Beginn meist bodennah nur leichte
-Turbulenz, ebenfalls nachlassend.
-
-Vereisung:
 Nicht signifikant.
 
+Vereisung:
+An der unterkühlten Obergrenze der SC/CU-Bewölkung meist leicht,
+lokal mäßig unterhalb FL065.
+
 Nullgradgrenze:
-Im Osten bei FL060 bis FL075, im Westen bei FL080 bis FL095. Zum
-Dienstagmorgen etwa um 5000 FT anhebende Nullgradgrenzen. Am
-Nachmittag an der Oder-Neiße-Grenze um FL070, im Westen des Gebiets
-zwischen FL105 und FL115.
+Zunächst bei FL055 bis FL065, lokal um FL075. Im Tagesverlauf von
+Westen langsam auf FL105 bis FL115 ansteigend, in Oder- und Neißenähe
+bis zum Berichtsende meist zwischen FL060 und FL080.
 
 Inversionen:
 Absinkinversion an der Obergrenze der CU/SC-Bewölkung. Kommende Nacht
@@ -91,7 +82,6 @@ Leipzig  04.22 | 04.57 | 17.10 | 17.42
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 22.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/dh
+Luftfahrtberatungszentrale Berlin/Qe
