@@ -1,28 +1,31 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-780
-FBEU40 EDZB 221200
+292
+FBEU40 EDZB 221800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 22.09.2026, 12.00 UTC bis 23.09.2026, 09.00 UTC
+gültig vom 22.09.2026, 18.00 UTC bis 23.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
 Auf der Ostseite eines Hochs mit dem Schwerpunkt über dem Westen
 Deutschlands fließt mit nordwestlicher Strömung mäßig warme und
-leicht labil geschichtete Meeresluft ein.
+stabil geschichtete Meeresluft ein.
 
 Wettergeschehen:
-FEW/SCT, teils SCT/BKN CU/SC in 3500 bis 4500 FT AMSL, in Thüringen
-meist in 2000 bis 3000 FT AMSL, Tops bei FL060 bis FL080. Trocken.
+Zu Beginn noch flache FEW CU/SC in 3500 bis 4500 FT AMSL, Tops bei
+FL060 bis FL080, im weiteren Verlauf vielerorts auflösend oder
+bereits wolkenfrei.
 
-Im Verlauf des Abends langsam wolkenfrei, nur örtlich flache
-SC-Felder um 5000 FT AMSL.
-
-In der Nacht kann es lokal zu Dunst oder flachen Nebelfeldern kommen,
+In der Nacht zum Mittwoch lokal Dunst oder flache Nebelfelder,
 vereinzelt mit SCT/BKN ST in 100 bis 500 FT AGL, Tops 1000 FT AGL, am
-Mittwochvormittag auflösend
+Mittwochvormittag auflösend.
+
+Am Mittwoch über Brandenburg und Sachsen Bildung von FEW CU/SC
+zwischen 3000 und 4000 FT AMSL, nachmittags bereits wieder auflösend,
+von Thüringen über Sachsen-Anhalt bis Mecklenburg-Vorpommern tagsüber
+ohnehin kaum Bewölkung.
 
 Sichtweite:
 20 bis 50 km. In der Nacht lokal 1 bis 5 km, im Nebel unter 1000 m
@@ -30,47 +33,47 @@ möglich.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 340/10KT  16C | 310/10KT  11C |
-1000FT | 340/10KT  15C | 330/10KT  12C |
-1500FT | 340/10KT  12C | 330/10KT  11C |
-2000FT | 340/10KT  11C | 340/10KT  11C |
-3000FT | 340/10KT  08C | 350/10KT  08C |
-5000FT | 340/10KT  04C | 360/15KT  05C |
-FL100  | 360/25KT  00C | 020/25KT  00C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 340/05KT  12C | 280/05KT  13C |
+1000FT | 350/10KT  12C | 280/05KT  12C |
+1500FT | 010/10KT  11C | 290/10KT  10C |
+2000FT | 360/10KT  10C | 290/10KT  10C |
+3000FT | 360/10KT  08C | 280/10KT  08C |
+5000FT | 350/10KT  04C | 320/05KT  06C |
+FL100  | 010/35KT  00C | 010/20KT  00C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 320/05KT  15C | 300/05KT  11C |
-1500FT | 320/05KT  13C | 320/05KT  11C |
-2000FT | 330/05KT  12C | 330/05KT  11C |
-3000FT | 330/05KT  08C | 330/10KT  07C |
-5000FT | 340/05KT  03C | 340/10KT  04C |
-FL100  | 010/25KT M01C | 010/25KT  01C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 320/10KT  14C | 250/05KT  12C |
+1500FT | 330/10KT  13C | 280/05KT  11C |
+2000FT | 340/10KT  12C | 280/05KT  10C |
+3000FT | 350/10KT  08C | 300/05KT  07C |
+5000FT | 010/05KT  03C | 010/05KT  04C |
+FL100  | 010/25KT  01C | 020/20KT  01C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-An der unterkühlten Obergrenze der SC/CU-Bewölkung meist leicht,
-anfangs vereinzelt mäßig unterhalb FL065.
+An der unterkühlten Obergrenze der SC/CU-Bewölkung meist leicht.
 
 Nullgradgrenze:
-Im Osten FL065 bis FL075, im Westen FL100 bis FL110. In der Nacht
-kaum Änderung Mittwochvormittag dann zwischen FL090 im Osten und
-FGL100 bis FL105 im Westen.
+Im Osten FL065 bis FL075, im Westen FL100 bis FL110. Nachts kaum
+Änderung.
+Am Mittwoch dann zwischen FL090 im Osten und FL100 bis FL105 im
+Westen.
 
 Inversionen:
-Absinkinversion an der Obergrenze der CU/SC-Bewölkung. In der Nacht
-zum Mittwoch schwache Bodeninversion bis 1000 FT AGL.
+Absinkinversion an der Obergrenze der CU/SC-Bewölkung.
+In der Nacht zum Mittwoch schwache Bodeninversion bis 1000 FT AGL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  17.05 | 17.37  | 04.20 | 04.53
-Leipzig  17.10 | 17.42  | 04.24 | 04.58
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.20 | 04.53 | 17.02 | 17.37
+Leipzig  04.24 | 04.58 | 17.07 | 17.41
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 23.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Wo
+Luftfahrtberatungszentrale Berlin/SB

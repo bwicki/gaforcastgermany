@@ -1,93 +1,88 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-787
-FBEU40 EDZM 221200
+505
+FBEU40 EDZM 221800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 22.09.2026, 12.00 UTC bis 23.09.2026, 09.00 UTC
+gültig vom 22.09.2026, 18.00 UTC bis 23.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Unter Hochdruckeinfluss trocknet die eingeflossene kühle Meeresluft
-weiter ab. In der Nacht zum Mittwoch bildet sich gebietsweise eine
-feucht-kalte Grundschicht aus, die im Laufe des Morgens wieder
-abgebaut wird.
+weiter ab. In der Nacht bildet sich gebietsweise eine feucht-kalte
+Grundschicht aus, die am Mittwochmorgen wieder abgebaut wird.
 
 Wettergeschehen:
-Etwa nordöstlich einer Linie Ulm - Bad Tölz zeigt sich SCT/BKN,
-südwestlich davon FEW/SCT CU, Basis des CU zwischen 4000 FT AMSL und
-FL060. In der Nordosthälfte breitet der CU gebietsweise zu BKN SC
-zwischen FL050 und FL070, im Südosten Bayerns zwischen FL070 und
-FL090 aus. Im Südwesten Schwabens ziehen darüber einzelne AC-Schollen
-zwischen FL100 und FL140 durch, im übrigen Gebiet einzelne CI-Felder
-oberhalb FL180.
+In Ostbayern liegt SCT/BKN SC mit Untergrenze um FL055 bis FL060. Die
+Obergrenze der flachen Bewölkung reicht bis etwa FL070. Richtung
+Westen wird die Bewölkung immer dünner und weniger. Im
+Kocher-Jagst-Gebiet, auf der Schwäbischen Alb und in Schwaben ist es
+verbreitet wolkenlos.
 
-Bereits im Laufe des späten Nachmittags beginnt der CU abzutrocknen.
-Am Abend erfolgt ein Übergang in SC-Schollen zwischen FL050 und
-FL080. Diese trocknen im Laufe der Nacht weiter ab, zuletzt
-wahrscheinlich in Teilen Frankens und am östlichen Alpenrand.
+Im Laufe der Nacht löst sich die SC Bewölkung auch in Ostbayern
+langsam auf. In der zweiten Nachthälfte bilden sich örtlich flache
+Nebelfelder. Entlang von Main, Donau und den zugehörigen Zuflüssen
+auch höherreichender und größerer Nebelfelder.
 
-Im Laufe der Nacht zum Mittwoch bildet sich gebietsweise flacher
-Nebel aus. Dieser kann besonders entlang von Main, Donau und den
-zugehörigen Zuflüssen auch höherreichender und dichter werden.
+Am Mittwochmorgen löst sich der Nebel rasch auf. In Niederbayern, der
+Oberpfalz und in Oberfranken halten sich einige größere Nebelfelder
+auch in den Vormittag, lösen sich aber auch hier zwischen 8 und 9 UTC
+auf. Anschließend ist es am Vormittag verbreitet wolkenfrei oder es
+ziehen dünne AC Wolkenfelder um FL100 oder CI-Felder oberhalb FL240
+durch.
+An den östlichen Mittelgebirgen bilden sich FEW CU mit Basis zwischen
+3500 und 4500 FT AMSL.
 
-Im Laufe des Mittwochmorgens löst sich der Nebel auf. Anschließend
-ist es am Vormittag verbreitet wolkenfrei oder es ziehen einzelne
-AC-Schollen um FL100 oder CI-Felder oberhalb FL240 durch. Zudem
-entstehen entlang der östlichen Mittelgebirge erste FEW CU mit Basis
-zwischen 3500 und 4500 FT AMSL.
+Nachmittags bleibt es verbreitet wolkenlos. Die Basis der FEW CU an
+den östlichen Mittelgebirgen steigt auf FL055 an, ab den späten
+Nachmittag trocknet auch hier die flache Quellbewölkung ab.
 
 Sichtweite:
-Verbreitet 30-60 km. In der Nacht zum Mittwoch Rückgang auf 20 bis 40
-km, bei Dunst 1 bis 5 km, bei Nebel wenige hundert Meter. Am Mittwoch
-Sichtbesserung auf 40 bis 70 km.
+Verbreitet 30-60 km. Im Laufe der Nacht Rückgang auf 20 bis 40 km,
+bei Nebel wenige hundert Meter. Am Mittwoch Sichtbesserung auf 40 bis
+70 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 350/05KT  14C | 070/05KT  09C |
-2000FT | 350/05KT  13C | 070/05KT  09C |
-3000FT | 350/05KT  08C | 060/05KT  07C |
-5000FT | 350/05KT  04C | 040/05KT  06C |
-FL100  | 360/25KT  02C | 010/20KT  03C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 060/05KT  12C | 100/05KT  11C |
+2000FT | 060/05KT  12C | 100/05KT  11C |
+3000FT | 040/05KT  07C | 120/05KT  07C |
+5000FT | 040/05KT  03C | 090/05KT  06C |
+FL100  | 010/20KT  01C | 010/15KT  04C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 340/10KT  15C | 080/05KT  09C |
-3000FT | 340/10KT  11C | 100/05KT  08C |
-5000FT | 330/10KT  07C | 010/05KT  04C |
-FL100  | 350/20KT  00C | 360/20KT  03C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 070/05KT  12C | 090/05KT  11C |
+3000FT | 080/05KT  08C | 100/05KT  08C |
+5000FT | 070/05KT  05C | 040/05KT  05C |
+FL100  | 360/15KT  00C | 360/15KT  03C |
 
 Turbulenz:
-Keine mäßige oder starke Turbulenz.
+Es wird keine mäßige oder starke Turbulenz erwartet.
 
 Vereisung:
-Keine mäßige oder starke Vereisung.
+Keine.
 
 Nullgradgrenze:
-Zunächst zwischen FL065 am Bayerischen Wald und FL120 am Bodensee. Im
-Tagesverlauf verbreitet ansteigend, gegen Mitternacht zwischen FL080
-am Bayerischen Wald und FL125 in der Westhälfte, in Niederbayern
-weiterhin zusätzlich mit negativ temperierten Schichten zwischen
-FL060 und FL080. Zum Berichtsende am Mittwochvormittag verbreitet
-zwischen FL105 und FL125. In der Nacht zum Mittwoch zudem lokal
-negative Temperaturen in Bodennähe.
+Zwischen FL065 am Bayerischen Wald und FL125 in der Westhälfte. Am
+Mittwochmittag auch in Ostbayern Anstieg auf FL110.
 
 Inversionen:
-Verbreitete Absinkinversion zwischen FL050 und FL070, im Südosten
-Bayerns zwischen FL070 und FL090. Zudem in der Nacht zum Mittwoch
-verbreitete Ausbildung einer kräftigen Bodeninversion mit Obergrenze
-zwischen 2000 und 3000 FT AMSL, die im Laufe des Mittwochmorgens
-wieder abgebaut wird.
+Absinkinversion zwischen FL055 und FL070, im Südosten Bayerns
+zwischen FL070 und FL090.
+Im Laufe der Nacht baut sich eine kräftige, teils markante
+Bodeninversion mit Obergrenze um 2500 und 3000 FT AMSL auf. Ab
+Mittwochmorgen wird die Bodeninversion wieder abgebaut.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  17.14 | 17.46 | 04.31 | 05.03
-München  17.11 | 17.42 | 04.28 | 05.00
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.31 | 05.03 | 17.12 | 17.43
+München  04.28 | 05.00 | 17.09 | 17.39
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 23.09.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/ip
+Luftfahrtberatungszentrale München/st
