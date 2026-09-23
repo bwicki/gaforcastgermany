@@ -1,109 +1,112 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-027
-FBEU40 EDZB 231200
+951
+FBEU40 EDZB 231800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 23.09.2026, 12.00 UTC bis 24.09.2026, 09.00 UTC
+gültig vom 23.09.2026, 18.00 UTC bis 24.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Tagsüber dominiert zumeist Hochdruckeinfluss. Dabei bestimmt
-trockene, stabil geschichtete und mäßig warme Luft das
-Wettergeschehen. In der Nacht zum Donnerstag greift die Front eines
-Tiefs bei Dänemark auf den Nordwesten über und zieht bis zum
-Vormittag südostwärts über das Vorhersagegebiet hinweg.
-Frontrückseitig fließt mit westlicher bis nordwestlicher Strömung
-etwas kühlere Meeresluft ein.
+Anfangs noch Hochdruckeinfluss mit mäßig warmer und meist trockener
+Luft. In der Nacht zum Donnerstag greift die Front eines Tiefs bei
+Dänemark auf den Nordwesten über und zieht bis zum Vormittag
+südostwärts über das Vorhersagegebiet hinweg. Frontrückseitig fließt
+mit westlicher bis nordwestlicher Strömung etwas kühlere und leicht
+labile Meeresluft ein.
 
 Wettergeschehen:
-In der Nordhälfte SC/AC-Schichten zwischen FL060 und FL110. Darunter
-Richtung Küste FEW/SCT oder lokal BKN SC bei 2000 bis 2500 FT AMSL.
-Ansonsten im Gebiet wolkenfrei oder stellenweise flacher FEW, lokal
-SCT SC bei 3500 bis 5000 FT AMSL.
-Im Nachmittagsverlauf wenig Änderung, an der See maximal wenige
-Tropfen Regen.
-Am Abend Auflösung der SC-Bewölkung, lediglich an der Küste noch
-letzte SC-Reste bei 2500 bis 3000 FT AMSL. Zudem allmähliches
-Vorankommen der mittelhohen Bewölkung Richtung Süden, dabei etwas
-anhebend auf FL130 und im Norden teils verdichtend. Darüber im Norden
-aufziehender, mehrschichtiger CI.
-Gegen/Ab Mitternacht auf den Nordwesten übergreifende Front mit
+Zunächst Durchzug von meist SCT/BKN SC/AS/AC/CI-Schichten mit Basis
+oberhalb FL120, im Norden mit Basis oberhalb FL070. In
+Mecklenburg-Vorpommern teils SCT/BKN SC zwischen 2500 und 5000 FT
+AMSL, hier örtlich leichter Regen, sonst trocken.
+
+Ab etwa Mitternacht von Nordwesten/Westen übergreifende Front mit
 hochreichender und kompakter SC/AC/AS-Bewölkung. Untergrenzen
 absinkend auf 1000 bis 2500 FT AMSL. Mit der Front leichter bis
-mäßiger Regen, örtlich schauerartig verstärkt durch eingelagerte
-TCU/CB. Im weiteren Nachtverlauf nach Südosten vorankommend, ausgangs
-der Nacht in einem Bogen etwa von Usedom über den Osten sowie Süden
+mäßiger Regen, teils schauerartig verstärkt durch eingelagerte
+TCU/CB, Tops bis FL240. Vereinzelt kurze Gewitter nicht
+ausgeschlossen.
+Im weiteren Nachtverlauf nach Südosten vorankommend, ausgangs der
+Nacht in einem Bogen etwa von Usedom über den Osten sowie Süden
 Brandenburgs nach Sachsen und teils Ostthüringen reichend und am
-Vormittag vollständig nach Polen und Tschechien abziehend. Mit
-Frontdurchgang im Norden/Nordosten teils in den ST-Bereich unter 1000
-FT AGL absinkende Wolkenbasis. Richtung Süden etwas höhere
-Untergrenzen, wechselnd zwischen 2000 und 3500 FT AMSL, sowie
-geringere Wolkenobergrenzen bei FL110 bis FL170.
+Vormittag vollständig nach Polen und Tschechien abziehend.
+Mit Frontdurchgang im Norden/Nordosten teils unter 1000 FT AGL
+absinkende Wolkenbasis. Richtung Süden etwas höhere Untergrenzen,
+wechselnd zwischen 2000 und 3500 FT AMSL, sowie geringere
+Wolkenobergrenzen bei FL120 bis FL180.
 Frontrückseitig im mittleren und hohen Niveau zügig ausschichtende
 Bewölkung und Übergang in FEW/SCT oder Richtung Norden SCT/BKN CU/SC
 bei 2000 bis 3000 FT AMSL. Im Nordwesten des Gebiets im Nachgang
 anwachsende Quellbewölkung mit lokalen TCU-Entwicklungen mit Tops um
-FL100 und leichten Schauern.
-Am Vormittag insbesondere in Mecklenburg-Vorpommern weiterhin
-dichtere Wolken mit regional etwas Regen, ansonsten CU-Bewölkung.
+FL100 und leichten bis mäßigen Schauern.
+
+Am Vormittag mit Abzug der Front verbreitet SCT/BKN CU/SC mit Basis
+zwischen 1500 und 3000 FT AMSL, von Rügen bis nach Ostsachsen teils
+1000 bis 1500 FT AGL, von Westen bereits anhebend und regional
+auflockernd. Daraus örtlich etwas Regen, abseits von Thüringen lokal
+Überentwicklungen zu TCU mit Tops zwischen FL090 und FL140 sowie
+leichten Schauern.
+Am Mittag und Nachmittag anhebende Basis auf 2000 bis 3500 FT AMSL,
+Obergrenzen absinkend auf FL070 bis FL110, ansonsten wenig Änderung.
+In Thüringen kaum Niederschlag und größere Auflockerungen. Im
+Tagesverlauf generell böiger West- bis Nordwestwind (20-30 KT).
 
 Sichtweite:
 30 bis 60 km. In der Nacht zum Donnerstag je nach Region mit
-Frontdurchgang und (verstärktem) Regen vorübergehender Sichtrückgang
-auf 3 bis 15 km.
+Frontdurchgang und (zeitweise mäßigem) Regen vorübergehender
+Sichtrückgang auf 3 bis 15 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 230/05KT  17C | 270/20KT  11C |
-1000FT | 230/10KT  15C | 280/25KT  09C |
-1500FT | 230/10KT  13C | 290/35KT  08C |
-2000FT | 230/10KT  13C | 290/35KT  08C |
-3000FT | 230/10KT  09C | 310/35KT  06C |
-5000FT | 270/10KT  08C | 310/30KT  02C |
-FL100  | 290/15KT M01C | 310/25KT M07C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 220/10KT  15C | 280/20KT  12C |
+1000FT | 230/20KT  15C | 280/25KT  10C |
+1500FT | 240/20KT  14C | 280/30KT  08C |
+2000FT | 240/20KT  13C | 280/30KT  08C |
+3000FT | 250/25KT  10C | 300/35KT  05C |
+5000FT | 250/20KT  08C | 320/25KT  03C |
+FL100  | 260/20KT M02C | 330/15KT M06C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 220/05KT  17C | 300/20KT  11C |
-1500FT | 220/05KT  15C | 300/30KT  10C |
-2000FT | 220/05KT  13C | 300/30KT  09C |
-3000FT | 220/05KT  10C | 310/35KT  06C |
-5000FT | 280/05KT  07C | 310/35KT  03C |
-FL100  | 300/15KT  01C | 300/30KT M07C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 230/15KT  16C | 300/20KT  12C |
+1500FT | 250/15KT  15C | 300/20KT  10C |
+2000FT | 250/20KT  14C | 300/25KT  09C |
+3000FT | 260/20KT  10C | 300/25KT  05C |
+5000FT | 280/20KT  07C | 310/30KT  02C |
+FL100  | 280/20KT M02C | 320/35KT M08C |
 
 Turbulenz:
-Mit Frontdurchgang teils mäßig in unterschiedlichen Höhenniveaus,
-auch unterhalb 3000 FT AMSL in der Nacht zum Donnerstag und in
-Frontnähe mitunter mäßig. Zudem in und um (eingelagerte) TCU/CB mäßig
-bis stark.
+Mit Frontdurchgang teils mäßig zwischen FL100 und FL200, am
+Donnerstag frontrückseitig regional mäßig oberhalb FL160. Zudem in
+und um TCU/CB mäßig bis stark.
 
 Vereisung:
-Zunächst nicht signifikant. Im weiteren Tagesverlauf im allmählich
-dichter werdendem AC im Norden örtlich mäßig zwischen Nullgradgrenze
-und Wolkenoberkante. In der Nacht zum Donnerstag im Frontbereich
-mäßig zwischen FL090 und FL200, bei sehr kompakter Schichtung
-vereinzelt auch stark bis FL140. Frontrückseitig meist nur im Norden
-in Bewölkung leicht bis mäßig. Zudem allgemein in TCU/CB mäßig bis
-stark.
+In unterkühlter Schichtbewölkung zischen nullgradgrenze und FL200
+Zunächst nicht signifikant. Im Frontbereich mäßig zwischen FL090 und
+FL200, bei sehr kompakter Schichtung vereinzelt auch stark bis FL140.
+Frontrückseitig regional leicht bis mäßig zwischen FL070 und FL180.
+Zudem allgemein in TCU/CB mäßig bis stark.
 
 Nullgradgrenze:
-Zwischen FL095 im Nordosten/Osten und bis FL115 im Südwesten/Westen.
-In der Nacht zum Donnerstag mit Frontdurchgang absinkend auf FL060
-bis FL070.
+Zunächst zwischen FL095 im Nordosten/Osten und bis FL115 im
+Südwesten/Westen. In der Nacht zum Donnerstag mit Frontdurchgang
+absinkend auf FL060 bis FL070. Donnerstagmittag und Nachmittag in der
+Nordhälfte wieder auf FL070 bis FL095 ansteigend.
 
 Inversionen:
-Nicht signifikant.
+Am Donnerstag im Tagesverlauf Absinkinversion oberhalb FL080 im
+Norden und FL120 im Süden.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  17.02 | 17.37  | 04.21 | 04.55
-Leipzig  17.07 | 17.41  | 04.26 | 05.00
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.21 | 04.55 | 17.00 | 17.34
+Leipzig  04.26 | 05.00 | 17.05 | 17.39
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 24.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/dh
+Luftfahrtberatungszentrale Berlin/No

@@ -4,37 +4,37 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 23.09.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-00  Deutsche Bucht  D1 ISOL SHRA  M2 ISOL TSRA  M2 ISOL TSRA
+00  Deutsche Bucht  M2 ISOL TSRA  M2 ISOL TSRA  D1 ISOL SHRA
 
-01  Ostfriesland  O ISOL SHRA  D1 ISOL SHRA  M2 ISOL TSRA
+01  Ostfriesland  D1 ISOL TSRA  M2 ISOL TSRA  M2 ISOL TSRA
 
-02  Nordfriesland-Dithmarschen  C ISOL SHRA  O ISOL SHRA  M2 ISOL TSRA
+02  Nordfriesland-Dithmarschen  O ISOL SHRA  M2 ISOL TSRA  M2 ISOL TSRA
 
-03  Schleswig-Holsteinische Geest  C ISOL SHRA  C ISOL SHRA  O ISOL SHRA
+03  Schleswig-Holsteinische Geest  O ISOL SHRA  O ISOL TSRA  M2 ISOL TSRA
 
-04  Schleswig-Holsteinisches Hügelland  O ISOL SHRA  C ISOL SHRA  C ISOL SHRA
+04  Schleswig-Holsteinisches Hügelland  O ISOL SHRA  C ISOL SHRA  O ISOL TSRA
 
-05  Nordwestliches Niedersachsen  C  O  O ISOL SHRA
+05  Nordwestliches Niedersachsen  O ISOL SHRA  O ISOL TSRA  D1 ISOL TSRA
 
-06  Lüneburger Heide  C  C  C
+06  Lüneburger Heide  C  C  O ISOL SHRA
 
-07  Westliches Niedersachsen  C  O  O
+07  Westliches Niedersachsen  O  O  D1 ISOL SHRA
 
 08  Hannover und Braunschweig  C  C  C
 
-09  Teutoburger Wald  C  C  C
+09  Teutoburger Wald  C  O  D1
 
-10  Weser-Leine-Bergland  C  C  C
+10  Weser-Leine-Bergland  C  C  O
 
 GAFOR-Einstufung LBZ Berlin
 
 GAFOR Bereich LBZ Berlin 23.09.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-11  Mecklenburgisches Tiefland  O  O  O
+11  Mecklenburgisches Tiefland  O  O  O ISOL SHRA
 
 12  Vorpommern  O  O  O
 
@@ -62,43 +62,43 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 24  Thüringer Becken  C  C  C
 
-25  Mittelsächsisches Hügelland  O  O  C
+25  Mittelsächsisches Hügelland  C  C  C
 
-26  Oberlausitz und Lausitzer Gebirge  O  O  C
+26  Oberlausitz und Lausitzer Gebirge  O  C  C
 
 27  Thüringer Wald  C  C  C
 
-28  Erzgebirge  O  O  C
+28  Erzgebirge  C  C  C
 
 GAFOR-Einstufung RWZ Essen
 
 GAFOR Bereich RWZ Essen 23.09.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
-31  Niederrheinisches Tiefland  C  C  O
+31  Niederrheinisches Tiefland  C  O  D1
 
-32  Münsterland  C  C  O
+32  Münsterland  C  O  D1 ISOL SHRA
 
-33  Ruhrgebiet und Ostwestfalen  C  C  O
+33  Ruhrgebiet und Ostwestfalen  C  O  O
 
-34  Niederrheinische Bucht  C  C  C
+34  Niederrheinische Bucht  C  C  O
 
-35  Bergisches Land  C  C  C
+35  Bergisches Land  C  O  D1
 
-36  Sauerland  C  C  C
+36  Sauerland  C  O  D1
 
-37  Eifel  C  C  C
+37  Eifel  C  C  O
 
 38  Neuwieder Becken  C  C  C
 
-39  Westerwald  C  C  C
+39  Westerwald  C  C  O
 
 GAFOR-Einstufung FWZ Frankfurt
 
 GAFOR Bereich FWZ Frankfurt 23.09.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 41  Hunsrück  C  C  C
 
@@ -128,7 +128,7 @@ GAFOR-Einstufung LBZ Muenchen
 
 GAFOR Bereich LBZ Muenchen 23.09.2026
 
-Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
+Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 54  Mainfranken und Nördliches Unterfranken  C  C  C
 
@@ -162,9 +162,9 @@ Gebiet  Name  12-14 UTC  14-16 UTC  16-18 UTC
 
 82  Östliches Alpenvorland  C  C  C
 
-83  Allgäuer Alpen  C  C  C
+83  Allgäuer Alpen  C  O  O
 
-84  Östliche Bayerische Alpen  C  C  C
+84  Östliche Bayerische Alpen  C  C  O
 
 GAFOR Legende
 
