@@ -1,71 +1,83 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-292
-FBEU40 EDZB 221800
+212
+FBEU40 EDZB 230600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 22.09.2026, 18.00 UTC bis 23.09.2026, 15.00 UTC
+gültig vom 23.09.2026, 06.00 UTC bis 24.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Auf der Ostseite eines Hochs mit dem Schwerpunkt über dem Westen
-Deutschlands fließt mit nordwestlicher Strömung mäßig warme und
-stabil geschichtete Meeresluft ein.
+Am Mittwoch dominiert Hochdruckeinfluss mit einer mäßig warmen und
+stabil geschichteten Luft das Wetter. Anfangs hält sich lokal eine
+feuchte Grundschicht. In der Nacht zum Donnerstag zieht ein
+Tiefausläufer von Nordwest nach Südost über Ostdeutschland hinweg.
+Die Luftmasse ist zum Teil labil geschichtet.
 
 Wettergeschehen:
-Zu Beginn noch flache FEW CU/SC in 3500 bis 4500 FT AMSL, Tops bei
-FL060 bis FL080, im weiteren Verlauf vielerorts auflösend oder
-bereits wolkenfrei.
-
-In der Nacht zum Mittwoch lokal Dunst oder flache Nebelfelder,
-vereinzelt mit SCT/BKN ST in 100 bis 500 FT AGL, Tops 1000 FT AGL, am
-Mittwochvormittag auflösend.
-
-Am Mittwoch über Brandenburg und Sachsen Bildung von FEW CU/SC
-zwischen 3000 und 4000 FT AMSL, nachmittags bereits wieder auflösend,
-von Thüringen über Sachsen-Anhalt bis Mecklenburg-Vorpommern tagsüber
-ohnehin kaum Bewölkung.
+Anfangs lokal Dunst oder flache Nebelfelder, vereinzelt mit SCT/BKN
+ST in 100 bis 500 FT AGL. Ansonsten verbreitet wolkenlos oder wenige
+AC/CI oberhalb FL090, vor allem von der Ostsee her.
+Im Vormittagsverlauf Auflösung möglicher Dunst- und Nebelfelder,
+örtliche Bildung von FEW/SCT CU mit Untergrenze zwischen 2000 und
+3000 FT AMSL, Obergrenzen bei 4000 bis 5000 FT AMSL. Darüber Durchzug
+von AC/CI-Feldern. Am Mittwochmittag und -nachmittag nur wenig
+Wetteränderung bei Anheben der CU-Basis auf 3500 bis 4500 FT AMSL,
+Tendenz mit Übergang zu SC. Neben dünnem CI nun zunehmend dichter
+werdendem AS bei FL080 bis FL100. Am Abend Auflösung vom CU/SC.
+In der ersten Hälfte zur Nacht zum Donnerstag von Nordwesten her
+Bewölkungsverdichtung zu BKN/OVC SC/AS/CI mit Wolkenuntergrenze
+zwischen 2000 und 2500 FT AMSL, Obergrenzen oberhalb FL245. Aus
+kompakter Bewölkung wiederholt schauerartiger Regen, teils durch
+eingelagerte TCU/CB kurzzeitig gewittrig durchsetzt. Im Niederschlag
+absinkende Wolkenbasis auf 1000 FT AMSL. Im weiteren Nachtverlauf
+südostwärts vorankommend. In der zweiten Nachthälfte von
+Westmecklenburg bis in die Altmark zunehmend Rückseitenwetter und
+Übergang zu SCT/BKN SC mit Basis zwischen 2000 bis 3000 FT AMSL und
+Obergrenzen um FL080.
 
 Sichtweite:
-20 bis 50 km. In der Nacht lokal 1 bis 5 km, im Nebel unter 1000 m
-möglich.
+20 bis 50 km, bis in den Vormittag hinein lokal 1 bis 5 km, im Nebel
+unter 1000 m möglich. In der Nacht zum Donnerstag im schauerartig
+verstärkten Regen auf 7 bis 2 km reduziert.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 340/05KT  12C | 280/05KT  13C |
-1000FT | 350/10KT  12C | 280/05KT  12C |
-1500FT | 010/10KT  11C | 290/10KT  10C |
-2000FT | 360/10KT  10C | 290/10KT  10C |
-3000FT | 360/10KT  08C | 280/10KT  08C |
-5000FT | 350/10KT  04C | 320/05KT  06C |
-FL100  | 010/35KT  00C | 010/20KT  00C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 270/05KT  14C | 220/10KT  15C |
+1000FT | 280/05KT  12C | 230/20KT  15C |
+1500FT | 290/10KT  11C | 240/20KT  13C |
+2000FT | 290/10KT  10C | 240/20KT  13C |
+3000FT | 280/05KT  08C | 250/25KT  10C |
+5000FT | 310/05KT  05C | 250/20KT  08C |
+FL100  | 360/15KT  00C | 260/20KT M02C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 320/10KT  14C | 250/05KT  12C |
-1500FT | 330/10KT  13C | 280/05KT  11C |
-2000FT | 340/10KT  12C | 280/05KT  10C |
-3000FT | 350/10KT  08C | 300/05KT  07C |
-5000FT | 010/05KT  03C | 010/05KT  04C |
-FL100  | 010/25KT  01C | 020/20KT  01C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 250/05KT  13C | 230/15KT  16C |
+1500FT | 280/05KT  12C | 250/15KT  15C |
+2000FT | 290/05KT  11C | 260/15KT  14C |
+3000FT | 300/05KT  08C | 260/20KT  10C |
+5000FT | 330/05KT  05C | 280/20KT  08C |
+FL100  | 360/15KT  02C | 270/20KT M01C |
 
 Turbulenz:
-Nicht signifikant.
+In der Nacht zum Donnerstag im Frontbereich durch eingelagerte TCU/CB
+mäßig bis stark.
 
 Vereisung:
-An der unterkühlten Obergrenze der SC/CU-Bewölkung meist leicht.
+Zunächst nicht signifikant. Tagsüber in sich verdichtendem AS mäßig
+zwischen FL100 und FL200. In der Nacht zum Donnerstag von Nordwesten
+her im Tiefausläufer mäßig zwischen FL090 und FL200. Im TCU/CB mäßig
+bis stark.
 
 Nullgradgrenze:
-Im Osten FL065 bis FL075, im Westen FL100 bis FL110. Nachts kaum
-Änderung.
-Am Mittwoch dann zwischen FL090 im Osten und FL100 bis FL105 im
-Westen.
+Am Mittwoch zwischen FL095 im Osten und FL100 bis FL105 im Westen. In
+der Nacht zum Donnerstag von Nordwesten her auf FL075 absinkend.
 
 Inversionen:
-Absinkinversion an der Obergrenze der CU/SC-Bewölkung.
-In der Nacht zum Mittwoch schwache Bodeninversion bis 1000 FT AGL.
+Anfangs Bodeninversion bis 1000 FT AGL.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.20 | 04.53 | 17.02 | 17.37
@@ -73,7 +85,6 @@ Leipzig  04.24 | 04.58 | 17.07 | 17.41
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 23.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/SB
+Luftfahrtberatungszentrale Berlin/HA
