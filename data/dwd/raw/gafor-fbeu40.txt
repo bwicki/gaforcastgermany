@@ -72,47 +72,47 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 GAFOR-Einstufung RWZ Essen
 
-GAFOR Bereich RWZ Essen 22.09.2026
+GAFOR Bereich RWZ Essen 23.09.2026
 
-Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
+Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
 
-31  Niederrheinisches Tiefland  O  O  C
+31  Niederrheinisches Tiefland  C ISOL FG  C ISOL FG  C
 
-32  Münsterland  O  O  C
+32  Münsterland  C ISOL FG  C ISOL FG  C
 
-33  Ruhrgebiet und Ostwestfalen  O  C  C
+33  Ruhrgebiet und Ostwestfalen  C ISOL FG  C ISOL FG  C
 
-34  Niederrheinische Bucht  O  O  C
+34  Niederrheinische Bucht  C ISOL FG  C ISOL FG  C
 
-35  Bergisches Land  O  C  C
+35  Bergisches Land  C ISOL FG  C ISOL FG  C
 
-36  Sauerland  C  C  C
+36  Sauerland  C ISOL FG  C ISOL FG  C
 
-37  Eifel  C  C  C
+37  Eifel  C ISOL FG  C ISOL FG  C
 
-38  Neuwieder Becken  C  C  C
+38  Neuwieder Becken  C ISOL FG  C ISOL FG  C
 
-39  Westerwald  C  C  C
+39  Westerwald  C ISOL FG  C ISOL FG  C
 
 GAFOR-Einstufung FWZ Frankfurt
 
-GAFOR Bereich FWZ Frankfurt 22.09.2026
+GAFOR Bereich FWZ Frankfurt 23.09.2026
 
-Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
+Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
 
 41  Hunsrück  C  C  C
 
-42  Taunus  C  C  C
+42  Taunus  C ISOL FG  C ISOL FG  C
 
-43  Nordhessisches Bergland und Vogelsberg  O  C  C
+43  Nordhessisches Bergland und Vogelsberg  C ISOL FG  C ISOL FG  C ISOL FG
 
 44  Rheinpfalz und Saarland  C  C  C
 
-45  Rhein-Main-Gebiet und Wetterau  C  C  C
+45  Rhein-Main-Gebiet und Wetterau  C ISOL FG  C ISOL FG  C
 
-46  Odenwald und Spessart  C ISOL FG  C  C
+46  Odenwald und Spessart  C ISOL FG  C ISOL FG  C
 
-47  Rhön  O  C  C
+47  Rhön  C ISOL FG  C ISOL FG  C
 
 50  Südlicher Oberrheingraben  C  C  C
 
@@ -120,51 +120,51 @@ Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
 
 52  Kraichgau  C  C  C
 
-53  Oberer und mittlerer Neckarraum  C  C  C
+53  Oberer und mittlerer Neckarraum  C ISOL FG  C ISOL FG  C
 
 61  Schwarzwald  C  C  C
 
 GAFOR-Einstufung LBZ Muenchen
 
-GAFOR Bereich LBZ Muenchen 22.09.2026
+GAFOR Bereich LBZ Muenchen 23.09.2026
 
-Gebiet  Name  15-17 UTC  17-19 UTC  19-21 UTC
+Gebiet  Name  03-05 UTC  05-07 UTC  07-09 UTC
 
-54  Mainfranken und Nördliches Unterfranken  O  O  O
+54  Mainfranken und Nördliches Unterfranken  C  C  C
 
-55  Kocher-Jagst-Gebiet und Frankenhöhe  O  O  O
+55  Kocher-Jagst-Gebiet und Frankenhöhe  C  C  C
 
-56  Mittelfranken  O  O  O
+56  Mittelfranken  D1 ISOL FG  D1 ISOL FG  C
 
-57  Oberfranken  O  O  O
+57  Oberfranken  D1 ISOL FG  D1 ISOL FG  C
 
-58  Frankenwald und Fichtelgebirge  O  O  C
+58  Frankenwald und Fichtelgebirge  C  C  C
 
 62  Schwäbische Alb  C  C  C
 
-63  Fränkische Alb  O  O  O
+63  Fränkische Alb  C  C  C
 
-64  Oberpfälzer Wald  O  O  C
+64  Oberpfälzer Wald  D1 ISOL FG  D1 ISOL FG  C
 
 71  Bodenseeraum  C  C  C
 
 72  Schwäbische Hochebene  C  C  C
 
-73  Westliche Donauniederung  O  O  O
+73  Westliche Donauniederung  O ISOL FG  D1 ISOL FG  C
 
-74  Südbayerisches Hügelland  O  O  O
+74  Südbayerisches Hügelland  D1 ISOL FG  D1 ISOL FG  C
 
-75  Östliche Donau- und Naabniederung  O  O  C
+75  Östliche Donau- und Naabniederung  O ISOL FG  D1 ISOL FG  C
 
-76  Bayerischer Wald  O  O  C
+76  Bayerischer Wald  C  C  C
 
 81  Westliches Alpenvorland  C  C  C
 
-82  Östliches Alpenvorland  O  O  O
+82  Östliches Alpenvorland  O ISOL FG  D1 ISOL FG  C
 
-83  Allgäuer Alpen  O  O  O
+83  Allgäuer Alpen  C  C  C
 
-84  Östliche Bayerische Alpen  M2  M2  M2
+84  Östliche Bayerische Alpen  C  C  C
 
 GAFOR Legende
 
