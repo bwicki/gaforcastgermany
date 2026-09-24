@@ -1,105 +1,86 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-371
-FBEU40 EDZF 240600
+628
+FBEU40 EDZF 241200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 24.09.2026, 06.00 UTC bis 25.09.2026, 03.00 UTC
+gültig vom 24.09.2026, 12.00 UTC bis 25.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Ausgehend von einem Tief über der Ostsee erstreckt sich eine schwache
-Kaltfront über Nordostdeutschland, Hessen bis nach Frankreich. Mit
-einer nordwestlichen Strömung wird eine vor allem in den unteren
-Schichten feuchte, leicht labile und kühlere Luftmasse herangeführt.
-Im Süden des Vorhersagegebietes ist Hochdruckeinfluss mit einer
-warmen, trockenen und stabilen Luftmasse wetterbestimmend.
-Im Laufe des Morgens verlässt die Front das Vorhersagegebiet
-Südostwärts. Rückseitig trocknet die feuchtere Luft ab und es stellt
-sich Hochdruckeinfluss ein. In der Nacht zum Freitag bildet sich
-lokal eine feuchte Grundschicht aus.
+Der Vorhersagebereich liegt im Einfluss eines Hochs, das seinen
+Schwerpunkt von Frankreich nach Deutschland verlagert. Mit
+nordwestlicher Strömung fließt kühle bis mäßig warme und stabile Luft
+ein, die im Verlauf abtrocknen und sich erwärmen kann. Kommende Nacht
+bildet sich lokal eine flache feuchte Grundschicht aus, die am
+Vormittag wieder abtrocknet.
 
 Wettergeschehen:
-Nördlich einer Linie zwischen Saarbrücken und dem Odenwald ist eine
-BKN/OVC ST/SC-Bewölkung mit Untergrenzen zwischen 2500 und 3500 FT
-AMSL, vereinzelt auch mal um 2000 FT AMSL, wetterbestimmend. Die
-Obergrenzen befinden sich um FL080. Berge in den Wolken. Im
-restlichen Gebiet ist, bis auf den Südwesten Baden-Württembergs, eine
-SCT/BKN ST/SC-Bewölkung zwischen 3000 und 5000 FT AMSL vorhanden. Im
-Südwesten Baden-Württembergs ist es bis auf einzelne SC-Felder um
-FL060 nahezu wolkenfrei. Zudem ist in Mittel- und Südhessen sowie im
-Norden von Baden-Württemberg eine SCT/BKN AS/CI-Bewölkung oberhalb
-von FL160 vorhanden.
+Verbreitet zeigt sich SCT/BKN CU/SC mit Basis zwischen 3500 und 5000
+FT AMSL. Die Tops liegen um FL070. Vor allem südwestlich einer Linie
+Koblenz-Schwäbisch Hall zieht SCT/BKN AS/CI oberhalb FL160 von
+Nordwest nach Südost durch.
 
-Bis zum Mittag hebt die Bewölkung nach und nach an und lockert von
-Norden auf. Es stellt sich eine SCT/BKN SC-Bewölkung mit Untergrenzen
-um 5000 FT AMSL und Obergrenzen um FL080 ein. Zudem verlagert sich
-die SCT/BKN AS/CI-Bewölkung nach Südwesten und betrifft bis zum
-Mittag das Gebiet südlich einer Linie zwischen Hunsrück und
-Neckarraum.
+Am Abend trocknet die Quellbewölkung allmählich ab, während die
+Untergrenzen auf Werte um 5000 FT AMSL ansteigen. Die Tops sinken auf
+etwa FL060 ab. Die mittelhohe bis hohe Schichtbewölkung im Südwesten
+zieht südwärts ab, sodass es dann bis auf durchziehenden dünnen CI
+oberhalb FL245 verbreitet wolkenlos ist.
 
-Am Mittag und Nachmittag lockert die Bewölkung weiter zu flachen
-FEW/SCT SC mit Basis um 5000 FT AMSL auf. Die SCT/BKN AS/CI-Bewölkung
-bleibt erhalten.
-
-Bis zur Nacht verlagert sich die BKN/OVC AC/CI-Bewölkung oberhalb von
-FL170 weiter nach Südosten und betrifft eine Linie Südlich zwischen
-Saarbrücken und Nordschwarzwald. Im restlichen Gebiet trocknet die
-Bewölkung nach und nach ab.
-
-In der Nacht zieht die BKN/OVC AC/CI-Bewölkung nach Südwesten ab.
-Zudem bilden sich lokal Dunst- und Nebelfelder aus.
+Vor allem ab der zweiten Nachthälfte bilden sich insbesondere in
+Tallagen und Flussniederungen örtliche Nebelfelder aus. Schwerpunkte
+sind die Gebiete nördlich des Mains, sowie der Oberrheingraben und
+das Neckartal.
+Die Nebelfelder lösen sich Freitagvormittag auf.
 
 Sichtweite:
-40-70 km. In der Nacht im Bereich der schwachen Kaltfront und unter
-dem ST 10 bis 20 km, im Dunst 1 bis 5 km, im Nebel unter 1 km.
+40-70 km. Im Nebel Sichtrückgang auf unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 320/10KT  13C | 270/05KT  12C |
-1500FT | 320/10KT  11C | 310/05KT  12C |
-2000FT | 320/15KT  10C | 330/05KT  11C |
-3000FT | 330/15KT  06C | 340/10KT  08C |
-5000FT | 330/20KT  02C | 340/10KT  04C |
-FL100  | 320/40KT M03C | 350/15KT  02C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 320/10KT  16C | 020/05KT  00C |
+1500FT | 320/15KT  14C | 200/05KT  10C |
+2000FT | 320/15KT  13C | 220/05KT  10C |
+3000FT | 320/15KT  09C | 260/05KT  08C |
+5000FT | 320/15KT  04C | 340/10KT  08C |
+FL100  | 350/30KT M00C | 350/20KT  04C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 200/05KT  16C | 070/10KT  16C |
-1500FT | 290/05KT  15C | 060/15KT  14C |
-2000FT | 310/05KT  14C | 050/10KT  13C |
-3000FT | 320/10KT  11C | 050/10KT  09C |
-5000FT | 300/20KT  08C | 020/05KT  05C |
-FL100  | 300/45KT  02C | 340/25KT  02C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 040/10KT  18C | 050/05KT  11C |
+1500FT | 040/10KT  16C | 080/05KT  12C |
+2000FT | 040/10KT  15C | 070/05KT  12C |
+3000FT | 010/10KT  11C | 050/05KT  10C |
+5000FT | 300/10KT  07C | 010/05KT  09C |
+FL100  | 330/40KT  02C | 360/20KT  05C |
 
 Turbulenz:
-Im Norden und Nordosten des Vorhersagegebietes teils mäßige Turbulenz
-oberhalb von FL200. Donnerstagabend nach Osten abziehend.
+In einem Streifen von Hessen bis zur Schwäbischen Alb örtlich mäßig
+oberhalb FL180, bis zum Abend abschwächend.
 
 Vereisung:
-Teils mäßig südlich einer Linie zwischen Nordhessischen Bergland und
-Rhön, zwischen FL160 und FL220, nach Südwesten verlagernd. In der
-Nacht nach Südwesten abziehend.
+In der AS/CI-Bewölkung mäßig, vereinzelt auch stark zwischen FL160
+und FL230. Am Abend südwärts abziehend und abschwächend.
 
 Nullgradgrenze:
-Zwischen FL080 im Norden und FL125 im Süden. Bis zum Ende des
-Vorhersagezeitraumes im Osten auf FL130 und im Westen auf FL140
-ansteigend.
+Zwischen FL070 in Nordhessen und FL115 im Breisgau. In der Nacht
+ansteigend auf FL120-130.
 
 Inversionen:
-Absinkinversion zwischen FL060 und FL100. In der Nacht zum Freitag
-auf um 4000 FT AMSL absinkend.
-In der Nacht bildet sich lokal eine flache Bodeninversion unterhalb
-von 1200 FT AMSL aus.
+Absinkinversion zwischen FL060 und FL090. Ab dem Abend bis
+Freitagfrüh auf 3500 FT AMSL bis FL060 absinkend. Außerdem ab dem
+Abend Ausbildung einer örtlichen teils markanten Bodeninversion mit
+Temperaturdifferenz um 10 K, die sich am Vormittag wieder auflöst.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Gießen  04.41 | 05.14 | 17.20 | 17.52
-Karlsruhe  04.43 | 05.15 | 17.21 | 17.52
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Gießen  17.20 | 17.52 | 04.43 | 05.16
+Karlsruhe  17.21 | 17.52 | 04.45 | 05.17
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Flugwetterzentrale Frankfurt/MJ
+Flugwetterzentrale Frankfurt/mb

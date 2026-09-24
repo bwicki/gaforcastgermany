@@ -1,82 +1,78 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-543
-FBEU40 EDZE 240600
+160
+FBEU40 EDZE 241200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 24.09.2026, 06.00 UTC bis 25.09.2026, 03.00 UTC
+gültig vom 24.09.2026, 12.00 UTC bis 25.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
-Unter zunehmendem Hochdruckeinfluss bleibt in Westdeutschland stabile
-Luft wetterbestimmend. In den Bergregionen hält sich anfangs
-gebietsweise eine feuchte Grundschicht, die im Laufe des Vormittags
-abtrocknet und sich in der Nacht zum Freitag erneut bildet.
+Bei zunehmendem Hochdruckeinfluss bleibt in Westdeutschland stabile
+Luft wetterbestimmend. In der Nacht zum Freitag bildet sich lokal
+eine feuchte Grundschicht, die ab dem Vormittag wieder abtrocknet.
 
 Wettergeschehen:
-Südlich vom Münsterland verbreitet BKN SC/AC mit Untergrenzen
-1500-2500 FT AMSL und Obergrenzen FL090-130. Im Bergland gebietsweise
-ST in 300-800 FT AGL, die höchsten Lagen geraten in Wolken. Im
-Münsterland deutliche Auflockerung, nur noch vereinzelt sind dünne
-SC-Felder zwischen 2500 und 4000 FT AMSL möglich.
-
-Am Vormittag verbreitete CU-Bildung mit SCT/BKN CU mit Anfangsbasis
-in 1500-2500 FT AMSL und Tops in 4000-5000 FT AMSL, auch Übergang
-vorhandener SC-Felder in CU sowie des ST im Bergland. Darüber SCT/BKN
-CI/CS oberhalb FL200.
-Am Mittag und Nachmittag Anstieg des CU auf 4000-5000 FT AMSL mit
-Tops um FL060.
-Am Abend Auslösung der CU-Bewölkung. In der Nacht zum Freitag SCT/BKN
-CI oberhalb von FL245. Gebietsweise Bildung von flachen Nebelfeldern.
-In gesamten Zeitraum niederschlagsfrei.
+Am Mittag und Nachmittag Anstieg des SCT CU auf 4000-5000 FT AMSL mit
+Tops um FL060. Darüber zeitweise dünner SCT CI oberhalb FL245.
+Am Abend Auslösung der CU-Bewölkung.
+In der Nacht zum Freitag SCT/BKN CI oberhalb von FL245. Gebietsweise
+Bildung von flachen Nebelfeldern. In gesamten Zeitraum
+niederschlagsfrei.
+Bis zum Vormittag Auflösung vorhandener Nebelfelder. Dann dünner
+SCT/BKN CI oberhalb FL245, darunter lokal FEW/SCT AC zwischen FL100
+und FL180.
 
 Sichtweite:
-30-60 km. Im höheren Bergland mit aufliegender Bewölkung unter 1 km.
-Bei Auflockerungen in der Nacht zum Freitag vereinzelt flache Dunst-
-oder Nebelfelder.
+30-60 km. Bei Auflockerungen in der Nacht zum Freitag vereinzelt
+flache Dunst- oder Nebelfelder, bis zum Vormittag auflösend.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 330/10KT  13C | 030/05KT  15C |
-1000FT | 330/10KT  12C | 040/05KT  14C |
-1500FT | 330/10KT  10C | 030/05KT  12C |
-2000FT | 340/15KT  09C | 360/05KT  11C |
-3000FT | 330/15KT  07C | 290/05KT  08C |
-5000FT | 330/15KT  04C | 340/05KT  08C |
-FL100  | 330/40KT M00C | 350/20KT  03C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 310/10KT  17C | 160/10KT  12C |
+1000FT | 310/10KT  15C | 170/15KT  13C |
+1500FT | 310/10KT  13C | 190/10KT  12C |
+2000FT | 310/10KT  12C | 200/10KT  12C |
+3000FT | 310/10KT  09C | 240/05KT  10C |
+5000FT | 330/10KT  04C | 340/05KT  10C |
+FL100  | 340/30KT  02C | 340/20KT  05C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 320/05KT  12C | 360/05KT  13C |
-1500FT | 320/10KT  10C | 340/05KT  12C |
-2000FT | 320/10KT  09C | 350/05KT  12C |
-3000FT | 340/15KT  07C | 340/05KT  08C |
-5000FT | 330/20KT  03C | 340/10KT  07C |
-FL100  | 330/40KT  00C | 340/20KT  03C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 310/10KT  15C | 090/05KT  10C |
+1500FT | 310/10KT  13C | 160/05KT  11C |
+2000FT | 310/10KT  12C | 180/10KT  11C |
+3000FT | 310/15KT  09C | 210/05KT  10C |
+5000FT | 330/15KT  04C | 330/05KT  08C |
+FL100  | 350/30KT  02C | 350/20KT  05C |
 
 Turbulenz:
-Nicht signifikant.
+Im Osten zunächst noch mäßig oberhalb FL180, bis zum Abend
+abschwächend.
 
 Vereisung:
 Nicht signifikant.
 
 Nullgradgrenze:
-Anfangs FL070 im Osten und FL110 im Südwesten. Bis zum Nachmittag
-Anstieg auf FL100 im Osten und FL115 im Südwesten. In der Nacht zum
-Freitag verbreitet zwischen FL120 und FL130.
+Bis zum Nachmittag Anstieg auf FL100 im Osten und FL115 im Südwesten.
+In der Nacht zum Freitag verbreitet zwischen FL120 und FL130, Freitag
+tagsüber keine Änderung.
 
 Inversionen:
-Tagsüber Ausbildung der Absinkinversion um FL060, am Abend auf
-3500-4000 FT AMSL absinkend und später abschwächend. In der Nacht zum
-Freitag Bodeninversion unterhalb von 1000 FT AGL.
+Bis zum Nachmittag Bildung einer Absinkinversion um 5000 FT AMSL, am
+Abend auf 3500-4000 FT AMSL absinkend und später abschwächend. In der
+Nacht zum Freitag Bodeninversion unterhalb von 1000 FT AGL, am
+Vormittag auflösend oder vorübergehend in eine schwache Inversion um
+1000-1500 FT AGL übergehend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Düsseldorf  04.48 | 05.22 | 17.27 | 17.58
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Düsseldorf  17.27 | 17.58 | 04.49 | 05.23
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
 Regionale Wetterberatungszentrale Essen/Oh
