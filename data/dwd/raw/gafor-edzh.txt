@@ -1,81 +1,92 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-146
-FBEU40 EDZH 241200
+052
+FBEU40 EDZH 241800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 24.09.2026, 12.00 UTC bis 25.09.2026, 09.00 UTC
+gültig vom 24.09.2026, 18.00 UTC bis 25.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Am Rande eines von Südengland bis morgen Früh nach Süddeutschland
-wandernden Hochs wird mit einer anfangs kräftigen nordwestlichen
-Strömung kühlere Meeresluft herangeführt.
+Am Rande eines Hochs über Süddeutschland wird mit einer am Abend
+zunächst noch lebhaften nordwestlichen Strömung kühlere stabile
+Meeresluft herangeführt.
 
 Wettergeschehen:
-Verbreitet zeigt sich SCT/BKN CU/SC mit Basis in 2500 bis 3500 FT
-AMSL und Obergrenzen bei FL050 bis FL080. Vor allem im Nordosten und
-Osten kann daraus bis zum Abend zeitweise leichter bis mäßiger
-Sprühregen fallen. Dabei sinken die Wolkenuntergrenzen kurzzeitig auf
-800 bis 1500 FT AGL ab. Am Abend löst sich die Quellbewölkung auf und
-es zeigt sich SCT/BKN SC mit Untergrenzen in 2000 bis 3500 FT AMSL
-und die Obergrenzen liegen bei 3500 bis 5000 FT AMSL. Darüber zieht
-SCT/BKN CI oberhalb von FL245 durch. Bevorzugt im Süden ist es teils
-auch klar und hier können sich flache Dunst- und Nebelfelder bilden.
-Im Laufe des Vormittags lösen sich Dunst und Nebel auf und es erfolgt
-ein Übergang zu SCT/BKN CU zwischen 1500 und 3000 FT AMSL.
+Verbreitet zeigt sich BKN, im Südwesten meist FEW/SCT, SC mit Basis
+in 2500 bis 3500 FT AMSL und Obergrenzen bei 3500-4500 FT AMSL in der
+Südwesthälfte und bei 4500 FT AMSL bis FL070 in der Nordosthälfte. Im
+Nordosten und Osten fällt daraus anfangs noch streckenweise leichter
+bis mäßiger Sprühregen. Dabei sinken die Wolkenuntergrenzen
+kurzzeitig auf 800 bis 1500 FT AGL ab.
+
+In der Südwesthälfte löst sich der SC im Laufe der ersten Nachthälfte
+weitestgehend auf und lockert in der Nordosthälfte überwiegend zu
+FEW/SCT SC mit Untergrenzen in 2000 bis 3500 FT AMSL sowie
+Obergrenzen zwischen 3500 und 5000 FT AMSL auf. Darüber zieht SCT/BKN
+CI oberhalb von FL245 durch. Bevorzugt im Süden und Westen ist es in
+der Nacht gebietsweise länger klar und es können sich dort flache
+Dunst- und Nebelfelder bilden.
+
+Im Laufe des Vormittags lösen sich Dunst und Nebel auf. Über weiten
+Teilen der Deutschen Bucht, Schleswig-Holstein sowie Ostniedersachsen
+erfolgt ein Übergang zu SCT/BKN CU mit Basis zwischen 1500 und 3000
+FT AMSL und Obergrenzen zwischen 3500 und 5000 FT AMSL. Ansonsten
+bleibt es, neben ein paar FEW/SCT SC-Feldern zwischen FL140 und
+FL200, wolkenlos. Am Nachmittag löst die Bewölkung sich auch über
+Ostniedersachsen weitgehend auf.
 
 Sichtweite:
-Bei 20 bis 50 km. Im Sprühregen auf 3 bis 8 km, bei Dunst und Nebel
+Bei 30 bis 60 km. Im Sprühregen auf 3 bis 8 km, bei Dunst und Nebel
 auf 400 bis 4000 m zurückgehend.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 310/15KT  13C | 280/10KT  11C |
-1000FT | 310/15KT  12C | 290/15KT  11C |
-1500FT | 310/20KT  10C | 300/15KT  09C |
-2000FT | 320/20KT  10C | 300/15KT  08C |
-3000FT | 340/10KT  08C | 320/15KT  09C |
-5000FT | 340/15KT  05C | 320/15KT  07C |
-FL100  | 340/20KT  01C | 330/20KT  04C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 300/10KT  12C | 250/10KT  13C |
+1000FT | 320/20KT  11C | 250/10KT  12C |
+1500FT | 320/20KT  09C | 260/15KT  10C |
+2000FT | 320/20KT  08C | 260/15KT  09C |
+3000FT | 290/05KT  08C | 300/10KT  09C |
+5000FT | 320/10KT  07C | 310/10KT  08C |
+FL100  | 330/15KT  03C | 330/20KT  04C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 310/15KT  15C | 280/10KT  09C |
-1000FT | 310/20KT  14C | 290/15KT  10C |
-1500FT | 310/20KT  12C | 290/10KT  09C |
-2000FT | 310/20KT  11C | 290/10KT  08C |
-3000FT | 310/20KT  08C | 280/05KT  06C |
-5000FT | 310/25KT  02C | 320/15KT  07C |
-FL100  | 340/25KT  00C | 340/20KT  03C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 290/10KT  12C | 210/05KT  12C |
+1000FT | 310/15KT  12C | 220/05KT  10C |
+1500FT | 310/15KT  10C | 250/05KT  09C |
+2000FT | 320/15KT  09C | 260/05KT  08C |
+3000FT | 320/15KT  06C | 290/05KT  10C |
+5000FT | 330/05KT  05C | 320/10KT  08C |
+FL100  | 350/15KT  03C | 340/20KT  04C |
 
 Turbulenz:
-Bis zum späten Nachmittag mäßig unterhalb von 2000-3000 FT AMSL.
-Ansonsten mäßig oberhalb von FL160, am Abend ostwärts abziehend.
+Anfangs noch mäßig oberhalb von FL160, in der ersten Nachthälfte
+ostwärts abziehend.
 
 Vereisung:
 Keine signifikante.
 
 Nullgradgrenze:
-Im Norden um FL100 und im Süden um FL065. Im weiteren Tagesverlauf
-ansteigend mit Werten am Abend um FL130 auf Helgoland und um FL115
-bei Braunschweig. Ab Freitagmorgen einheitlich zwischen FL125 und
-FL135.
+Anfangs zwischen FL110 in der Osthälfte und FL130 in der Westhälfte.
+In der Nacht auf Werte zwischen FL125 und FL135 vereinheitlichend.
 
 Inversionen:
-Absinkinversion zwischen FL070 und FL100, bis zum Abend auf 3500 bis
-6000 FT AMSL absinkend. In der Nacht bildet sich eine Bodeninversion
-unterhalb von 1000 FT AMSL aus, die sich am Vormittag auflöst.
+Absinkinversion zwischen 3500 und 5000 FT AMSL in der Westhälfte und
+bei 4500 FT AMSL bis FL070 in der Osthälfte. In der Nacht bildet sich
+über Land eine Bodeninversion unterhalb von 1500 FT AGL aus, die am
+Vormittag anhebt und sich auflöst. Die Absinkinversion
+vereinheitlicht sich in der Nacht auf 3500 bis 5000 FT AMSL.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  17.16 | 17.52 | 04.36 | 05.12
-Hannover  17.15 | 17.50 | 04.36 | 05.12
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  04.36 | 05.12 | 17.13 | 17.49
+Hannover  04.36 | 05.12 | 17.13 | 17.47
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 25.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/BR
+Luftfahrtberatungszentrale Hamburg/MS

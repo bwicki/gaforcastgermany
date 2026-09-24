@@ -1,92 +1,105 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-615
-FBEU40 EDZB 241200
+651
+FBEU40 EDZB 241800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 24.09.2026, 12.00 UTC bis 25.09.2026, 09.00 UTC
+gültig vom 24.09.2026, 18.00 UTC bis 25.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Zwischen einem Tief über dem Baltikum und einem Hochdruckgebiet über
-Benelux fließt mit teils lebhafter West- bis Nordwestströmung
-wolkenreiche, kühle und leicht labil geschichtete Meeresluft nach
+Am Rande eines Hochs mit Schwerpunkt über Südwestdeutschland fließt
+mit nordwestlicher Strömung kühle und wolkenreiche Meeresluft nach
 Ostdeutschland.
 
 Wettergeschehen:
-Heute Nachmittag verbreitet SCT/BKN CU/SC in 2000-5000 FT AMSL, von
-der Mecklenburgischen See bis in die Altmark bei 1500-2500 FT AMSL,
-Obergrenze bei FL070-100, darüber wolkenlos. Vor allem von
-Westmecklenburg über Sachsen-Anhalt, Westbrandenburg bis nach Sachsen
-und Westthüringen örtlich eingelagerte TCU/CB mit Tops bis maximal
-FL110, Untergrenze um 2000 FT AMSL sowie südwärts ziehenden
-Regenschauern, im Nordwesten Sprühregenschauer. Am Erzgebirge
-zeitweise Staubewölkung um 2000 FT AMSL mit Berge in Wolken.
+Heute Abend und eingangs der Nacht verbreitet BKN SC mit Untergrenze
+in 5000 FT AMSL und Obergrenze bis FL080. Darüber meist wolkenlos.
+Darunter in einem breiten Streifen von Mecklenburg über
+Mitteldeutschland bis ins Erzgebirge und Lausitzer Bergland hinein
+verbreitet BKN CU/TCU mit Untergrenze in etwa 3000 FT AMSL und
+Obergrenze bis FL080. Daraus fallen bis in die Nacht hinein örtlich
+leichte Schauer. Sie schwächen sich von Norden her zwar ab, bleiben
+aber die ganze Nacht über immer wieder leicht aktiv. Dieser besagte
+Wolkenstreifen verlagert sich in der zweiten Nachthälfte langsam nach
+Osten an Oder und Neiße. Unterhalb dieses Streifens befinden sich vor
+allem nördlich von Berlin zusätzlich SCT/BKN SC in 1000 bis 2000 FT
+AMSL. Auch sie verlagern sich langsam mit nach Osten.
+Zwischen Altmark, Berlin, Niederlausitz und Ostsee kommt es über
+Nacht zunehmend zur Ausbildung von Nebel und SCT/BKN flachem ST in
+100 FT GND. Daraus fällt zeitweise leichter Sprühregen. Die
+Obergrenze der darüberliegenden Bewölkung senkt sich auf etwa 5000 FT
+AMSL ab, bleibt aber meist so kompakt, dass VFR- Flüge unterhalb von
+5000 FT AMSL dort nicht möglich sind. In Sachsen-Anhalt, dem
+südlichen Brandenburg und Sachsen kommt es nur vereinzelt zu flachen
+Nebelfeldern, so dass es bei BKN SC/CU zwischen 2000 FT AMSL und
+FL050 bleibt. Lediglich die Hochlagen von Erzgebirge, Lausitzer
+Bergland und Zittauer Gebirge sind dann noch in Wolken. In Thüringen
+und in der Harzregion löst sich die Bewölkung zunehmend auf und da
+die bodennahe Luftmasse dort trockener ist, kommt es nur vereinzelt
+zu Nebelfeldern.
 
-Am Abend und eingangs der Nacht zum Freitag langsam abklingende
-Schauer. Dann vom Harz bis Thüringen meist klar, aber im Verlauf in
-Tälern und Flussniederungen Nebelbildung. Sonst verbreitet SCT/BKN SC
-zwischen 3000 FT AMSL und FL080, im Norden zwischen 2000 FT AMSL und
-FL060. Zudem in Vorpommern und Nordostbrandenburg nach anfangs teils
-wolkenlosen Bedingungen Aufzug/Ausbreitung von SCT/BKN ST in 500-1500
-FT AGL. Weitgehend niederschlagsfrei.
-
-Am Freitagvormittag in der Südwesthälfte zunächst wolkenlos,
-vorhandene Nebelfelder lösen sich rasch auf. Sonst verbreitet BKN SC
-im Höhenbereich zwischen 2000 FT AMSL und FL060, darüber im
-Nordwesten SCT/BKN AC/AS oberhalb FL160. Der Stratus im Nordosten
-hebt langsam auf 1000 bis 2000 FT AMSL an. Es ist verbreitet trocken.
+Am Freitagvormittag gibt es bereits zu Anfang westlich von Elbe und
+Mulde und bis nach Wismar erstreckend einen nahezu wolkenlosen
+Bereich, in dem im Vormittagsverlauf FEW/SCT flache CU in 2000 FT
+entstehen. Darüber kommt im Tagesverlauf von Westen her mittelhohe
+Bewölkung oberhalb von FL150 auf.
+Westlich davon heben sich die tiefen Wolken- und Nebelfelder im
+Vormittagsverlauf nur langsam an. Gegen Mittag sind aber auch dort
+SCT/BKN CU in 2000 FT AMSL die tiefsten Wolken. Sie bleiben flach mit
+Obergrenze bei maximal 3000 FT AMSL und lockern sich im Tagesverlauf
+weiter auf. Darüber zieht zunehmend mittelhohe Bewölkung oberhalb von
+FL150 auf.
 
 Sichtweite:
-20 bis über 50 km, im Regen sowie unter Stratus auf 7-12 km und bei
-kräftigeren Schauern/Sprühregen kurzzeitig auf 2-7 km zurückgehend.
+Meist 20 bis 50 km. Nachts unter tiefem Stratus zwischen 1 und 5 km
+durch Sprühregen. Gebietsweise auch Nebel.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  15 UTC  |  06 UTC  |
- 500FT | 290/15KT  14C | 290/10KT  10C |
-1000FT | 290/15KT  12C | 310/15KT  09C |
-1500FT | 290/15KT  10C | 310/15KT  09C |
-2000FT | 300/15KT  09C | 310/15KT  09C |
-3000FT | 320/15KT  07C | 300/10KT  07C |
-5000FT | 330/15KT  04C | 290/10KT  05C |
-FL100  | 350/20KT M01C | 330/15KT  01C |
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 290/10KT  12C | 280/10KT  12C |
+1000FT | 300/20KT  11C | 290/10KT  10C |
+1500FT | 320/15KT  10C | 290/15KT  08C |
+2000FT | 320/15KT  10C | 290/15KT  07C |
+3000FT | 340/10KT  08C | 280/15KT  05C |
+5000FT | 340/15KT  05C | 280/10KT  06C |
+FL100  | 360/15KT  02C | 340/25KT  02C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 320/15KT  14C | 280/10KT  10C |
-1500FT | 320/20KT  12C | 310/10KT  09C |
-2000FT | 320/20KT  11C | 320/10KT  08C |
-3000FT | 320/25KT  07C | 290/10KT  06C |
-5000FT | 320/25KT  03C | 290/10KT  01C |
-FL100  | 340/25KT M03C | 340/20KT  01C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 290/15KT  12C | 250/05KT  11C |
+1500FT | 300/20KT  11C | 250/05KT  09C |
+2000FT | 310/25KT  10C | 250/05KT  08C |
+3000FT | 320/25KT  07C | 230/10KT  05C |
+5000FT | 320/15KT  04C | 280/10KT  03C |
+FL100  | 360/20KT  01C | 340/15KT  03C |
 
 Turbulenz:
-Tagsüber Böen zwischen 20 und 30 KT und dementsprechend mäßige
-Turbulenz unterhalb 5000 FT AMSL. Zudem mäßig bis stark in
-TCU/CB-Nähe.
+Nicht signifikant.
 
 Vereisung:
-Mäßig bis stark im TCU/CB.
+In der Nacht mäßig an der Obergrenze der Bewölkung zwischen FL060 und
+FL080. Am Freitag tagsüber keine mehr.
 
 Nullgradgrenze:
-FL060-080, von Westen bis zum Abend auf FL080-110, bis
-Freitagvormittag auf FL100-130 ansteigend.
+Anfangs zwischen FL060 im Süden und FL100 an der See. Im Lauf der
+zweiten Nachthälfte auf FL100 bis FL120 ansteigend.
 
 Inversionen:
-Absinkinversion zwischen FL060-100, bis Freitagvormittag allgemein
+Absinkinversion zwischen FL060-080, bis Freitagvormittag allgemein
 auf FL060 absinkend. Zudem in der Nacht insbesondere im Südwesten
 Bodeninversion unterhalb 500-1000 FT AGL, Freitagvormittag wieder
 auflösend.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Berlin  17.00 | 17.34  | 04.21 | 04.56
-Leipzig  17.05 | 17.39  | 04.28 | 05.02
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Berlin  04.21 | 04.56 | 16.58 | 17.32
+Leipzig  04.28 | 05.02 | 17.03 | 17.36
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 25.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Ru
+Luftfahrtberatungszentrale Berlin/Oe

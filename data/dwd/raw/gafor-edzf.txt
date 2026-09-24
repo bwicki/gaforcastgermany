@@ -1,64 +1,65 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-628
-FBEU40 EDZF 241200
+048
+FBEU40 EDZF 241800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 24.09.2026, 12.00 UTC bis 25.09.2026, 09.00 UTC
+gültig vom 24.09.2026, 18.00 UTC bis 25.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 Der Vorhersagebereich liegt im Einfluss eines Hochs, das seinen
 Schwerpunkt von Frankreich nach Deutschland verlagert. Mit
-nordwestlicher Strömung fließt kühle bis mäßig warme und stabile Luft
-ein, die im Verlauf abtrocknen und sich erwärmen kann. Kommende Nacht
-bildet sich lokal eine flache feuchte Grundschicht aus, die am
-Vormittag wieder abtrocknet.
+nordwestlicher Strömung fließt kühle warme und stabile Luft ein.
+Kommende Nacht bildet sich lokal eine flache feuchte Grundschicht
+aus, die am Vormittag wieder abtrocknet.
 
 Wettergeschehen:
-Verbreitet zeigt sich SCT/BKN CU/SC mit Basis zwischen 3500 und 5000
-FT AMSL. Die Tops liegen um FL070. Vor allem südwestlich einer Linie
-Koblenz-Schwäbisch Hall zieht SCT/BKN AS/CI oberhalb FL160 von
-Nordwest nach Südost durch.
+Teils zeigt sich noch FEW/SCT CU/SC mit Basis um FL050. Die Tops
+liegen um FL070. Vor allem südwestlich einer Linie Karlsruhe -
+Kempten zieht SCT/BKN AS/CI oberhalb FL160 nach Süden ab, dort fällt
+noch etwas Regen.
 
-Am Abend trocknet die Quellbewölkung allmählich ab, während die
-Untergrenzen auf Werte um 5000 FT AMSL ansteigen. Die Tops sinken auf
-etwa FL060 ab. Die mittelhohe bis hohe Schichtbewölkung im Südwesten
-zieht südwärts ab, sodass es dann bis auf durchziehenden dünnen CI
-oberhalb FL245 verbreitet wolkenlos ist.
+Im weiteren Verlauf trocknet die Quellbewölkung allmählich ab. Die
+mittelhohe bis hohe Schichtbewölkung im Südwesten zieht südwärts ab,
+sodass es dann bis auf durchziehenden dünnen CI oberhalb FL245
+verbreitet wolkenlos ist.
 
 Vor allem ab der zweiten Nachthälfte bilden sich insbesondere in
 Tallagen und Flussniederungen örtliche Nebelfelder aus. Schwerpunkte
 sind die Gebiete nördlich des Mains, sowie der Oberrheingraben und
 das Neckartal.
 Die Nebelfelder lösen sich Freitagvormittag auf.
+Am Freitag ziehen tagsüber einzelne AC/CI Felder oberhalb von FL150
+von West nach Ost. Zum Mittag bilden sich vor allem über dem
+östlichen Bergland FEW/SCT CU mit von 3500 FT AMSL auf FL050
+anhebenden Untergrenzen. Es bleibt niederschlagsfrei.
 
 Sichtweite:
 40-70 km. Im Nebel Sichtrückgang auf unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 320/10KT  16C | 020/05KT  00C |
-1500FT | 320/15KT  14C | 200/05KT  10C |
-2000FT | 320/15KT  13C | 220/05KT  10C |
-3000FT | 320/15KT  09C | 260/05KT  08C |
-5000FT | 320/15KT  04C | 340/10KT  08C |
-FL100  | 350/30KT M00C | 350/20KT  04C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 260/05KT  12C | 210/05KT  11C |
+1500FT | 300/05KT  12C | 210/05KT  10C |
+2000FT | 320/05KT  11C | 210/10KT  10C |
+3000FT | 330/10KT  08C | 220/10KT  08C |
+5000FT | 320/10KT  04C | 330/05KT  08C |
+FL100  | 350/15KT  03C | 350/20KT  05C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  15 UTC  |  06 UTC  |
-1000FT | 040/10KT  18C | 050/05KT  11C |
-1500FT | 040/10KT  16C | 080/05KT  12C |
-2000FT | 040/10KT  15C | 070/05KT  12C |
-3000FT | 010/10KT  11C | 050/05KT  10C |
-5000FT | 300/10KT  07C | 010/05KT  09C |
-FL100  | 330/40KT  02C | 360/20KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1000FT | 080/10KT  16C | 010/05KT  13C |
+1500FT | 070/10KT  14C | 130/05KT  13C |
+2000FT | 070/15KT  13C | 180/05KT  12C |
+3000FT | 040/10KT  10C | 200/05KT  11C |
+5000FT | 330/05KT  06C | 050/05KT  10C |
+FL100  | 350/25KT  02C | 360/15KT  05C |
 
 Turbulenz:
-In einem Streifen von Hessen bis zur Schwäbischen Alb örtlich mäßig
-oberhalb FL180, bis zum Abend abschwächend.
+Nicht signifikant.
 
 Vereisung:
 In der AS/CI-Bewölkung mäßig, vereinzelt auch stark zwischen FL160
@@ -74,13 +75,13 @@ Freitagfrüh auf 3500 FT AMSL bis FL060 absinkend. Außerdem ab dem
 Abend Ausbildung einer örtlichen teils markanten Bodeninversion mit
 Temperaturdifferenz um 10 K, die sich am Vormittag wieder auflöst.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Gießen  17.20 | 17.52 | 04.43 | 05.16
-Karlsruhe  17.21 | 17.52 | 04.45 | 05.17
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Gießen  04.43 | 05.16 | 17.17 | 17.49
+Karlsruhe  04.45 | 05.17 | 17.18 | 17.49
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 25.09.2026 um 02.00
+UTC
 
-Flugwetterzentrale Frankfurt/mb
+Flugwetterzentrale Frankfurt/Hr
