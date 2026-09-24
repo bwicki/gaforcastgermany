@@ -1,106 +1,105 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-955
-FBEU40 EDZF 231800
+371
+FBEU40 EDZF 240600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 23.09.2026, 18.00 UTC bis 24.09.2026, 15.00 UTC
+gültig vom 24.09.2026, 06.00 UTC bis 25.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Ein Hochdruckgebiet ist unter einer kühl-trockenen Luftmasse und
-einer nordwestlichen Höhenströmung wetterbestimmend. Im Laufe der
-Nacht zieht eine schwache Kaltfront eines Tiefs über Südskandinavien
-von Nordwesten heran und führt vorübergehend, vor allem in den
-unteren Schichten, feuchtere und leicht labile Luft heran.
-Bereits am Donnerstagmorgen zieht die Kaltfront ostwärts ab.
-Rückseitig trocknet die feuchtere Luft ab.
+Ausgehend von einem Tief über der Ostsee erstreckt sich eine schwache
+Kaltfront über Nordostdeutschland, Hessen bis nach Frankreich. Mit
+einer nordwestlichen Strömung wird eine vor allem in den unteren
+Schichten feuchte, leicht labile und kühlere Luftmasse herangeführt.
+Im Süden des Vorhersagegebietes ist Hochdruckeinfluss mit einer
+warmen, trockenen und stabilen Luftmasse wetterbestimmend.
+Im Laufe des Morgens verlässt die Front das Vorhersagegebiet
+Südostwärts. Rückseitig trocknet die feuchtere Luft ab und es stellt
+sich Hochdruckeinfluss ein. In der Nacht zum Freitag bildet sich
+lokal eine feuchte Grundschicht aus.
 
 Wettergeschehen:
-Westlich etwa einer Linie Karlsruhe-Rhön zeigt sich BKN SC zwischen
-FL070-090 und FL100-110. Östlich der genannten Linie ist es abgesehen
-von teils durchziehenden CI-Feldern oberhalb von FL245 wolkenfrei.
+Nördlich einer Linie zwischen Saarbrücken und dem Odenwald ist eine
+BKN/OVC ST/SC-Bewölkung mit Untergrenzen zwischen 2500 und 3500 FT
+AMSL, vereinzelt auch mal um 2000 FT AMSL, wetterbestimmend. Die
+Obergrenzen befinden sich um FL080. Berge in den Wolken. Im
+restlichen Gebiet ist, bis auf den Südwesten Baden-Württembergs, eine
+SCT/BKN ST/SC-Bewölkung zwischen 3000 und 5000 FT AMSL vorhanden. Im
+Südwesten Baden-Württembergs ist es bis auf einzelne SC-Felder um
+FL060 nahezu wolkenfrei. Zudem ist in Mittel- und Südhessen sowie im
+Norden von Baden-Württemberg eine SCT/BKN AS/CI-Bewölkung oberhalb
+von FL160 vorhanden.
 
-Im Laufe der ersten Nachthälfte zieht die dichtere SC-Bewölkung
-südostwärts, überquert Osthessen und Baden-Württemberg und zieht ab.
-Rückseitig zeigt sich dichte CI-Bewölkung oberhalb von FL245.
-In der zweiten zieht mit der Kaltfront BKN/OVC SC-Bewölkung auf,
-Basis bei 3500-4500 FT AMSL, Obergrenzen bei FL070-090. Diese
-erreicht zunächst die Bereiche vom Hunsrück bis nach Nordhessen und
-breitet sich weiter südostwärts aus. Verbreitet bleibt es
-niederschlagsfrei. Nördlich des Mains können flache TCU bis FL100
-eingelagert sein, die mit leichten Regenschauern einhergehen.
-
-Ausgangs der Nacht hat sich die SC-Bewölkung fast auf das gesamte
-Gebiet ausgebreitet. Lediglich im äußersten Südwesten
-Baden-Württembergs ist es teils noch wolkenfrei mit einzelnen
-SC-Feldern um FL060. In den Bereichen vom Hunsrück bis nach
-Nordhessen verdichtet sich die Bewölkung zu BKN/OVC ST/SC bei
-2500-3500 FT AMSL, vereinzelt auch um 2000 FT AMSL, Obergrenzen um
-FL060.
-
-Bis zum Mittag breitet sich die Bewölkung südostwärts aus und geht
-über in SCT/BKN CU/SC mit Basis bei 2500-3500 FT AMSL, Obergrenzen
-bei 4500 FT AMSL-FL060. Darüber zieht im Südwesten noch BKN/OVC AC/CI
-oberhalb von FL170-200 durch. Im Norden und Osten Hessen teils noch
-dünne AC-Felder um FL100-130.
+Bis zum Mittag hebt die Bewölkung nach und nach an und lockert von
+Norden auf. Es stellt sich eine SCT/BKN SC-Bewölkung mit Untergrenzen
+um 5000 FT AMSL und Obergrenzen um FL080 ein. Zudem verlagert sich
+die SCT/BKN AS/CI-Bewölkung nach Südwesten und betrifft bis zum
+Mittag das Gebiet südlich einer Linie zwischen Hunsrück und
+Neckarraum.
 
 Am Mittag und Nachmittag lockert die Bewölkung weiter zu flachen
-FEW/SCT CU mit Basis um 5000 FT AMSL auf. Westlich des Rheins sowie
-in Baden-Württemberg zieht darüber dichte AC/CI-Bewölkung oberhalb
-von FL170. In Osthessen zeigen sich weiterhin AC-Felder um FL100-130.
+FEW/SCT SC mit Basis um 5000 FT AMSL auf. Die SCT/BKN AS/CI-Bewölkung
+bleibt erhalten.
+
+Bis zur Nacht verlagert sich die BKN/OVC AC/CI-Bewölkung oberhalb von
+FL170 weiter nach Südosten und betrifft eine Linie Südlich zwischen
+Saarbrücken und Nordschwarzwald. Im restlichen Gebiet trocknet die
+Bewölkung nach und nach ab.
+
+In der Nacht zieht die BKN/OVC AC/CI-Bewölkung nach Südwesten ab.
+Zudem bilden sich lokal Dunst- und Nebelfelder aus.
 
 Sichtweite:
 40-70 km. In der Nacht im Bereich der schwachen Kaltfront und unter
-dem ST 10-20 km.
+dem ST 10 bis 20 km, im Dunst 1 bis 5 km, im Nebel unter 1 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 230/05KT  16C | 320/10KT  13C |
-1500FT | 250/15KT  16C | 320/15KT  11C |
-2000FT | 260/15KT  15C | 320/15KT  10C |
-3000FT | 280/25KT  12C | 320/15KT  07C |
-5000FT | 290/25KT  09C | 330/20KT  03C |
-FL100  | 290/25KT  01C | 320/35KT M03C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 320/10KT  13C | 270/05KT  12C |
+1500FT | 320/10KT  11C | 310/05KT  12C |
+2000FT | 320/15KT  10C | 330/05KT  11C |
+3000FT | 330/15KT  06C | 340/10KT  08C |
+5000FT | 330/20KT  02C | 340/10KT  04C |
+FL100  | 320/40KT M03C | 350/15KT  02C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 220/10KT  20C | 240/05KT  15C |
-1500FT | 240/10KT  19C | 350/05KT  14C |
-2000FT | 260/10KT  18C | 350/05KT  13C |
-3000FT | 290/15KT  14C | 330/05KT  10C |
-5000FT | 300/15KT  11C | 300/20KT  07C |
-FL100  | 300/20KT  01C | 300/40KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 200/05KT  16C | 070/10KT  16C |
+1500FT | 290/05KT  15C | 060/15KT  14C |
+2000FT | 310/05KT  14C | 050/10KT  13C |
+3000FT | 320/10KT  11C | 050/10KT  09C |
+5000FT | 300/20KT  08C | 020/05KT  05C |
+FL100  | 300/45KT  02C | 340/25KT  02C |
 
 Turbulenz:
-Nördlich des Mains aufkommende mäßige Turbulenz oberhalb von FL200,
-in der Nacht nordostwärts aus dem Gebiet ziehend, am Vormittag wieder
-südostwärts zurück in die Gebiete nördlich des Mains ziehend, gegen
-Mittag von Nordhessen bis in den Nordosten Baden-Württembergs
-reichend.
+Im Norden und Nordosten des Vorhersagegebietes teils mäßige Turbulenz
+oberhalb von FL200. Donnerstagabend nach Osten abziehend.
 
 Vereisung:
-Ab dem Mittag mäßig westlich des Rheins sowie über Baden-Württemberg
-zwischen FL170 und FL220.
+Teils mäßig südlich einer Linie zwischen Nordhessischen Bergland und
+Rhön, zwischen FL160 und FL220, nach Südwesten verlagernd. In der
+Nacht nach Südwesten abziehend.
 
 Nullgradgrenze:
-Zwischen FL110-120 im Norden und FL125-135 im Südwesten. Nachts
-absinkend, ab dem Morgen zwischen FL060-070 im Norden und FL110-120
-im Süden. Am Nachmittag leicht anhebend, dann im Norden um FL085, im
-Süden um FL120.
+Zwischen FL080 im Norden und FL125 im Süden. Bis zum Ende des
+Vorhersagezeitraumes im Osten auf FL130 und im Westen auf FL140
+ansteigend.
 
 Inversionen:
-Keine signifikante.
+Absinkinversion zwischen FL060 und FL100. In der Nacht zum Freitag
+auf um 4000 FT AMSL absinkend.
+In der Nacht bildet sich lokal eine flache Bodeninversion unterhalb
+von 1200 FT AMSL aus.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.41 | 05.14 | 17.20 | 17.52
 Karlsruhe  04.43 | 05.15 | 17.21 | 17.52
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 24.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/Ts
+Flugwetterzentrale Frankfurt/MJ

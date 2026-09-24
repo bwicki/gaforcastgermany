@@ -1,107 +1,124 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-954
-FBEU40 EDZM 231800
+387
+FBEU40 EDZM 240600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 23.09.2026, 18.00 UTC bis 24.09.2026, 15.00 UTC
+gültig vom 24.09.2026, 06.00 UTC bis 25.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Das In der Nacht zieht ein Tief über Dänemark Richtung Polen. Die
-zugehörige Kaltfront zieht in der zweiten Nachthälfte von Norden nach
-Bayern und verlagert sich bis an die Alpen. Über dem Westen Bayerns
-und über Baden-Württemberg bleibt die Front nahezu wetterinaktiv, und
-es setzt sich hier Donnerstagvormittag, im Osten erst am späten
-Nachmittag bereits wieder Zwischenhocheinfluss durch.
+Ein Randtief verlagert sich vom Kattegat Richtung Polen. Die
+zugehörige schwache Kaltfront überquert Süddeutschland im
+Tagesverlauf südwärts. Rückseitig gerät die einfließende kühle
+Meeresluft rasch wieder unter Hochdruckeinfluss und trocknet ab. In
+der Nacht zum Freitag bildet sich gebietsweise eine feucht-kalte
+Grundschicht aus.
 
 Wettergeschehen:
-Verbreitet ist es wolkenlos oder es zeigen sich CI-Felder oberhalb
-FL240.
+Nördlich der Donau liegt BKN/OVC SC/AC mit Basis zwischen 3000 und
+5000 FT AMSL und Obergrenze zwischen FL080 und FL120. Von Oberfranken
+bis Niederbayern fällt örtlich leichter Regen mit Sprühregen aus.
+Südlich der Donau zieht SCT/BKN SC/AC zwischen FL060 und FL100 durch.
+Über dem SC/AC zeigen sich verbreitet CI-Felder oberhalb FL180-240.
 
-Im Laufe der Nacht ziehen von Nordwesten her verbreitet SCT AC-Felder
-in FL090-110 herein, die in der zweiten Nachthälfte auch die Alpen
-und den Südosten erreichen. Gleichzeitig driften in die Gebiete
-nördlich des Mains SC-Felder bei 5000-6000 FT AMSL herein. Flache
-Nebelfelder bilden sich nur selten entlang von größeren Flüssen.
-Gegen Donnerstagmorgen trocknen die AC-Felder über Württemberg und
-dem Westen Frankens bereits wieder ab. Die SC-Felder weiten sich bis
-zum frühen Vormittag etwa bis zur Donau aus. Die Untergrenzen sinken
-am Untermain auf 3500 FT AMSL ab. Darüber immer wieder wechselnd
-dichte SCT/BKN AC/CI-Bewölkung oberhalb FL160.
+Im Laufe des weiteren Morgens und Vormittags breitet sich der
+dichtere SC/AC von Norden auch in die Gebiete südlich der Donau aus.
+Die Basis sinkt nördlich der Donau weiter auf 2500 bis 4000 FT AMSL
+ab, südlich der Donau auf 4000 FT AMSL bis FL060 und an den Alpen am
+Vormittag auf FL060 bis FL090. Besonders in der Ost- und Südosthälfte
+Bayerns fällt weiter zeitweise leichter Regen mit Sprühregen aus der
+Bewölkung aus.
 
-Im weiteren Vormittagsverlauf geht die SC-Bewölkung zu SCT/BKN CU/SC
-in 3500-4500 FT AMSL über. Darüber zeigen sich weiterhin SCT/BKN
-AC/CI. Die SC-Bewölkung erreicht am späteren Vormittag auch das
-Alpenvorland, hier aber meist mit Untergrenzen bei 4500-5500 FT AMSL.
-Auch hier liegt darüber noch eher dichte Schichtbewölkung. Im Bereich
-vom südlichen Oberfranken bis nach Niederbayern fällt örtlich etwas
-Regen aus der Bewölkung, vereinzelt auch mit Sprühregen versetzt.
+Im Laufe des Vormittags lockert die Bewölkung vom nördlichen Franken
+her bereits auf und geht in SCT/BKN CU mit Anfangsbasis zwischen 2500
+und 4000 FT AMSL über.
+Die Quellbewölkung hebt bis zum Nachmittag auf FL050 bis FL070 an,
+lockert zu SCT auf und setzt sich am Nachmittag auch im Süden Bayerns
+durch. Gebietsweise kommt es vor allem in der Nordosthälfte nochmals
+zu Ausbreitungen des CU zu BKN SC/AC zwischen FL070 und FL100.
+Am Alpenrand bleibt es voraussichtlich auch am Nachmittag noch bei
+BKN SC/AC mit Basis zwischen FL050 und FL070, allerdings vielfach mit
+SC-Feldern zwischen 3000 und 5000 FT AMSL darunter und CI-Feldern
+oberhalb FL180 darüber. Der vormittägliche leichte Regen geht am
+Nachmittag an den östlichen Mittelgebirgen sowie zwischen Bayerischem
+Wald und Alpen in einzelne Schauer aus von der Schichtbewölkung
+umgebenen TCU/CB über, CB-Tops meist um FL170. Einzelne Gewitter sind
+am Alpenrand im Laufe des Nachmittags nur gering wahrscheinlich.
 
-Über Mittag und am Nachmittag trocknen von Norden und Nordwesten her
-die CU/SC-Bewölkung zu FEW/SCT CU bei etwa 4000 FT AMSL ab,
-Obergrenzen um FL060, darüber noch SCT AC bei FL140-160. In einem
-Streifen von der Schwäbischen Alb bis ins Chiemgau bleibt bis zum
-Nachmittag oft BKN CU/SC erhalten, besonders im Chiemgau ist im Stau
-der Alpen örtlich noch Regen mit z.T. schauerartigem Charakter
-möglich. Direkt an bzw. in den Alpen östlich des Inns ist auch ein CB
-mit einem kurzen Gewitter nicht auszuschließen. Die höhere
-AC/CI-Bewölkung zieht unterdessen Richtung Oberschwaben und Schweiz
-ab, gleichzeitig entsteht nochmals BKN AC im Bereich der östlichen
-Mittelgebirge bei FL090-110.
+Im Laufe des Abends trocknet die CU/SC-Bewölkung verbreitet ab und
+der schauerartig verstärkte Niederschlag an den Alpen klingt auch ab.
+Zurück bleiben einzelne SC/AC-Felder, entlang der östlichen
+Mittelgebirge gebietsweise auch SCT/BKN SC/AC mit Basis zwischen
+FL050 und FL070. An den Alpen und im südlichsten Vorland bleibt
+zunächst BKN SC/AC mit Basis zwischen FL050 und FL070 zurück.
+Im Laufe der Nacht zum Freitag trocknet der SC/AC verbreitet weiter
+ab und es bleiben nur noch örtlich einzelne Schollen zurück. Mit
+Auflockerung bildet sich mit Schwerpunkt in Gewässernähe flacher
+Nebel oder Dunst aus. In der zweiten Nachthälfte zum Freitag ziehen
+von Westen wieder vermehrt CI-Felder oberhalb FL240 heran.
 
 Sichtweite:
-In der Nacht zum Donnerstag von Norden her allmählicher Sichtrückgang
-von 40-60 auf etwa 20 km. Tagsüber wieder auf 20-40 km ansteigend,
-bei Regen zwischen 8 und 15, bei Sprühregen kleinräumig 4-8 km.
+20 bis 40 km, im leichten Regen örtlich um 10 km, im Schauer oder
+Gewitter lokal 2 bis 6 km. Im Tagesverlauf von Norden allgemeine
+Besserung auf 30 bis 60 km. In der Nacht zum Freitag im Dunst 1 bis 5
+km, im Nebel wenige hundert Meter.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 240/05KT  15C | 330/15KT  13C |
-2000FT | 240/05KT  15C | 330/20KT  12C |
-3000FT | 270/15KT  11C | 320/20KT  08C |
-5000FT | 290/20KT  08C | 310/20KT  05C |
-FL100  | 310/25KT  02C | 300/40KT M02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 330/15KT  13C | 320/05KT  12C |
+2000FT | 330/15KT  12C | 330/10KT  12C |
+3000FT | 330/20KT  08C | 340/10KT  08C |
+5000FT | 320/25KT  04C | 330/10KT  04C |
+FL100  | 300/40KT M03C | 010/15KT M01C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 200/05KT  15C | 280/15KT  14C |
-3000FT | 260/10KT  13C | 300/25KT  11C |
-5000FT | 290/25KT  09C | 290/30KT  08C |
-FL100  | 310/25KT  02C | 290/40KT M02C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 280/20KT  14C | 320/05KT  13C |
+3000FT | 300/30KT  10C | 340/10KT  09C |
+5000FT | 290/30KT  08C | 330/10KT  04C |
+FL100  | 290/40KT M02C | 320/10KT M05C |
 
 Turbulenz:
-In der Nacht von Norden her aufkommende, mäßige Turbulenz zwischen
-FL070 und FL120. Donnerstag tagsüber in Kammlagen der Mittelgebirge
-und auf den Alpen leichte bis mäßige Turbulenz bis FL060-100.
+Von Nord nach Süd mäßige Turbulenz zwischen FL070 und FL140, am Abend
+auch im Süden abschwächend. Vor allem im Mittelgebirgs- und im
+Alpenraum gebietsweise mäßige Reibungsturbulenz unterhalb FL060 bis
+FL100, am Donnerstagabend abschwächend. In Verbindung mit TCU/CB
+mäßig bis stark. Ab dem Nachmittag von Norden mäßige Turbulenzbänder
+oberhalb FL200, in der Nacht zum Freitag abschwächend.
 
 Vereisung:
-Ab dem frühen Donnerstagmorgen in der SC-Bewölkung vor allem nach
-Osten hin mäßig zwischen FL080 und FL120, nach Westen hin in der
-AC-Bewölkung zwischen FL090-100 und FL160, dort am Donnerstag
-abschwächend.
+Im dichteren SC/AC gebietsweise mäßig zwischen Nullgradgrenze und
+FL150, örtlich bis FL190, am Donnerstagabend abschwächend, zuletzt an
+den Alpen. In Verbindung mit TCU/CB mäßig bis stark.
 
 Nullgradgrenze:
-In der Nacht zum Donnerstag in Franken gegen FL080 absinkend, sonst
-bei FL100-120. Am Donnerstag tagsüber in Baden-Württemberg und in den
-Allgäuer Alpen bei FL080-100, in den östlichen bayerischen Alpen und
-in den östlichen Mittelgebirgen bei FL060.
+Zunächst zwischen FL080 im nördlichen Franken und FL115 am Bodensee.
+Im Tagesverlauf von Norden absinkend. Am Abend zwischen FL065 in
+Oberfranken und FL105 im westlichen Schwaben. In der Nacht zum
+Freitag erneuter Anstieg auf FL105 entlang der östlichen
+Mittelgebirge bis FL130 im westlichen Schwaben, entlang der östlichen
+Mittelgebirge gebietsweise mit negativ temperierter Schicht zwischen
+FL070 und FL090 darunter. Zudem in der Nacht zum Freitag örtlich
+negative Temperaturen in Bodennähe.
 
 Inversionen:
-Absinkinversion bei 4000 - 5000 FT, in den östlichen Mittelgebirgen
-auch bei 6000 FT AMSL, Donnerstag abschwächend. In der Nacht
-Bodeninversion mit Obergrenze zwischen 2000 und 2500 FT AMSL, die am
-Vormittag abgebaut wird.
+Mit Schwerpunkt im südlichen Alpenvorland Bodeninversion mit
+Obergrenze zwischen 2000 und 3000 FT AMSL, die im Laufe des Morgens
+abgebaut wird. Ab dem Nachmittag von Westen Ausbildung einer
+Absinkinversion zwischen FL070 und FL100, im Tagesverlauf ostwärts
+ausbreitend und von Westen auf FL050 bis FL080 absinkend. In der
+Nacht zum Freitag verbreitet kräftige Bodeninversion mit Oberkante
+zwischen 2000 und 3000 FT AMSL.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.32 | 05.05 | 17.10 | 17.41
 München  04.30 | 05.02 | 17.07 | 17.39
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 24.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/pk
+Luftfahrtberatungszentrale München/ip

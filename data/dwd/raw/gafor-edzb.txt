@@ -1,104 +1,82 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-951
-FBEU40 EDZB 231800
+372
+FBEU40 EDZB 240600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 23.09.2026, 18.00 UTC bis 24.09.2026, 15.00 UTC
+gültig vom 24.09.2026, 06.00 UTC bis 25.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Anfangs noch Hochdruckeinfluss mit mäßig warmer und meist trockener
-Luft. In der Nacht zum Donnerstag greift die Front eines Tiefs bei
-Dänemark auf den Nordwesten über und zieht bis zum Vormittag
-südostwärts über das Vorhersagegebiet hinweg. Frontrückseitig fließt
-mit westlicher bis nordwestlicher Strömung etwas kühlere und leicht
-labile Meeresluft ein.
+Ein Tief zieht unter Auflösung von Dänemark Richtung Polen. Die
+zugehörige Kaltfront hat nun auch den Südosten erreicht und zieht
+rasch über Oder/Neiße ab. Rückseitig fließt mit nordwestlicher
+Strömung kühler, leicht labile Meeresluft ein.
 
 Wettergeschehen:
-Zunächst Durchzug von meist SCT/BKN SC/AS/AC/CI-Schichten mit Basis
-oberhalb FL120, im Norden mit Basis oberhalb FL070. In
-Mecklenburg-Vorpommern teils SCT/BKN SC zwischen 2500 und 5000 FT
-AMSL, hier örtlich leichter Regen, sonst trocken.
+Südöstlich etwa einer Linie Oderbruch - Vogtland mehrschichtige
+BKN/OVC SC/AC/AS-Bewölkung mit Basis in 2000-3500 FT AMSL, Tops in
+FL160. Hieraus fällt gebietsweise leichter, durch eingelagerte TCU/CB
+teils schauerartig verstärkter Regen. Im kräftigeren Niederschlag
+zusätzlich SCT/BKN ST in 800-1300 FT AGL. Am Vormittag über Oder und
+Neiße abziehend.
 
-Ab etwa Mitternacht von Nordwesten/Westen übergreifende Front mit
-hochreichender und kompakter SC/AC/AS-Bewölkung. Untergrenzen
-absinkend auf 1000 bis 2500 FT AMSL. Mit der Front leichter bis
-mäßiger Regen, teils schauerartig verstärkt durch eingelagerte
-TCU/CB, Tops bis FL240. Vereinzelt kurze Gewitter nicht
-ausgeschlossen.
-Im weiteren Nachtverlauf nach Südosten vorankommend, ausgangs der
-Nacht in einem Bogen etwa von Usedom über den Osten sowie Süden
-Brandenburgs nach Sachsen und teils Ostthüringen reichend und am
-Vormittag vollständig nach Polen und Tschechien abziehend.
-Mit Frontdurchgang im Norden/Nordosten teils unter 1000 FT AGL
-absinkende Wolkenbasis. Richtung Süden etwas höhere Untergrenzen,
-wechselnd zwischen 2000 und 3500 FT AMSL, sowie geringere
-Wolkenobergrenzen bei FL120 bis FL180.
-Frontrückseitig im mittleren und hohen Niveau zügig ausschichtende
-Bewölkung und Übergang in FEW/SCT oder Richtung Norden SCT/BKN CU/SC
-bei 2000 bis 3000 FT AMSL. Im Nordwesten des Gebiets im Nachgang
-anwachsende Quellbewölkung mit lokalen TCU-Entwicklungen mit Tops um
-FL100 und leichten bis mäßigen Schauern.
+Frontrückseitig nordwestlich der Linie im mittleren Niveau zügig
+ausschichtende Bewölkung, Übergang in SCT/BKN CU/SC in 1000-2000 FT
+AGL mit Obergrenzen um FL080. Teils Überentwicklung zu TCU/CB mit
+Tops bis FL120 in Verbindung mit südostwärts ziehenden Schauern. Am
+Vormittag anhebende CU/SC-Bewölkung auf 2000-3000 FT AMSL im Norden
+und auf 3500-5000 FT AMSL im Süden. Dabei weiterhin gebietsweise
+Regenschauer, im äußersten Osten/Südosten eventuell auch kurze
+Gewitter mit CB-Tops bis FL180.
 
-Am Vormittag mit Abzug der Front verbreitet SCT/BKN CU/SC mit Basis
-zwischen 1500 und 3000 FT AMSL, von Rügen bis nach Ostsachsen teils
-1000 bis 1500 FT AGL, von Westen bereits anhebend und regional
-auflockernd. Daraus örtlich etwas Regen, abseits von Thüringen lokal
-Überentwicklungen zu TCU mit Tops zwischen FL090 und FL140 sowie
-leichten Schauern.
-Am Mittag und Nachmittag anhebende Basis auf 2000 bis 3500 FT AMSL,
-Obergrenzen absinkend auf FL070 bis FL110, ansonsten wenig Änderung.
-In Thüringen kaum Niederschlag und größere Auflockerungen. Im
-Tagesverlauf generell böiger West- bis Nordwestwind (20-30 KT).
+Zum späteren Nachmittag/frühen Abend abklingende Schauer. In der
+Nacht zu Freitag im Südwesten teils klar, sonst verbreitet SCT/BKN SC
+zwischen 3000 FT AMSL und FL070, im Norden zwischen 2000 FT AMSL und
+FL060. Zudem in Vorpommern und Nordostbrandenburg Aufzug/Ausbreitung
+von SCT/BKN ST in 500-1500 FT AGL. Meist trocken.
 
 Sichtweite:
-30 bis 60 km. In der Nacht zum Donnerstag je nach Region mit
-Frontdurchgang und (zeitweise mäßigem) Regen vorübergehender
-Sichtrückgang auf 3 bis 15 km.
+10-40 km, im Regen auf 7-12 km und bei kräftigeren Schauern
+kurzzeitig auf 2-7 km zurückgehend. Von Nordwesten auf >20 km
+verbessernd.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  21 UTC  |  09 UTC  |
- 500FT | 220/10KT  15C | 280/20KT  12C |
-1000FT | 230/20KT  15C | 280/25KT  10C |
-1500FT | 240/20KT  14C | 280/30KT  08C |
-2000FT | 240/20KT  13C | 280/30KT  08C |
-3000FT | 250/25KT  10C | 300/35KT  05C |
-5000FT | 250/20KT  08C | 320/25KT  03C |
-FL100  | 260/20KT M02C | 330/15KT M06C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 300/20KT  13C | 290/10KT  12C |
+1000FT | 300/25KT  11C | 300/20KT  11C |
+1500FT | 300/25KT  09C | 320/20KT  11C |
+2000FT | 300/25KT  08C | 330/20KT  10C |
+3000FT | 310/25KT  06C | 340/10KT  09C |
+5000FT | 320/25KT  03C | 340/10KT  06C |
+FL100  | 340/15KT M04C | 010/10KT  01C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 230/15KT  16C | 300/20KT  12C |
-1500FT | 250/15KT  15C | 300/20KT  10C |
-2000FT | 250/20KT  14C | 300/25KT  09C |
-3000FT | 260/20KT  10C | 300/25KT  05C |
-5000FT | 280/20KT  07C | 310/30KT  02C |
-FL100  | 280/20KT M02C | 320/35KT M08C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 310/20KT  12C | 290/15KT  13C |
+1500FT | 310/20KT  10C | 310/20KT  11C |
+2000FT | 310/25KT  09C | 310/25KT  10C |
+3000FT | 320/30KT  06C | 310/20KT  08C |
+5000FT | 320/30KT  03C | 330/10KT  04C |
+FL100  | 320/25KT M07C | 360/20KT  00C |
 
 Turbulenz:
-Mit Frontdurchgang teils mäßig zwischen FL100 und FL200, am
-Donnerstag frontrückseitig regional mäßig oberhalb FL160. Zudem in
-und um TCU/CB mäßig bis stark.
+mit Frontdurchgang leicht bis mäßig zwischen FL100 und FL200,
+frontrückseitig teils mäßig oberhalb FL150 sowie unterhalb von 5000
+FT AMSL, mäßig bis stark in TCU/CB-Nähe
 
 Vereisung:
-In unterkühlter Schichtbewölkung zischen nullgradgrenze und FL200
-Zunächst nicht signifikant. Im Frontbereich mäßig zwischen FL090 und
-FL200, bei sehr kompakter Schichtung vereinzelt auch stark bis FL140.
-Frontrückseitig regional leicht bis mäßig zwischen FL070 und FL180.
-Zudem allgemein in TCU/CB mäßig bis stark.
+mäßig in unterkühlter Schichtbewölkung zwischen Nullgradgrenze und
+FL200, mäßig bis stark im TCU/CB
 
 Nullgradgrenze:
-Zunächst zwischen FL095 im Nordosten/Osten und bis FL115 im
-Südwesten/Westen. In der Nacht zum Donnerstag mit Frontdurchgang
-absinkend auf FL060 bis FL070. Donnerstagmittag und Nachmittag in der
-Nordhälfte wieder auf FL070 bis FL095 ansteigend.
+FL080-090, rückseitig der Kaltfront auf FL055-065 absinkend,
+nachmittags von Westen auf FL090-100 anhebend
 
 Inversionen:
-Am Donnerstag im Tagesverlauf Absinkinversion oberhalb FL080 im
-Norden und FL120 im Süden.
+ab dem Mittag von Nordwesten Absinkinversion oberhalb FL070-080
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Berlin  04.21 | 04.55 | 17.00 | 17.34
@@ -106,7 +84,6 @@ Leipzig  04.26 | 05.00 | 17.05 | 17.39
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 24.09.2026 um
-02.00/05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale Berlin/No
+Luftfahrtberatungszentrale Berlin/hb
