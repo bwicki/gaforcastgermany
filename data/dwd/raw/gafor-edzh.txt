@@ -1,67 +1,91 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-985
-FBEU40 EDZH 251200
+582
+FBEU40 EDZH 251800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 25.09.2026, 12.00 UTC bis 26.09.2026, 09.00 UTC
+gültig vom 25.09.2026, 18.00 UTC bis 26.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
 Am Rande eines Hochs über Süddeutschland wird mit einer südwestlichen
 bis westlichen Strömung mäßig warme Luft herangeführt. In der Nacht
-nähert sich von Nordwesten her ein schwacher Tiefausläufer, greift am
-frühen Morgen auf den Vorhersagebereich über und liegt am Vormittag
-etwa auf einer Linie Mecklenburger Bucht - Altes Land - Teutoburger
-Wald.
+greift von Nordwesten her eine schwache Kaltfront auf den
+Vorhersagebereich über. Unter Abschwächung kommt die Front am Samstag
+nur langsam südwärts voran. Dahinter nähert sich von der
+Südwestlichen Nordsee ein neues Hoch.
 
 Wettergeschehen:
-Vereinzelt zeigt sich flacher FEW CU zwischen 2000 und 4000 FT AMSL,
-der sich im weiteren Nachmittagsverlauf auflöst. Ansonsten ist es
-abgesehen von wenigen hohen Wolkenfeldern wolkenlos.
-Am Abend zieht im Bereich der Deutschen Bucht, mit Annäherung der
-Kaltfront, von Nordwesten her SCT/BKN SC mit Untergrenzen in 2000 bis
-3500 FT AMSL und Obergrenzen um 5000 FT AMSL auf. Diese Bewölkung
-verlagert sich langsam nach Südosten und erreicht gegen Mitternacht
-etwa eine Linie Kieler Bucht - Dollart. Gleichzeitig bilden sich
-südöstlich dieser Linie, bei sternenklarem Himmel, streckenweise
-Dunst- und flache Nebelfelder aus.
-In den Frühstunden wird die Bewölkung über der Deutschen Bucht
-kompakter mit LYR SCT/BKN SC/AC/CI bei Untergrenzen in 1500 bis 2500
-FT AMSL und die Obergrenzen liegen oberhalb von FL245. Daraus fällt
-meist leichter Regen und die Wolkenuntergrenzen sinken kurzzeitig auf
-1000 bis 1500 FT AMSL ab. Mit Frontaufzug sowie bis zum späten Morgen
-lösen sich Dunst und Nebel auf. Bis zum Vormittag kommen die
-frontalen Bedingungen auf etwa einer Linie Mecklenburger Bucht -
-Teutoburger Wald voran. Unterdessen lockern die Wolken im Bereich der
-Deutschen Bucht zu SCT/BKN CU zwischen 1000 und 2500 FT AMSL auf.
-Darüber ziehen SCT CI-Feldern oberhalb von FL245 durch.
+Über weiten Teilen des Vorhersagegebiets ist es zunächst wolkenlos.
+
+Mit Annäherung der Kaltfront hat von Nordwesten her bereits SCT/BKN
+SC mit Untergrenzen in 2000-4500 FT AMSL und Obergrenzen FL050-070
+auf die Deutsche Bucht und den äußersten Nordwesten von
+Schleswig-Holstein übergegriffen. Darüber findet sich auch BKN CI/CS
+meist oberhalb von FL245. Diese Bewölkung verlagert sich nach
+Südosten und über der Deutschen Bucht sinken die Untergrenzen
+zeitweise auf 1000-1500 FT AMSL, dazu kommt zu leichtem Sprühregen
+und Regen. Die Bewölkung erreicht gegen Mitternacht etwa eine Linie
+Flensburg - Dollart, wobei einzelne SC-Felder auch schon bis zur
+Kieler Bucht reichen können.
+Gleichzeitig bilden sich über Land bei oftmals sternenklaren
+Bedingungen streckenweise Dunst- und flache Nebelfelder aus.
+Angefangen über der Deutschen Bucht, wird die frontale Bewölkung in
+der zweiten Nachthälfte kompakter mit LYR SCT/BKN SC/AC/CI bei
+Untergrenzen in 1500-2500 FT AMSL und die Obergrenzen oberhalb von
+FL245. Daraus fällt zum Teil weiterhin leichter Regen und Sprühregen,
+womit sich lokal auch vorübergehend SCT/BKN ST und Untergrenzen von
+kurzzeitig 800-1200 FT AGL ausbilden kann. Bis zum frühen Morgen
+findet sich diese Frontalbewölkung nordwestlich einer Linie Kieler
+Bucht - nördliches Emsland. Damit verbunden ab dem frühen Morgen auch
+vereinzelt Untergrenzen von 500-800 FT AGL nicht ausgeschlossen.
+
+Mit Frontaufzug sowie bis zum späten Morgen lösen sich Dunst und
+Nebel über Land auf. Bis zum Mittag kommen die frontalen Bedingungen
+mit höchstens noch vereinzelt leichten Niederschlägen auf etwa eine
+Linie Mecklenburger Bucht - Hamburg - südliches Emsland voran und
+verlagern sich bis Berichtsende noch wenig weiter südwärts. Wobei
+dann kein ST mehr vorkommt und am Nachmittag die Untergrenzen meist
+bei 2000-3500 FT AMSL liegen.
+Südlich der Front nimmt im Tagesverlauf LYR SC/AC/AS/CI-Bewölkung
+oberhalb von FL060-110 zu und breitet sich mit oftmals
+BKN-Verhältnissen südwärts aus. Daraus sind vereinzelt ebenfalls ein
+paar Tropfen möglich.
+
+Rückseitig der Front lockern die Wolken bereits bis zum Morgen im
+Bereich der Deutschen Bucht zu SCT/BKN CU zwischen 1000-2500 FT AMSL
+auf, Obergrenzen bei 3000-4000 FT AMSL. Im Tagesverlauf breiten sich
+diese Bedingungen mit Untergrenzen von 2000-4000 FT AMSL und
+Obergrenzen bei um 5000 FT AMSL auf die Küsten sowie über
+Schleswig-Holstein aus, wobei der CU bis zum Nachmittag meist auf
+FEW/SCT abnimmt. Darüber ziehen SCT/BKN CI-Feldern oberhalb von FL245
+durch.
 
 Sichtweite:
-Bei 30 bis 60 km. Im Niederschlag auf 4 bis 10 km, bei Dunst und
-Nebel auf 500 bis 5000 m zurückgehend.
+30-60 km. Bis zum Vormittag im Niederschlag lokal auf 4-10 km, bei
+Dunst und Nebel auf 500-5000 m zurückgehend.
 
 Höhenwind und -temperatur:
-GAFOR-Gebiete 00-04:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 240/10KT  14C | 240/15KT  13C |
-1000FT | 240/10KT  13C | 260/15KT  14C |
-1500FT | 250/10KT  11C | 270/15KT  13C |
-2000FT | 250/10KT  10C | 260/20KT  12C |
-3000FT | 270/20KT  10C | 260/20KT  09C |
-5000FT | 270/15KT  10C | 270/20KT  08C |
-FL100  | 300/20KT  05C | 250/35KT  00C |
+GAFOR-Gebiete 00 - 04:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 210/15KT  14C | 310/05KT  13C |
+1000FT | 220/15KT  14C | 310/10KT  12C |
+1500FT | 240/20KT  13C | 330/15KT  11C |
+2000FT | 250/20KT  12C | 330/15KT  10C |
+3000FT | 270/20KT  08C | 290/15KT  08C |
+5000FT | 270/20KT  09C | 290/15KT  07C |
+FL100  | 260/25KT  03C | 280/30KT M02C |
 
-GAFOR-Gebiete 05-10:
-AMSL  |  15 UTC  |  03 UTC  |
- 500FT | 250/05KT  17C | 210/10KT  16C |
-1000FT | 250/05KT  16C | 240/10KT  16C |
-1500FT | 250/05KT  14C | 260/10KT  15C |
-2000FT | 250/05KT  13C | 260/10KT  15C |
-3000FT | 260/10KT  10C | 260/10KT  13C |
-5000FT | 290/15KT  10C | 280/15KT  11C |
-FL100  | 330/15KT  05C | 260/25KT  03C |
+GAFOR-Gebiete 05 - 10:
+AMSL  |  21 UTC  |  09 UTC  |
+ 500FT | 200/05KT  17C | 300/05KT  15C |
+1000FT | 230/05KT  16C | 280/05KT  16C |
+1500FT | 250/10KT  15C | 280/10KT  15C |
+2000FT | 260/10KT  14C | 280/10KT  15C |
+3000FT | 270/15KT  12C | 280/10KT  12C |
+5000FT | 270/10KT  10C | 250/15KT  10C |
+FL100  | 260/20KT  04C | 270/25KT M00C |
 
 Turbulenz:
 Keine signifikante.
@@ -71,24 +95,26 @@ In der frontalen Bewölkung mäßig oberhalb der Nullgradgrenze und
 FL220.
 
 Nullgradgrenze:
-Zwischen FL125 und FL135. In der Nacht mit Frontaufzug absinkend,
-Werte in den Frühstunden liegen bei FL085 bis FL100 im Bereich der
-Deutschen Bucht und um FL125 im Harzvorland. Bis zum Vormittag weiter
-absinkend auf um FL090 über der Nordsee und um FL100 am Harz.
+Zwischen FL125-135. In der Nacht mit Frontaufzug von Nordwesten her
+absinkend, Werte in den Frühstunden liegen bei FL085-100 im Bereich
+der Deutschen Bucht und um FL125 im Harzvorland. Bis Berichtsende
+allgemein bei FL095-105.
 
 Inversionen:
 Absinkinversion zwischen 2500 und 4000 FT AMSL, die sich mit Aufzug
 der Frontbewölkung auflöst. Ansonsten bildet sich rasch nach
-Sonnenuntergang über Land eine Bodeninversion unterhalb von 1500 FT
-AMSL aus, die sich mit Frontaufzug bzw. im Vormittagsverlauf auflöst.
+Sonnenuntergang über Land eine Bodeninversion unterhalb von 1000 FT
+AGL aus, die sich mit Frontaufzug bzw. im Vormittagsverlauf auflöst.
+Am Samstag bildet sich frontrückseitig eine Absinkinversion zwischen
+3500-5000 FT AMSL aus.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Schleswig  17.13 | 17.49 | 04.38 | 05.14
-Hannover  17.13 | 17.47 | 04.38 | 05.14
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Schleswig  04.38 | 05.14 | 17.11 | 17.47
+Hannover  04.38 | 05.14 | 17.11 | 17.44
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 26.09.2026 um
+02.00/05.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/BR
+Luftfahrtberatungszentrale Hamburg/PS

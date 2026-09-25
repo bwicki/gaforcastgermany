@@ -1,57 +1,50 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-736
-FBEU40 EDZM 251200
+581
+FBEU40 EDZM 251800
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 25.09.2026, 12.00 UTC bis 26.09.2026, 09.00 UTC
+gültig vom 25.09.2026, 18.00 UTC bis 26.09.2026, 15.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
 Ein Hoch liegt über Süddeutschland und zieht langsam nach Osten. Die
-eingeflossene Kaltluft erwärmt sich und trocknet ab. Kommende Nacht
-bildet sich aber bodennah erneut eine feuchte Grundschicht aus, die
-am Samstag wieder abgebaut wird.
+eingeflossene Kaltluft erwärmt sich und trocknet ab. In der Nacht zum
+Samstag bildet sich bodennah eine feuchte Grundschicht aus, die
+vormittags wieder abgebaut wird.
 
 Wettergeschehen:
 Verbreitet ist es wolkenlos. Entlang der östlichen Mittelgebirge
-haben sich FEW/SCT CU bei FL050-060 gebildet.
-
-Im Nachmittagsverlauf bilden sich gebietsweise SCT/BKN AS-Felder bei
-FL160-180. Sonst bleibt es bei den wenigen Quellwolken oder
-wolkenfrei.
-
-Abends löst sich die Quellbewölkung dann auf, im Laufe der Nacht
-zieht die hohe Bewölkung langsam nach Südosten ab, sodass es
-verbreitet wolkenlos wird. Nur überm Chiemgau noch bis zum frühen
-Vormittag dünne AS-Felder um FL120-140.
-Gegen Mitternacht bilden sich flache Nebelfelder, vor allem entlang
+ziehen SCT/BKN AC um FL170 nach Südosten durch.
+Im Laufe der Nacht zieht die hohe Bewölkung langsam nach Südosten ab,
+gegen Mitternacht bilden sich flache Nebelfelder, vor allem entlang
 von Flüssen und in Senken. Bis Samstagmorgen weiten die Nebelfelder
 sich etwas aus, Obergrenzen meist bei 2000-2300 FT AMSL.
 
-Im Vormittagsverlauf lösen sich die Nebelfelder sukzessive auf, am
+Im Vormittagsverlauf lösen sich Dunst und Nebel sukzessive auf, am
 zähesten können sie sich an Inn und Salzach halten, stellenweise bis
-Mittag. Abseits davon bleibt es vormittags wolkenfrei.
+Mittag. Über dem Chiemgau ziehen die letzten AC - Schollen nach
+Südosten ab, sonst ist du bleibt es wolkenfrei.
 
 Sichtweite:
-Um 30-50 km, kommende Nacht in Nebelfeldern 300-600 m.
+30 bis 50 km, kommende Nacht in Nebelfeldern 300 bis 600 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  15 UTC  |  06 UTC  |
-1500FT | 310/05KT  17C | 160/10KT  13C |
-2000FT | 300/05KT  15C | 180/10KT  14C |
-3000FT | 290/05KT  11C | 210/05KT  13C |
-5000FT | 270/05KT  07C | 260/10KT  12C |
-FL100  | 350/15KT  05C | 300/15KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+1500FT | 170/05KT  16C | 160/05KT  15C |
+2000FT | 190/10KT  15C | 180/05KT  14C |
+3000FT | 220/10KT  12C | 220/10KT  13C |
+5000FT | 290/05KT  10C | 270/10KT  13C |
+FL100  | 010/10KT  06C | 290/10KT  05C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  15 UTC  |  06 UTC  |
-2000FT | 060/05KT  16C | 170/05KT  13C |
-3000FT | 060/05KT  12C | 210/05KT  13C |
-5000FT | 310/05KT  07C | 270/10KT  12C |
-FL100  | 330/15KT  04C | 310/15KT  05C |
+AMSL  |  21 UTC  |  09 UTC  |
+2000FT | 170/05KT  14C | 120/05KT  14C |
+3000FT | 200/05KT  12C | 230/05KT  15C |
+5000FT | 290/05KT  09C | 280/10KT  13C |
+FL100  | 350/10KT  06C | 310/15KT  05C |
 
 Turbulenz:
 Es wird keine mäßige oder starke Turbulenz erwartet.
@@ -64,18 +57,17 @@ Zwischen FL110 in Ostbayern und FL135 im Südwesten. Nachts auch im
 Osten auf FL125-130 ansteigend.
 
 Inversionen:
-Absinkinversion zwischen 4500-6000 FT AMSL. Nachts teils markante
+Absinkinversion zwischen 4500 und 6000 FT AMSL. Nachts teils markante
 Bodeninversion bis 2500 FT AMSL im Süden und 2000 FT AMSL im Norden.
-Wird am Samstagvormittag langsam abgebaut bzw. hebt bis Berichtsende
-auf etwa 1000 FT AGL an.
+Wird am Samstagvormittag langsam abgebaut.
 
-Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
-  heute  |  morgen
-Nürnberg  17.08 | 17.38 | 04.36 | 05.08
-München  17.05 | 17.36 | 04.34 | 05.04
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
-SA/SU   = Sonnenauf/untergang
+Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
+Nürnberg  04.36 | 05.08 | 17.06 | 17.38
+München  04.34 | 05.04 | 17.03 | 17.34
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
+SA/SU   = Sonnenauf/untergang - morgen
 
-Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt am 26.09.2026 um 02.00
+UTC
 
-Luftfahrtberatungszentrale München/pk
+Luftfahrtberatungszentrale München/bq
