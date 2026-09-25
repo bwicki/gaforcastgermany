@@ -1,79 +1,76 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-064
-FBEU40 EDZF 250600
+737
+FBEU40 EDZF 251200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
+gültig vom 25.09.2026, 12.00 UTC bis 26.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
 Der Vorhersagebereich liegt im Einflussbereich eines Hochs, dessen
 Schwerpunkt sich vom Süden Deutschlands ostwärts verlagert. Mit
-nordwestlicher Strömung fließt mäßig warme und stabile Luft ein. In
-der Nacht hat sich lokal eine flache feuchte Grundschicht
-ausgebildet, die am Vormittag wieder abtrocknet.
+anfangs nordwestlicher, im Tagesverlauf auf West drehender Strömung
+fließt mäßig warme, stabile und trockene Luft ein.
 
 Wettergeschehen:
 Abgesehen von dünner durchziehender CI-Bewölkung oberhalb von FL245
-ist es wolkenlos. In der Nacht hat sich in Tallagen und Niederungen
-sehr vereinzelt etwas flacher Nebel gebildet, mit Schwerpunkten
-nördlich des Mains sowie dem Oberrheingraben und dem Neckartal.
+ist es tagsüber und in der Nacht zum Samstag nahezu wolkenlos.
+Lediglich im Süden zeigen sich in der Nacht lokal flache AC-Felder
+zwischen FL130-160. In Flussniederungen und Tallagen sind einzelne
+flache Dunst- und Nebelfelder nicht ausgschlossen.
 
-Am Vormittag lösen sich Nebelfelder auf. Tagsüber ziehen vor allem im
-Norden und Osten dünne FEW/SCT LYR AC/CI-Felder oberhalb von FL14-160
-von West nach Ost. Ab dem Mittag bilden sich maximal über dem
-östlichen Bergland einzelne flache CU in 3500-4000 FT AMSL, die am
-Nachmittag wieder abtrocknen.
-
-In der Nacht ist es dann meist wolkenfrei, nur lokal begrenzt ziehen
-weiterhin dünnen AC/CI-Felder oberhalb von FL140-160 durch.
-
-Es bleibt niederschlagsfrei.
+Erst gegen Berichtsende ziehen meist flache AC-Felder um FL100 in
+Richtung Nordhessen, Taunus und Hunsrück. Darüber zeigen sich
+kompakte CI oberhalb FL220.
+Es ist und bleibt niederschlagsfrei.
 
 Sichtweite:
-40-70 km. Im Nebel Sichtrückgang auf unter 1 km.
+40-70 km. In der Nacht 15-30 km, ganz lokal im Dunst/Nebel 5 km bis
+wenige 100 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 200/05KT  11C | 190/05KT  15C |
-1500FT | 210/10KT  10C | 200/10KT  16C |
-2000FT | 210/10KT  10C | 210/15KT  16C |
-3000FT | 230/10KT  09C | 240/10KT  14C |
-5000FT | 320/05KT  08C | 280/10KT  12C |
-FL100  | 350/20KT  05C | 270/10KT  06C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 230/05KT  19C | 270/05KT  08C |
+1500FT | 230/05KT  17C | 200/10KT  14C |
+2000FT | 230/05KT  16C | 210/10KT  14C |
+3000FT | 230/05KT  12C | 240/10KT  14C |
+5000FT | 290/10KT  10C | 270/10KT  12C |
+FL100  | 340/15KT  06C | 260/20KT  04C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 360/05KT  13C | 030/05KT  20C |
-1500FT | 180/05KT  13C | 180/05KT  19C |
-2000FT | 200/05KT  13C | 200/05KT  18C |
-3000FT | 240/05KT  11C | 220/05KT  16C |
-5000FT | 040/05KT  09C | 270/05KT  14C |
-FL100  | 350/15KT  04C | 300/05KT  06C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 040/05KT  21C | 210/05KT  15C |
+1500FT | 020/05KT  19C | 210/10KT  18C |
+2000FT | 020/05KT  18C | 210/15KT  17C |
+3000FT | 240/05KT  14C | 260/10KT  16C |
+5000FT | 270/05KT  12C | 280/10KT  14C |
+FL100  | 360/20KT  06C | 270/15KT  05C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Nicht signifikant.
+Keine.
 
 Nullgradgrenze:
-FL130-140.
+Um FL135. In der Nacht zum Samstag leicht absinkend. Am Vormittag
+zwischen FL120 im Norden und FL130 im Süden.
 
 Inversionen:
-Am Morgen flache Bodeninversion, teils mit Temperaturdifferenz um 10
-K, die sich am Vormittag wieder auflöst. Auch in der Nacht auf
-Samstag bildet sich eine flache Bodeninversion aus.
+Lokal schwache Absinkinversion zwischen 4000 FT AMSL und FL060. In
+der Nacht auf Samstag Ausbildung einer flachen Bodeninversion
+unterhalb 1000 FT AGL teils mit Temperaturdifferenz von >10 K.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Gießen  04.43 | 05.16 | 17.17 | 17.49
-Karlsruhe  04.45 | 05.17 | 17.18 | 17.49
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Gießen  17.17 | 17.49 | 04.45 | 05.17
+Karlsruhe  17.18 | 17.49 | 04.47 | 05.18
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Flugwetterzentrale Frankfurt/He
+Flugwetterzentrale Frankfurt/CH

@@ -1,111 +1,94 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-127
-FBEU40 EDZH 250600
+985
+FBEU40 EDZH 251200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
+gültig vom 25.09.2026, 12.00 UTC bis 26.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
 Wetterlage und -entwicklung:
-Am Rande eines Hochs über Süddeutschland ist in den Morgenstunden
-gebietsweise eine feuchte Grundschicht wetterbestimmend, während
-ansonsten tagsüber mit einer bodennahen südwestlichen Strömung
-einfließende, mäßig warme und stabile Luft dominiert.
-Zum Berichtsende greift eine Kaltfront auf die nordwestliche Deutsche
-Bucht über.
+Am Rande eines Hochs über Süddeutschland wird mit einer südwestlichen
+bis westlichen Strömung mäßig warme Luft herangeführt. In der Nacht
+nähert sich von Nordwesten her ein schwacher Tiefausläufer, greift am
+frühen Morgen auf den Vorhersagebereich über und liegt am Vormittag
+etwa auf einer Linie Mecklenburger Bucht - Altes Land - Teutoburger
+Wald.
 
 Wettergeschehen:
-Unter FEW/BKN AC/CI-Schichten oberhalb FL160-FL180 über der Deutschen
-Bucht, dem westlichen und südlichen Niedersachsen wolkenlos, zu
-Beginn hier jedoch über Land noch stellenweise Dunst oder flacher
-Nebel, der sich meist aber rasch auflöst.
-
-Ansonsten über dem westlichen und nördlichen Schleswig-Holstein
-FEW/BKN SC in 2500-3000 FT AMSL mit Tops bei 3000-3500 FT AMSL, über
-der Ostsee, dem südöstlichen Schleswig-Holstein und dem nordöstlichen
-Niedersachsen eher BKN/OVC SC in 2500-3500 FT AMSL, mit Tops um
-4000-5000 FT AMSL. Diese Bewölkung verlagert sich im Laufe des Tages
-nach Ostnordosten, sodass es bereits im Laufe des Vormittags,
-abgesehen von den AC/CI-Feldern, über Nordostniedersachsen und im
-Laufe des Nachmittags auch über Schleswig-Holstein und der Ostsee
-wolkenlos sein wird.
-
-Über der nordwestlichen Deutschen Bucht ziehen ab den
-Nachmittagsstunden mit Annäherung der Kaltfront von Nordwesten
-BKN/OVC SC in 1500-2500 FT AMSL mit Tops um 5000 FT AMSL auf.
-
-Diese Bewölkung verlagert sich langsam nach Südosten und erreicht zu
-Berichtsende etwa eine Linie Schönhagen (Ostseebad) - Emden, wobei in
-der Nacht die Tops über dem Nordwesten weiter bis auf FL150
-ansteigen. Stellenweise wird es leicht, bei teils eingelagerten TCU
-mit Tops bis FL100 teils auch schauartig verstärkt regnen, wobei die
-Untergrenzen bis auf um 1000 FT AMSL absinken können.
-Im Vorfeld wird bis etwa einer Linie Lübeck - Rheine - Bentlage
-SCT/BKN SC in FL050-FL060 mit Tops um FL080-FL090 aufziehen.
-
-Über dem übrigen Bereich ist es meist wolkenlos, wobei sich über dem
-südlichen Niedersachsen in der Nacht stellenweise erneut Dunst oder
-flacher Nebel ausbilden kann.
+Vereinzelt zeigt sich flacher FEW CU zwischen 2000 und 4000 FT AMSL,
+der sich im weiteren Nachmittagsverlauf auflöst. Ansonsten ist es
+abgesehen von wenigen hohen Wolkenfeldern wolkenlos.
+Am Abend zieht im Bereich der Deutschen Bucht, mit Annäherung der
+Kaltfront, von Nordwesten her SCT/BKN SC mit Untergrenzen in 2000 bis
+3500 FT AMSL und Obergrenzen um 5000 FT AMSL auf. Diese Bewölkung
+verlagert sich langsam nach Südosten und erreicht gegen Mitternacht
+etwa eine Linie Kieler Bucht - Dollart. Gleichzeitig bilden sich
+südöstlich dieser Linie, bei sternenklarem Himmel, streckenweise
+Dunst- und flache Nebelfelder aus.
+In den Frühstunden wird die Bewölkung über der Deutschen Bucht
+kompakter mit LYR SCT/BKN SC/AC/CI bei Untergrenzen in 1500 bis 2500
+FT AMSL und die Obergrenzen liegen oberhalb von FL245. Daraus fällt
+meist leichter Regen und die Wolkenuntergrenzen sinken kurzzeitig auf
+1000 bis 1500 FT AMSL ab. Mit Frontaufzug sowie bis zum späten Morgen
+lösen sich Dunst und Nebel auf. Bis zum Vormittag kommen die
+frontalen Bedingungen auf etwa einer Linie Mecklenburger Bucht -
+Teutoburger Wald voran. Unterdessen lockern die Wolken im Bereich der
+Deutschen Bucht zu SCT/BKN CU zwischen 1000 und 2500 FT AMSL auf.
+Darüber ziehen SCT CI-Feldern oberhalb von FL245 durch.
 
 Sichtweite:
-Zu Beginn vor allem über dem westlichen und südlichen Niedersachsen
-bei Starkdunst oder Nebel zeit- und gebietsweise 0,5-4 km.
-
-Ansonsten 30-60 km, im Niederschlag 4-8 km.
-
-In der Nacht kann sich über dem südlichen Niedersachsen erneut
-stellenweise Dunst oder flacher Nebel mit Sichtweiten bei 0,8-4 km
-ausbilden.
+Bei 30 bis 60 km. Im Niederschlag auf 4 bis 10 km, bei Dunst und
+Nebel auf 500 bis 5000 m zurückgehend.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 240/10KT  13C | 210/15KT  14C |
-1000FT | 260/10KT  12C | 230/15KT  14C |
-1500FT | 270/15KT  10C | 240/20KT  13C |
-2000FT | 270/15KT  09C | 250/20KT  12C |
-3000FT | 290/15KT  08C | 260/25KT  08C |
-5000FT | 310/10KT  08C | 260/20KT  10C |
-FL100  | 320/25KT  05C | 260/25KT  02C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 240/10KT  14C | 240/15KT  13C |
+1000FT | 240/10KT  13C | 260/15KT  14C |
+1500FT | 250/10KT  11C | 270/15KT  13C |
+2000FT | 250/10KT  10C | 260/20KT  12C |
+3000FT | 270/20KT  10C | 260/20KT  09C |
+5000FT | 270/15KT  10C | 270/20KT  08C |
+FL100  | 300/20KT  05C | 250/35KT  00C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 220/05KT  12C | 200/05KT  17C |
-1000FT | 220/05KT  10C | 230/10KT  17C |
-1500FT | 250/10KT  09C | 250/10KT  15C |
-2000FT | 260/10KT  08C | 250/15KT  15C |
-3000FT | 290/10KT  09C | 260/15KT  12C |
-5000FT | 320/10KT  08C | 270/10KT  10C |
-FL100  | 350/25KT  04C | 260/15KT  04C |
+AMSL  |  15 UTC  |  03 UTC  |
+ 500FT | 250/05KT  17C | 210/10KT  16C |
+1000FT | 250/05KT  16C | 240/10KT  16C |
+1500FT | 250/05KT  14C | 260/10KT  15C |
+2000FT | 250/05KT  13C | 260/10KT  15C |
+3000FT | 260/10KT  10C | 260/10KT  13C |
+5000FT | 290/15KT  10C | 280/15KT  11C |
+FL100  | 330/15KT  05C | 260/25KT  03C |
 
 Turbulenz:
 Keine signifikante.
 
 Vereisung:
-Keine signifikante.
+In der frontalen Bewölkung mäßig oberhalb der Nullgradgrenze und
+FL220.
 
 Nullgradgrenze:
-Über dem Osten bei FL120-FL130, über dem Westen FL130-FL135.
-Am Abend über dem Nordwesten auf FL120-FL130, in der Nacht weiter auf
-FL085-FL110, sowie auch dann über dem Nordosten und der Mitte auf
-FL115-FL125 und dem Süden FL120-FL130 absinkend.
+Zwischen FL125 und FL135. In der Nacht mit Frontaufzug absinkend,
+Werte in den Frühstunden liegen bei FL085 bis FL100 im Bereich der
+Deutschen Bucht und um FL125 im Harzvorland. Bis zum Vormittag weiter
+absinkend auf um FL090 über der Nordsee und um FL100 am Harz.
 
 Inversionen:
-Zu Beginn über Land Bodeninversion unterhalb von 1500 FT AMSL, am
-Vormittag anhebend und auflösend, am Abend über Land erneut
-ausbildend.
+Absinkinversion zwischen 2500 und 4000 FT AMSL, die sich mit Aufzug
+der Frontbewölkung auflöst. Ansonsten bildet sich rasch nach
+Sonnenuntergang über Land eine Bodeninversion unterhalb von 1500 FT
+AMSL aus, die sich mit Frontaufzug bzw. im Vormittagsverlauf auflöst.
 
-Ansonsten Absinkinversion zwischen 3500 und 5000 FT AMSL, mit Aufzug
-der Frontbewölkung auflösend.
-
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Schleswig  04.36 | 05.12 | 17.13 | 17.49
-Hannover  04.36 | 05.12 | 17.13 | 17.47
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Schleswig  17.13 | 17.49 | 04.38 | 05.14
+Hannover  17.13 | 17.47 | 04.38 | 05.14
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Hamburg/Kr
+Luftfahrtberatungszentrale Hamburg/BR
