@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzh_node.html
 
-495
-FBEU40 EDZH 250300
+127
+FBEU40 EDZH 250600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Nord
-gültig vom 25.09.2026, 03.00 UTC bis 26.09.2026, 00.00 UTC
+gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 00 bis 10
 
@@ -17,62 +17,68 @@ Zum Berichtsende greift eine Kaltfront auf die nordwestliche Deutsche
 Bucht über.
 
 Wettergeschehen:
-Unter FEW/BKN AC/CI-Schichten oberhalb FL160-180 über dem westlichen
-Niedersachsen wolkenlos, zu Beginn hier jedoch häufig Dunst oder
-flacher Nebel, der sich vormittags auflöst.
+Unter FEW/BKN AC/CI-Schichten oberhalb FL160-FL180 über der Deutschen
+Bucht, dem westlichen und südlichen Niedersachsen wolkenlos, zu
+Beginn hier jedoch über Land noch stellenweise Dunst oder flacher
+Nebel, der sich meist aber rasch auflöst.
 
-Ansonsten über der Deutschen Bucht, dem westlichen und nördlichen
-Schleswig-Holstein FEW/BKN, über der Ostsee und dem südöstlichen
-Schleswig-Holstein eher BKN/OVC SC in 1500-2000 mit Tops um 2500 FT
-AMSL über dem Nordwesten und um 5000 FT AMSL über dem Nordosten,
-sowie über dem östlichen Niedersachsen FEW/BKN SC in 2000-3000 mit
-Tops um 3500-4000 FT AMSL. Diese Bewölkung verlagert sich im Laufe
-des Tages nach Nordosten, sodass es bereits gegen Mittag, abgesehen
-von den AC-/CI-Feldern, über Ostniedersachsen und im Laufe des
-Nachmittags auch über der südlichen Deutschen Bucht,
-Schleswig-Holstein und der Ostsee wolkenlos sein wird.
+Ansonsten über dem westlichen und nördlichen Schleswig-Holstein
+FEW/BKN SC in 2500-3000 FT AMSL mit Tops bei 3000-3500 FT AMSL, über
+der Ostsee, dem südöstlichen Schleswig-Holstein und dem nordöstlichen
+Niedersachsen eher BKN/OVC SC in 2500-3500 FT AMSL, mit Tops um
+4000-5000 FT AMSL. Diese Bewölkung verlagert sich im Laufe des Tages
+nach Ostnordosten, sodass es bereits im Laufe des Vormittags,
+abgesehen von den AC/CI-Feldern, über Nordostniedersachsen und im
+Laufe des Nachmittags auch über Schleswig-Holstein und der Ostsee
+wolkenlos sein wird.
 
-Über der nordwestlichen Deutschen Bucht steigen ab den
-Nachmittagsstunden mit Annäherung der Kaltfront von Nordwesten die
-Tops auf 5000 FT AMSL an. Diese Bewölkung verlagert sich langsam nach
-Südosten und erreicht zu Berichtsende etwa eine Linie Flensburg -
-Helgoland - Vlieland, wobei in der Nacht die Tops über dem Nordwesten
-weiter bis auf FL090 ansteigen, die Untergrenzen bis auf 1000 FT AMSL
-absinken und über dem äußersten Nordwesten erste Regentropfen fallen
-können.
+Über der nordwestlichen Deutschen Bucht ziehen ab den
+Nachmittagsstunden mit Annäherung der Kaltfront von Nordwesten
+BKN/OVC SC in 1500-2500 FT AMSL mit Tops um 5000 FT AMSL auf.
 
-Über dem südlichen Niedersachsen kann sich in der Nacht stellenweise
-erneut Dunst oder flacher Nebel ausbilden.
+Diese Bewölkung verlagert sich langsam nach Südosten und erreicht zu
+Berichtsende etwa eine Linie Schönhagen (Ostseebad) - Emden, wobei in
+der Nacht die Tops über dem Nordwesten weiter bis auf FL150
+ansteigen. Stellenweise wird es leicht, bei teils eingelagerten TCU
+mit Tops bis FL100 teils auch schauartig verstärkt regnen, wobei die
+Untergrenzen bis auf um 1000 FT AMSL absinken können.
+Im Vorfeld wird bis etwa einer Linie Lübeck - Rheine - Bentlage
+SCT/BKN SC in FL050-FL060 mit Tops um FL080-FL090 aufziehen.
+
+Über dem übrigen Bereich ist es meist wolkenlos, wobei sich über dem
+südlichen Niedersachsen in der Nacht stellenweise erneut Dunst oder
+flacher Nebel ausbilden kann.
 
 Sichtweite:
 Zu Beginn vor allem über dem westlichen und südlichen Niedersachsen
-bei Starkdunst oder Nebel zeit- und gebietsweise 0,5-4 km. Ansonsten
-30-60 km.
+bei Starkdunst oder Nebel zeit- und gebietsweise 0,5-4 km.
 
-In der Nacht zu Samstag kann sich über dem südlichen Niedersachsen
-erneut stellenweise Dunst oder flacher Nebel mit Sichtweiten um 0,8-4
-km ausbilden.
+Ansonsten 30-60 km, im Niederschlag 4-8 km.
+
+In der Nacht kann sich über dem südlichen Niedersachsen erneut
+stellenweise Dunst oder flacher Nebel mit Sichtweiten bei 0,8-4 km
+ausbilden.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 00-04:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 270/10KT  11C | 230/10KT  14C |
-1000FT | 280/10KT  11C | 240/15KT  13C |
-1500FT | 280/15KT  09C | 260/15KT  12C |
-2000FT | 280/15KT  08C | 260/15KT  11C |
-3000FT | 320/15KT  08C | 270/20KT  10C |
-5000FT | 320/15KT  08C | 260/20KT  09C |
-FL100  | 330/25KT  04C | 270/20KT  04C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 240/10KT  13C | 210/15KT  14C |
+1000FT | 260/10KT  12C | 230/15KT  14C |
+1500FT | 270/15KT  10C | 240/20KT  13C |
+2000FT | 270/15KT  09C | 250/20KT  12C |
+3000FT | 290/15KT  08C | 260/25KT  08C |
+5000FT | 310/10KT  08C | 260/20KT  10C |
+FL100  | 320/25KT  05C | 260/25KT  02C |
 
 GAFOR-Gebiete 05-10:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 280/05KT  10C | 210/05KT  18C |
-1000FT | 300/05KT  10C | 220/05KT  16C |
-1500FT | 290/10KT  08C | 220/10KT  15C |
-2000FT | 280/10KT  07C | 230/10KT  14C |
-3000FT | 300/10KT  10C | 250/10KT  11C |
-5000FT | 330/15KT  08C | 290/10KT  10C |
-FL100  | 340/20KT  04C | 300/15KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 220/05KT  12C | 200/05KT  17C |
+1000FT | 220/05KT  10C | 230/10KT  17C |
+1500FT | 250/10KT  09C | 250/10KT  15C |
+2000FT | 260/10KT  08C | 250/15KT  15C |
+3000FT | 290/10KT  09C | 260/15KT  12C |
+5000FT | 320/10KT  08C | 270/10KT  10C |
+FL100  | 350/25KT  04C | 260/15KT  04C |
 
 Turbulenz:
 Keine signifikante.
@@ -81,18 +87,18 @@ Vereisung:
 Keine signifikante.
 
 Nullgradgrenze:
-Über dem Osten um FL120-130, über dem Westen FL130-135.
-Am Abend über dem Nordwesten auf FL120-130, in der Nacht weiter auf
-FL085-110, sowie auch dann über dem Nordosten und der Mitte auf
-FL115-125 und dem Süden FL120-130 absinkend.
+Über dem Osten bei FL120-FL130, über dem Westen FL130-FL135.
+Am Abend über dem Nordwesten auf FL120-FL130, in der Nacht weiter auf
+FL085-FL110, sowie auch dann über dem Nordosten und der Mitte auf
+FL115-FL125 und dem Süden FL120-FL130 absinkend.
 
 Inversionen:
-Zu Beginn über Land Bodeninversion unterhalb von 1500 FT AGL, am
+Zu Beginn über Land Bodeninversion unterhalb von 1500 FT AMSL, am
 Vormittag anhebend und auflösend, am Abend über Land erneut
 ausbildend.
 
-Ansonsten Absinkinversion zwischen 3500 und 5000 FT AMSL, in der
-Nacht über der nordwestlichen Deutschen auflösend.
+Ansonsten Absinkinversion zwischen 3500 und 5000 FT AMSL, mit Aufzug
+der Frontbewölkung auflösend.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Schleswig  04.36 | 05.12 | 17.13 | 17.49
@@ -100,6 +106,6 @@ Hannover  04.36 | 05.12 | 17.13 | 17.47
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale Hamburg/Kr

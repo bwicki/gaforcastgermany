@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-496
-FBEU40 EDZM 250300
+101
+FBEU40 EDZM 250600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 25.09.2026, 03.00 UTC bis 26.09.2026, 00.00 UTC
+gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
@@ -14,11 +14,9 @@ eingeflossene Kaltluft wird erwärmt und abgetrocknet. Ein
 überlagernder Hochdruckrücken stabilisiert die Luftmasse.
 
 Wettergeschehen:
-Verbreitet ist es wolkenlos. Im Osten Bayerns ziehen noch dünne
-SCT/BKN SC Wolkenfelder mit Untergrenze um FL070 durch. Die
-Obergrenze der SC Bewölkung reicht bis FL075. Vereinzelt haben sich
-entlang der Flüsse, an Seen und Senken flache Nebelfelder gebildet,
-die sich morgens auflösen.
+Verbreitet ist es wolkenlos. Vereinzelt haben sich entlang der
+Flüsse, an Seen und Senken flache Nebelfelder gebildet, die sich
+morgens auflösen.
 Vormittags bilden sich an den Alpen und im angrenzenden Vorland
 (Gafor 81-84) sowie in Ostbayern FEW CU mit Basis um 4500-5000 FT
 AMSL. Gegen Mittag ziehen aus Norden BKN AC Wolkenfelder oberhalb
@@ -36,19 +34,19 @@ Um 30-50 km, in den flachen Nebelfelder 400-800 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  06 UTC  |  18 UTC  |
-1500FT | 160/05KT  10C | 130/05KT  17C |
-2000FT | 150/05KT  11C | 190/05KT  16C |
-3000FT | 240/05KT  08C | 230/05KT  12C |
-5000FT | 290/05KT  04C | 270/10KT  09C |
-FL100  | 340/15KT  02C | 360/15KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 190/05KT  12C | 160/05KT  15C |
+2000FT | 190/05KT  11C | 180/10KT  15C |
+3000FT | 230/05KT  08C | 200/10KT  11C |
+5000FT | 280/05KT  05C | 280/05KT  09C |
+FL100  | 340/15KT  03C | 360/10KT  06C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  06 UTC  |  18 UTC  |
-2000FT | 150/05KT  10C | 120/05KT  15C |
-3000FT | 180/05KT  09C | 180/05KT  12C |
-5000FT | 160/05KT  04C | 300/05KT  08C |
-FL100  | 340/15KT  02C | 340/15KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 110/05KT  11C | 160/10KT  14C |
+3000FT | 160/05KT  09C | 180/05KT  12C |
+5000FT | 210/05KT  04C | 280/05KT  09C |
+FL100  | 350/15KT  02C | 350/10KT  05C |
 
 Turbulenz:
 Es wird keine mäßige oder starke Turbulenz erwartet.
@@ -57,7 +55,7 @@ Vereisung:
 Keine.
 
 Nullgradgrenze:
-Zwischen FL065 in Ostbayern und FL125 im Südwesten. Im Tagesverlauf
+Zwischen FL075 in Ostbayern und FL125 im Südwesten. Im Tagesverlauf
 in Ostbayern Anstieg auf FL125, im Westen bis auf FL135.
 
 Inversionen:
@@ -70,6 +68,6 @@ München  04.32 | 05.03 | 17.05 | 17.36
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale München/st

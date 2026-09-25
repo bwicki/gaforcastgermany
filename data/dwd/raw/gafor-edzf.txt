@@ -1,31 +1,31 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-485
-FBEU40 EDZF 250300
+064
+FBEU40 EDZF 250600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 25.09.2026, 03.00 UTC bis 26.09.2026, 00.00 UTC
+gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Der Vorhersagebereich liegt im Einfluss eines Hochs, dessen
+Der Vorhersagebereich liegt im Einflussbereich eines Hochs, dessen
 Schwerpunkt sich vom Süden Deutschlands ostwärts verlagert. Mit
 nordwestlicher Strömung fließt mäßig warme und stabile Luft ein. In
 der Nacht hat sich lokal eine flache feuchte Grundschicht
 ausgebildet, die am Vormittag wieder abtrocknet.
 
 Wettergeschehen:
-Abgesehen von dünner durchziehender CI-Bewölkung oberhalb von FL245,
+Abgesehen von dünner durchziehender CI-Bewölkung oberhalb von FL245
 ist es wolkenlos. In der Nacht hat sich in Tallagen und Niederungen
-örtlich flacher Nebel gebildet mit Schwerpunkten nördlich des Mains,
-sowie dem Oberrheingraben und dem Neckartal.
+sehr vereinzelt etwas flacher Nebel gebildet, mit Schwerpunkten
+nördlich des Mains sowie dem Oberrheingraben und dem Neckartal.
 
 Am Vormittag lösen sich Nebelfelder auf. Tagsüber ziehen vor allem im
 Norden und Osten dünne FEW/SCT LYR AC/CI-Felder oberhalb von FL14-160
-von West nach Ost. Ab dem Mittag bilden maximal über dem östlichen
-Bergland einzelne flache CU in 3500-4000 FT AMSL, die am Nachmittag
-wieder abtrocknen.
+von West nach Ost. Ab dem Mittag bilden sich maximal über dem
+östlichen Bergland einzelne flache CU in 3500-4000 FT AMSL, die am
+Nachmittag wieder abtrocknen.
 
 In der Nacht ist es dann meist wolkenfrei, nur lokal begrenzt ziehen
 weiterhin dünnen AC/CI-Felder oberhalb von FL140-160 durch.
@@ -37,22 +37,22 @@ Sichtweite:
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 020/05KT  02C | 170/05KT  17C |
-1500FT | 200/05KT  10C | 190/10KT  16C |
-2000FT | 210/05KT  10C | 200/10KT  16C |
-3000FT | 240/05KT  08C | 240/10KT  13C |
-5000FT | 330/10KT  08C | 290/10KT  12C |
-FL100  | 350/20KT  04C | 310/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 200/05KT  11C | 190/05KT  15C |
+1500FT | 210/10KT  10C | 200/10KT  16C |
+2000FT | 210/10KT  10C | 210/15KT  16C |
+3000FT | 230/10KT  09C | 240/10KT  14C |
+5000FT | 320/05KT  08C | 280/10KT  12C |
+FL100  | 350/20KT  05C | 270/10KT  06C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 050/05KT  12C | 070/05KT  21C |
-1500FT | 100/05KT  13C | 080/05KT  19C |
-2000FT | 130/05KT  12C | 090/05KT  18C |
-3000FT | 070/05KT  10C | 170/05KT  16C |
-5000FT | 010/10KT  09C | 280/05KT  13C |
-FL100  | 350/15KT  04C | 350/10KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 360/05KT  13C | 030/05KT  20C |
+1500FT | 180/05KT  13C | 180/05KT  19C |
+2000FT | 200/05KT  13C | 200/05KT  18C |
+3000FT | 240/05KT  11C | 220/05KT  16C |
+5000FT | 040/05KT  09C | 270/05KT  14C |
+FL100  | 350/15KT  04C | 300/05KT  06C |
 
 Turbulenz:
 Nicht signifikant.
@@ -74,6 +74,6 @@ Karlsruhe  04.45 | 05.17 | 17.18 | 17.49
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Flugwetterzentrale Frankfurt/He

@@ -1,49 +1,52 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edze_node.html
 
-694
-FBEU40 EDZE 250300
+819
+FBEU40 EDZE 250600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich West
-gültig vom 25.09.2026, 03.00 UTC bis 26.09.2026, 00.00 UTC
+gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 31 bis 39
 
 Wetterlage und -entwicklung:
 Unter Hochdruckeinfluss bleibt im Vorhersagegebiet trockene und
-stabile Luft wetterbestimmend. Anfangs hält sich lokal eine feuchte
-Grundschicht, die ab dem Vormittag abtrocknet.
+stabile Luft wetterbestimmend. Anfangs hält sich lokal noch eine
+feuchte Grundschicht, die am Vormittag wieder abtrocknet.
 
 Wettergeschehen:
 In den Frühstunden unterhalb der hohen SCT/BKN CI-Bewölkung mit
-Untergrenzen oberhalb von FL245 lokale Nebelfelder.
-Bis zum Vormittag Auflösung vorhandener Nebelfelder. Dann dünner
-SCT/BKN CI oberhalb FL245, darunter lokal FEW/SCT AC zwischen FL100
-und FL180. Im Nachmittagsverlauf Abzug des CI und AC, dann zunehmend
-SKC. Niederschlagsfrei.
+Untergrenzen oberhalb von FL245 lokale Dunst- oder Nebelfelder, die
+sich am Vormittag auflösen.
+Danach tagsüber Durchzug dünner SCT/BKN CI oberhalb FL245, darunter
+lokal FEW/SCT AC zwischen FL100 und FL180.
+Im Nachmittagsverlauf Abzug des CI und AC, dann ist es ab dem Abend
+und in der Nacht zum Samstag zunehmend SKC. Niederschlagsfrei.
 
 Sichtweite:
 30-60 km. Anfangs vereinzelt flache Dunst- oder Nebelfelder, bis zum
-Vormittag auflösend.
+Vormittag auflösend. In der Nacht zum Samstag können sich erneut, vor
+allem im Münsterland und im Bergland, lokal flache Dunst- oder
+Nebelfelder ausbilden.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 31 - 34:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 160/10KT  12C | 160/05KT  20C |
-1000FT | 170/15KT  13C | 170/05KT  19C |
-1500FT | 190/10KT  12C | 200/10KT  17C |
-2000FT | 200/10KT  12C | 210/10KT  17C |
-3000FT | 240/05KT  10C | 240/15KT  15C |
-5000FT | 330/05KT  10C | 270/10KT  13C |
-FL100  | 340/20KT  05C | 270/15KT  06C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 170/10KT  14C | 150/10KT  19C |
+1000FT | 170/15KT  13C | 180/10KT  19C |
+1500FT | 190/10KT  13C | 210/10KT  18C |
+2000FT | 200/10KT  13C | 230/10KT  17C |
+3000FT | 210/05KT  11C | 260/10KT  15C |
+5000FT | 260/05KT  11C | 280/10KT  13C |
+FL100  | 330/20KT  06C | 260/15KT  04C |
 
 GAFOR-Gebiete 35 - 39:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 090/05KT  10C | 110/05KT  19C |
-1500FT | 170/10KT  11C | 150/10KT  17C |
-2000FT | 190/10KT  11C | 160/10KT  17C |
-3000FT | 230/05KT  10C | 230/10KT  15C |
-5000FT | 330/05KT  09C | 280/15KT  12C |
-FL100  | 350/25KT  05C | 280/10KT  07C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 150/05KT  13C | 130/05KT  17C |
+1500FT | 150/05KT  11C | 180/10KT  17C |
+2000FT | 180/10KT  11C | 200/15KT  17C |
+3000FT | 200/05KT  10C | 230/10KT  15C |
+5000FT | 350/05KT  10C | 270/10KT  12C |
+FL100  | 350/20KT  06C | 260/15KT  06C |
 
 Turbulenz:
 Nicht signifikant.
@@ -56,16 +59,17 @@ Zwischen FL125 und FL135. In der Nacht zum Samstag im Norden um
 FL115, im Süden FL120-130.
 
 Inversionen:
-Ausgangs der Nacht Bodeninversion unterhalb von 1000 FT AGL, am
-Vormittag auflösend. Am Nachmittag schwache Absinkinversion in
-3000-4000 FT AMSL, am Abend auslösend. In der Nacht zum Samstag
-verbreitet Bodeninversion unterhalb von 1000 FT AMSL, teils markant.
+Am Morgen Bodeninversion unterhalb von 1000 FT AGL, am Vormittag
+auflösend. Am Nachmittag schwache Absinkinversion in 2500-4000 FT
+AMSL, am Abend auslösend. Nach Sonnenuntergang ausbildend und in der
+Nacht zum Samstag verbreitet Bodeninversion unterhalb von 1500 FT
+AMSL, teils markant.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Düsseldorf  04.49 | 05.23 | 17.25 | 17.58
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Regionale Wetterberatungszentrale Essen/ld
+Regionale Wetterberatungszentrale Essen/Ze

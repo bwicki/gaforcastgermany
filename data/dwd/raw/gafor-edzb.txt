@@ -1,10 +1,10 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-486
-FBEU40 EDZB 250300
+065
+FBEU40 EDZB 250600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 25.09.2026, 03.00 UTC bis 26.09.2026, 00.00 UTC
+gültig vom 25.09.2026, 06.00 UTC bis 26.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
@@ -13,21 +13,22 @@ Die aus Nordwesten eingeflossene Meeresluftmasse gerät zunehmend
 unter Hochdruckeinfluss.
 
 Wettergeschehen:
-Im Bereich Harz-Werratal-Vogtland-Leipzig nur einzelne SC-Felder
-zwischen 3000 und 4000 FT AMSL, in Senken und Tälern flachere
-Nebelfelder, in den Morgenstunden auflösend. Im übrigen Gebiet
-verbreitet BKN/OVC SC mit Basis in 2000-3500 FT AMSL, Tops zwischen
-4000 FT AMSL und FL070. Darunter von der Küste bis zur Lausitz
-zusätzlich BKN ST in 500-1000 FT AGL, lokal leichter Sprühregen.
+Im Dreieck Börde-Werratal-Osterzgebirge nur vereinzelte SC-Felder um
+3500 FT AMSL, in Senken und Tälern flachere Nebelfelder, in den
+Morgenstunden auflösend. Im übrigen Gebiet verbreitet BKN/OVC SC mit
+Basis in 2000-4000 FT AMSL, Tops zwischen 4000 FT AMSL und FL070.
+Darunter von der Mecklenburger Seenplatte bis zum Spreewald und
+Oderbruch zusätzlich BKN ST in 400-800 FT AGL, lokal leichter
+Sprühregen.
 Im Laufe der Morgen- und Vormittagsstunden von Westen her
 auflockernder SC, Übergang von ST in SCT/BKN CU um 2000 FT AMSL sowie
 nachlassende Niederschläge, an der Grenze zu Polen erst in den
-Mittagsstunden. Gleichzeitig von Westen Aufzug größerer
+Mittagsstunden. Im Südwesten am Vormittag Neubildung von flachen FEW
+CU bei 2000-2500 FT AMSL. Gleichzeitig von Westen Aufzug größerer
 AS/CS-Wolkenfelder zwischen FL140 und FL240.
-Am Nachmittag neben der höheren Bewölkung in Thüringen und
-Sachsen-Anhalt kaum noch CU/SC um 3000 FT AMSL. Von Vorpommern bis
-nach Ostsachsen meist noch SCT/BKN CU/SC zwischen 2500 FT AMSL und
-FL050.
+Am Nachmittag neben der höheren Bewölkung im Südwesten kaum noch CU.
+Von Vorpommern bis nach Ostsachsen hingegen meist noch SCT/BKN CU/SC
+zwischen 2500 FT AMSL und FL050.
 Am Abend und in der ersten Nachthälfte von Westen her weiterer
 Bewölkungsrückgang. Lokal flache Wiesennebelfelder.
 
@@ -36,23 +37,23 @@ Meist 20-50 km. Bei Sprühregen bis auf 2-6 km reduziert.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  06 UTC  |  18 UTC  |
- 500FT | 290/10KT  10C | 240/05KT  15C |
-1000FT | 310/15KT  09C | 250/10KT  14C |
-1500FT | 320/20KT  09C | 260/10KT  12C |
-2000FT | 310/15KT  08C | 260/10KT  11C |
-3000FT | 310/10KT  07C | 280/10KT  09C |
-5000FT | 300/10KT  03C | 310/15KT  09C |
-FL100  | 320/20KT  01C | 320/15KT  03C |
+AMSL  |  09 UTC  |  21 UTC  |
+ 500FT | 280/10KT  12C | 210/10KT  13C |
+1000FT | 280/10KT  10C | 230/10KT  13C |
+1500FT | 290/15KT  08C | 240/10KT  12C |
+2000FT | 290/15KT  08C | 250/10KT  11C |
+3000FT | 260/15KT  07C | 270/10KT  09C |
+5000FT | 240/05KT  04C | 300/10KT  09C |
+FL100  | 340/20KT  03C | 280/15KT  04C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  06 UTC  |  18 UTC  |
-1000FT | 260/05KT  10C | 220/05KT  16C |
-1500FT | 300/10KT  09C | 240/05KT  15C |
-2000FT | 310/10KT  08C | 250/10KT  13C |
-3000FT | 280/05KT  05C | 270/10KT  10C |
-5000FT | 290/10KT  02C | 320/10KT  10C |
-FL100  | 330/15KT  02C | 360/20KT  04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 240/05KT  11C | 210/10KT  16C |
+1500FT | 240/05KT  10C | 240/10KT  15C |
+2000FT | 230/05KT  08C | 250/10KT  14C |
+3000FT | 230/10KT  05C | 270/15KT  11C |
+5000FT | 290/10KT  04C | 300/10KT  09C |
+FL100  | 330/15KT  02C | 340/10KT  05C |
 
 Turbulenz:
 In der Oberlausitz am Nachmittag vorübergehend mäßig zwischen FL140
@@ -66,6 +67,8 @@ An Oder und Neiße um FL095, nach Westen hin ansteigend auf Werte um
 FL115, lokal inversionsbedingt auch zusätzlich negative Temperaturen
 um FL070. Bis zum Mittag von Westen her auf FL105-130 ansteigend, am
 Nachmittag im Osten noch bis FL115.
+In der kommenden Nacht zwischen FL115 an der Küste und FL130 in
+Thüringen. Zudem lokal Bodenfrost.
 
 Inversionen:
 Im Südwesten Bodeninversion bis 600 FT AGL, am Morgen rasch
@@ -80,6 +83,6 @@ Leipzig  04.28 | 05.02 | 17.03 | 17.36
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 05.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
 Luftfahrtberatungszentrale Berlin/AS
