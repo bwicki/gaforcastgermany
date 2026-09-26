@@ -4,23 +4,23 @@ GAFOR-Einstufung LBZ Hamburg
 
 GAFOR Bereich LBZ Hamburg 26.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
-00  Deutsche Bucht  C  C  C
+00  Deutsche Bucht  O  C  C
 
-01  Ostfriesland  D1 ISOL DZ  O  C
+01  Ostfriesland  D1  O  C
 
 02  Nordfriesland-Dithmarschen  O  C  C
 
-03  Schleswig-Holsteinische Geest  D1 ISOL DZ  O  O
+03  Schleswig-Holsteinische Geest  O  O  O
 
-04  Schleswig-Holsteinisches Hügelland  D1 ISOL DZ  O  O
+04  Schleswig-Holsteinisches Hügelland  O ISOL DZRA  O  O
 
-05  Nordwestliches Niedersachsen  D1 ISOL DZ  D1 ISOL DZ  O
+05  Nordwestliches Niedersachsen  D1 ISOL DZRA  O  O
 
-06  Lüneburger Heide  C  O  O
+06  Lüneburger Heide  O ISOL DZRA  O ISOL DZRA  O
 
-07  Westliches Niedersachsen  C  O  O
+07  Westliches Niedersachsen  O ISOL DZRA  O  O
 
 08  Hannover und Braunschweig  C  C  C
 
@@ -32,39 +32,39 @@ GAFOR-Einstufung LBZ Berlin
 
 GAFOR Bereich LBZ Berlin 26.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
-11  Mecklenburgisches Tiefland  O  O ISOL RA  O ISOL RA
+11  Mecklenburgisches Tiefland  O ISOL RA  O  O
 
-12  Vorpommern  O  O  O ISOL RA
+12  Vorpommern  O ISOL RA  O  O
 
-13  Westliche Mecklenburgische Seenplatte und Prignitz  O  O  O
+13  Westliche Mecklenburgische Seenplatte und Prignitz  C  C  O
 
-14  Östliche Mecklenburgische Seenplatte und Uckermark  C ISOL FG  C  O
+14  Östliche Mecklenburgische Seenplatte und Uckermark  C  C  C
 
-15  Altmark  C ISOL FG  C  C
+15  Altmark  C  C  C
 
-16  Fläming  C ISOL FG  C  C
+16  Fläming  C  C  C
 
-17  Havelland  C ISOL FG  C  C
+17  Havelland  C  C  C
 
-18  Barnim und Oderbruch  C ISOL FG  C  C
+18  Barnim und Oderbruch  C  C  C
 
-19  Dahme-Spree-Gebiet und Gubener Waldland  C ISOL FG  C  C
+19  Dahme-Spree-Gebiet und Gubener Waldland  C  C  C
 
-20  Magdeburger Börde und Nördliches Harzvorland  C ISOL FG  C  C
+20  Magdeburger Börde und Nördliches Harzvorland  C  C  C
 
 21  Harz  C  C  C
 
-22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  C ISOL FG  C  C
+22  Leipziger Tieflandsbucht und Elbe-Elster-Niederung  C  C  C
 
-23  Niederlausitzer Heiden  C ISOL FG  C  C
+23  Niederlausitzer Heiden  C  C  C
 
-24  Thüringer Becken  C ISOL FG  C  C
+24  Thüringer Becken  C  C  C
 
 25  Mittelsächsisches Hügelland  C  C  C
 
-26  Oberlausitz und Lausitzer Gebirge  C ISOL FG  C  C
+26  Oberlausitz und Lausitzer Gebirge  C  C  C
 
 27  Thüringer Wald  C  C  C
 
@@ -74,7 +74,7 @@ GAFOR-Einstufung RWZ Essen
 
 GAFOR Bereich RWZ Essen 26.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 31  Niederrheinisches Tiefland  C  C  C
 
@@ -98,7 +98,7 @@ GAFOR-Einstufung FWZ Frankfurt
 
 GAFOR Bereich FWZ Frankfurt 26.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 41  Hunsrück  C  C  C
 
@@ -128,7 +128,7 @@ GAFOR-Einstufung LBZ Muenchen
 
 GAFOR Bereich LBZ Muenchen 26.09.2026
 
-Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
+Gebiet  Name  09-11 UTC  11-13 UTC  13-15 UTC
 
 54  Mainfranken und Nördliches Unterfranken  C  C  C
 
@@ -150,11 +150,11 @@ Gebiet  Name  06-08 UTC  08-10 UTC  10-12 UTC
 
 72  Schwäbische Hochebene  C  C  C
 
-73  Westliche Donauniederung  C ISOL FG  C  C
+73  Westliche Donauniederung  C  C  C
 
-74  Südbayerisches Hügelland  C ISOL FG  C  C
+74  Südbayerisches Hügelland  C  C  C
 
-75  Östliche Donau- und Naabniederung  C ISOL FG  C  C
+75  Östliche Donau- und Naabniederung  C  C  C
 
 76  Bayerischer Wald  C  C  C
 
