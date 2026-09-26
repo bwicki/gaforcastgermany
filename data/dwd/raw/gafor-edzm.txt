@@ -1,73 +1,69 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html
 
-581
-FBEU40 EDZM 251800
+487
+FBEU40 EDZM 260600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Süd
-gültig vom 25.09.2026, 18.00 UTC bis 26.09.2026, 15.00 UTC
+gültig vom 26.09.2026, 06.00 UTC bis 27.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 54 - 58, 62 - 64, 71 - 76, 81 - 84
 
 Wetterlage und -entwicklung:
-Ein Hoch liegt über Süddeutschland und zieht langsam nach Osten. Die
-eingeflossene Kaltluft erwärmt sich und trocknet ab. In der Nacht zum
-Samstag bildet sich bodennah eine feuchte Grundschicht aus, die
-vormittags wieder abgebaut wird.
+Wetterbestimmend ist eine umfangreiche Hochdruckzone über
+Mitteleuropa. In der Nacht hat sich im Süden stellenweise eine
+feuchtkalte Grundschicht gebildet, die am Morgen rasch abgebaut wird.
+Aus Südwesten wird tagsüber in den unteren Schichten wieder warme
+Luft nach Süddeutschland geführt.
 
 Wettergeschehen:
-Verbreitet ist es wolkenlos. Entlang der östlichen Mittelgebirge
-ziehen SCT/BKN AC um FL170 nach Südosten durch.
-Im Laufe der Nacht zieht die hohe Bewölkung langsam nach Südosten ab,
-gegen Mitternacht bilden sich flache Nebelfelder, vor allem entlang
-von Flüssen und in Senken. Bis Samstagmorgen weiten die Nebelfelder
-sich etwas aus, Obergrenzen meist bei 2000-2300 FT AMSL.
-
-Im Vormittagsverlauf lösen sich Dunst und Nebel sukzessive auf, am
-zähesten können sie sich an Inn und Salzach halten, stellenweise bis
-Mittag. Über dem Chiemgau ziehen die letzten AC - Schollen nach
-Südosten ab, sonst ist du bleibt es wolkenfrei.
+Es ist wolkenlos. In den Flussniederungen und Senken halten sich in
+der Südhälfte letzte Reste morgendlicher Dunst- oder Nebelfelder, die
+sich rasch auflösen.
+Sonst ziehen erst am Nachmittag wieder SCT/BKN CI Felder oberhalb
+FL300 am Main aus Nordwesten auf und breiten sich in Bändern in der
+Nacht bis an die Alpen aus. Gegen Mitternacht bilden sich erneut
+erste flache Dunst- oder Nebelfelder.
 
 Sichtweite:
-30 bis 50 km, kommende Nacht in Nebelfeldern 300 bis 600 m.
+30 bis 60 km, bei Nebel oder Dunst wenige 100 m bis 3 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 54 - 58, 63, 64:
-AMSL  |  21 UTC  |  09 UTC  |
-1500FT | 170/05KT  16C | 160/05KT  15C |
-2000FT | 190/10KT  15C | 180/05KT  14C |
-3000FT | 220/10KT  12C | 220/10KT  13C |
-5000FT | 290/05KT  10C | 270/10KT  13C |
-FL100  | 010/10KT  06C | 290/10KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+1500FT | 160/05KT  15C | 130/10KT  18C |
+2000FT | 170/05KT  14C | 150/10KT  18C |
+3000FT | 220/05KT  13C | 160/05KT  15C |
+5000FT | 260/10KT  13C | 220/05KT  12C |
+FL100  | 290/10KT  05C | 260/10KT  04C |
 
 GAFOR-Gebiete 62, 71 - 84:
-AMSL  |  21 UTC  |  09 UTC  |
-2000FT | 170/05KT  14C | 120/05KT  14C |
-3000FT | 200/05KT  12C | 230/05KT  15C |
-5000FT | 290/05KT  09C | 280/10KT  13C |
-FL100  | 350/10KT  06C | 310/15KT  05C |
+AMSL  |  09 UTC  |  21 UTC  |
+2000FT | 110/05KT  14C | 120/10KT  18C |
+3000FT | 220/05KT  14C | 140/05KT  16C |
+5000FT | 280/10KT  12C | 270/05KT  14C |
+FL100  | 310/15KT  05C | 270/10KT  05C |
 
 Turbulenz:
-Es wird keine mäßige oder starke Turbulenz erwartet.
+Keine
 
 Vereisung:
-Keine.
+Keine
 
 Nullgradgrenze:
-Zwischen FL110 in Ostbayern und FL135 im Südwesten. Nachts auch im
-Osten auf FL125-130 ansteigend.
+Zwischen FL120 und FL130.
 
 Inversionen:
-Absinkinversion zwischen 4500 und 6000 FT AMSL. Nachts teils markante
-Bodeninversion bis 2500 FT AMSL im Süden und 2000 FT AMSL im Norden.
-Wird am Samstagvormittag langsam abgebaut.
+Teils markante Bodeninversion mit Obergrenze bei 2000 bis 2500 FT
+AMSL, die morgens abgebaut wird und in eine Absinkinversion bei 4000
+bis 5500 FT AMSL übergeht. In der kommenden Nacht erneut Ausbildung
+einer Bodeninversion.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Nürnberg  04.36 | 05.08 | 17.06 | 17.38
 München  04.34 | 05.04 | 17.03 | 17.34
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 26.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Luftfahrtberatungszentrale München/bq
+Luftfahrtberatungszentrale München/La

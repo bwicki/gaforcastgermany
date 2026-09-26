@@ -1,77 +1,84 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzf_node.html
 
-580
-FBEU40 EDZF 251800
+486
+FBEU40 EDZF 260600
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Mitte
-gültig vom 25.09.2026, 18.00 UTC bis 26.09.2026, 15.00 UTC
+gültig vom 26.09.2026, 06.00 UTC bis 27.09.2026, 03.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 41 bis 47, 50 bis 53, 61
 
 Wetterlage und -entwicklung:
-Der Vorhersagebereich liegt im Einflussbereich eines Hochs, dessen
-Schwerpunkt sich vom Süden Deutschlands ostwärts verlagert.
-Mit auf West drehender Strömung fließt mäßig warme, stabile und
-trockene Luft ein.
+Schwacher Hochdruckeinfluss bleibt im Vorhersagebereich mit
+trockener, warmer und stabil geschichteter Luft wetterbestimmend. Im
+Tagesverlauf nähert sich von Nordwesten eine kaum wetteraktive
+Kaltfront. Sie bringt etwas feuchtere Luft in mittleren und hohen
+Schichten in den Norden des Bereiches.
 
 Wettergeschehen:
-Abgesehen von dünner durchziehender CI-Bewölkung oberhalb von FL245
-ist es tagsüber und in der Nacht zum Samstag nahezu wolkenlos.
-Lediglich im Süden zeigen sich in der Nacht lokal flache AC-Felder
-zwischen FL130-160. In Flussniederungen und Tallagen sind einzelne
-flache Dunst- und Nebelfelder nicht ausgschlossen.
+Am Morgen ist es im gesamten Vorhersagebereich wolkenfrei.
 
-Im Tagesverlauf ziehen meist flache AC-Felder um FL100 in Richtung
-Nordhessen, Taunus und Hunsrück. Darüber zeigen sich kompakte CI
-oberhalb FL220.
-Es ist und bleibt niederschlagsfrei.
+Am Vormittag zieht von Nordwesten zunächst dünne CI-Bewölkung
+oberhalb von FL245 herein, etwa ab Mittag folgen meist flache
+AC-Felder um FL100. Während sich der CI auch bis Baden-Württemberg
+ausbreitet, verbleibt die AC-Bewölkung meist nördlich der Mainlinie.
+
+Am Abend verdichtet sich die CI-Bewölkung im Norden noch und die
+Untergrenze sinkt auf FL180-200 ab. Es zeigt sich in Nordhessen
+kurzzeitig BKN/OVC LYR SC/AC/CI oberhalb von FL080-100 und es kann
+lokal etwas Regen fallen. Sonst bleibt es im gesamten
+Vorhersagebereich trocken.
+
+In der Nacht zieht die etwas kompaktere Bewölkung in Nordhessen
+wieder ostwärts ab, nördlich der Mainlinie bleibt es bei dichterer
+CI-Bewölkung oberhalb von FL180-200 und lokaler AC-Bewölkung um
+FL100, südlich ist es vielfach wolkenfrei oder es zieht dünne
+CI-Bewölkung oberhalb von FL245 durch.
 
 Sichtweite:
-40-70 km. In der Nacht 15-30 km, ganz lokal im Dunst/Nebel 5 km bis
-wenige 100 m. Tagsüber erneut 30-50 km.
+30-70 km.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 41 - 47:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 200/05KT  14C | 190/05KT  15C |
-1500FT | 200/10KT  16C | 190/10KT  14C |
-2000FT | 210/10KT  15C | 190/15KT  15C |
-3000FT | 250/10KT  13C | 220/05KT  16C |
-5000FT | 290/10KT  12C | 310/05KT  12C |
-FL100  | 270/10KT  06C | 260/20KT  02C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 220/05KT  13C | 090/05KT  18C |
+1500FT | 190/10KT  13C | 140/05KT  19C |
+2000FT | 200/10KT  15C | 150/10KT  19C |
+3000FT | 240/10KT  15C | 170/10KT  17C |
+5000FT | 300/05KT  12C | 180/10KT  14C |
+FL100  | 270/15KT  03C | 270/10KT  01C |
 
 GAFOR-Gebiete 50 - 53, 61:
-AMSL  |  21 UTC  |  09 UTC  |
-1000FT | 090/05KT  19C | 270/05KT  16C |
-1500FT | 160/05KT  19C | 210/10KT  18C |
-2000FT | 180/05KT  18C | 200/10KT  18C |
-3000FT | 210/05KT  16C | 240/05KT  16C |
-5000FT | 280/05KT  14C | 290/10KT  14C |
-FL100  | 310/10KT  07C | 270/15KT  04C |
+AMSL  |  09 UTC  |  21 UTC  |
+1000FT | 270/05KT  16C | 110/05KT  23C |
+1500FT | 210/10KT  18C | 130/05KT  22C |
+2000FT | 210/10KT  18C | 140/05KT  22C |
+3000FT | 250/05KT  16C | 130/05KT  19C |
+5000FT | 270/10KT  13C | 140/05KT  15C |
+FL100  | 270/15KT  04C | 250/15KT  03C |
 
 Turbulenz:
 Nicht signifikant.
 
 Vereisung:
-Keine.
+Am Abend in Nordhessen mäßig zwischen FL100 und FL200, in der Nacht
+nach Osten abziehend.
 
 Nullgradgrenze:
-Um FL135. In der Nacht zum Samstag leicht absinkend. Am Vormittag
-zwischen FL120 im Norden und FL130 im Süden.
+Um FL130-135. Am Vormittag im Norden auf FL100-105 absinkend.
 
 Inversionen:
-Lokal schwache Absinkinversion zwischen 4000 FT AMSL und FL060.
-In der Nacht auf Samstag Ausbildung einer flachen Bodeninversion
-unterhalb 1000 FT AGL teils mit Temperaturdifferenz von >10 K.
-Tagsüber rasche Auflösung der Bodeninversion.
+Am Morgen flache Bodeninversion unterhalb 1000 FT AGL teils mit
+Temperaturdifferenz um 10 K. Tagsüber rasche Auflösung der
+Bodeninversion. Auch in der Nacht auf Sonntag bildet sich wieder eine
+flache Bodeninversion aus.
 
 Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
 Gießen  04.45 | 05.17 | 17.15 | 17.47
 Karlsruhe  04.47 | 05.18 | 17.16 | 17.47
-BDA/BDE = Anfang/Ende Bürgerliche Dämmerung - morgen
-SA/SU   = Sonnenauf/untergang - morgen
+BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
+SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt am 26.09.2026 um 02.00
-UTC
+Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
 
-Flugwetterzentrale Frankfurt/Go
+Flugwetterzentrale Frankfurt/He
