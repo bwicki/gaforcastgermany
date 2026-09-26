@@ -1,84 +1,83 @@
 https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzb_node.html
 
-480
-FBEU40 EDZB 260600
+366
+FBEU40 EDZB 261200
 Deutscher Wetterdienst
 Flugwetterübersicht Bereich Ost
-gültig vom 26.09.2026, 06.00 UTC bis 27.09.2026, 03.00 UTC
+gültig vom 26.09.2026, 12.00 UTC bis 27.09.2026, 09.00 UTC
 
 Vorhersagebereich: GAFOR-Gebiete 11 bis 28
 
 Wetterlage und -entwicklung:
-Unter Zwischenhocheinfluss fließt stabil geschichtete und mäßig warme
-Meeresluft aus westlichen bis südwestlichen Richtungen ein. Im Laufe
-des Tages greift von Norden ein schwacher Tiefausläufer auf das
-Vorhersagegebiet und verlagert sich allmählich südwärts.
+Unter Zwischenhocheinfluss fließt zunächst meist stabil geschichtete
+und mäßig warme Luft aus westlichen Richtungen ein. In
+Mecklenburg-Vorpommern liegt die wellende Kaltfront eines
+Skandinavientiefs mit feuchterer Luft, die sich im weiteren Verlauf
+langsam südwärts verlagert und sich zögerlich auflöst. Dabei dreht
+die Strömung ab dem Abend auf östliche Richtungen.
 
 Wettergeschehen:
-Zu Beginn meist wolkenfrei, lokal flache Dunst- und Nebelfelder, im
-Laufe des Morgens auflösend. In Teilen Mecklenburg-Vorpommerns erste
-SC-Felder um FL050.
+Zunächst in der Nordhälfte meist SCT/BKN SC/AS/CS bei FL055 bis FL075
+mit Obergrenzen geschichtet bis FL250. Darunter in
+Mecklenburg-Vorpommern gebietsweise SCT/BKN SC bei 2000 bis 3000 FT
+AMSL. Dabei meist trocken, lokal leichter Regen.
+In der Südhälfte unterhalb von CI-Feldern um FL200 meist wolkenfrei
+und trocken.
 
-Im Laufe des Vormittags bis zum Mittag in Mecklenburg-Vorpommern von
-Nordwest Aufzugs von SCT/BKN SC/AS in 4000 FT AMSL bis FL060,
-Obergrenzen um FL130, daraus lokal leichter Regen möglich. Vereinzelt
-hier kurzzeitig SCT/BKN ST um 1500 FT AMSL. In den anderen Regionen
-neben hohen, dünnen CI-Felder wolkenfrei.
-Bis zum Abend etwa bis zur Mitte ausbreitende SCT/BKN AS/CI-Bewölkung
-oberhalb FL060, dabei überwiegend trocken. Im Süden weiterhin
-wolkenfrei, bis zum Abend auch in Mecklenburg-Vorpommerns
-Wolkenauflösung, hier letzte SC Felder um 2500 FT AMSL.
+In der Nacht unterhalb von SCT/BKN AS/CI zwischen FL150 und FL250
+gebietsweise SCT/BKN SC bei FL060 bis FL090. Niederschlagsfrei.
+In Mecklenburg-Vorpommern im Verlauf langsam wolkenfrei mit der
+lokalen Bildung von flachen Dunst- und Nebelfeldern, teils mit
+aufliegender Bewölkung.
 
-In der Nacht zum Sonntag verbreitet die mittelhohe und hohe Bewölkung
-oberhalb FL060-FL100 und niederschlagsfrei. Rückseitig davon, also in
-Mecklenburg-Vorpommern, zunächst wolkenfrei, im Laufe der Nacht lokal
-Bildung von Nebelfeldern möglich.
+Ab den Morgenstunden langsam auflösende Dunst- und Nebelfelder im
+Norden. Sonst verbreitet SCT/BKN AS/CI oberhalb FL160 mit örtlich
+flachen SC-Feldern um FL060 darunter. Trocken.
 
 Sichtweite:
-20 bis 50 km. Im Nebel teils wenige 100 m.
+Meist oberhalb 20 bis 50 km. Im nächtlichen Dunst 2 bis 5 km, im
+Nebel 200 bis 800 m.
 
 Höhenwind und -temperatur:
 GAFOR-Gebiete 11 - 19:
-AMSL  |  09 UTC  |  21 UTC  |
- 500FT | 230/05KT  13C | 070/05KT  16C |
-1000FT | 250/10KT  14C | 080/10KT  15C |
-1500FT | 260/15KT  14C | 090/05KT  14C |
-2000FT | 260/15KT  14C | 090/05KT  13C |
-3000FT | 280/15KT  12C | 180/05KT  11C |
-5000FT | 270/15KT  09C | 270/10KT  09C |
-FL100  | 280/30KT  00C | 280/15KT M00C |
+AMSL  |  15 UTC  |  06 UTC  |
+ 500FT | 290/05KT  16C | 110/15KT  12C |
+1000FT | 290/05KT  15C | 130/20KT  15C |
+1500FT | 310/05KT  14C | 140/15KT  14C |
+2000FT | 300/05KT  13C | 140/15KT  14C |
+3000FT | 290/10KT  11C | 150/10KT  13C |
+5000FT | 280/15KT  09C | 180/10KT  10C |
+FL100  | 280/25KT M01C | 270/15KT M01C |
 
 GAFOR-Gebiete 20 - 28:
-AMSL  |  09 UTC  |  21 UTC  |
-1000FT | 220/05KT  15C | 120/10KT  20C |
-1500FT | 250/15KT  15C | 130/05KT  19C |
-2000FT | 260/15KT  15C | 130/05KT  18C |
-3000FT | 280/10KT  14C | 210/05KT  15C |
-5000FT | 280/15KT  12C | 170/05KT  12C |
-FL100  | 280/15KT  03C | 310/05KT M01C |
+AMSL  |  15 UTC  |  06 UTC  |
+1000FT | 280/05KT  21C | 150/10KT  17C |
+1500FT | 270/05KT  19C | 170/10KT  18C |
+2000FT | 270/05KT  18C | 160/10KT  17C |
+3000FT | 270/05KT  14C | 150/10KT  15C |
+5000FT | 290/05KT  12C | 140/10KT  12C |
+FL100  | 300/15KT  00C | 120/05KT M01C |
 
 Turbulenz:
-Nicht signifikant
+Nicht signifikant.
 
 Vereisung:
-Am Samstag in unterkühlter Frontalbewölkung leicht bis mäßig von der
-Nullgradgrenze bis FL210
+In unterkühlter Bewölkung leicht bis mäßig unterhalb FL210.
 
 Nullgradgrenze:
-Zunächst zwischen FL105 im Norden und FL130 im Süden. Im Verlauf
-absinkend auf FL095 im Nordwesten und FL105 im Südosten.
+Meist FL095 bis FL105, gebietsweise um FL115.
 
 Inversionen:
-Am Morgen meist Bodeninversion bis 1000 FT AGL, im Verlauf wieder
-auflösend. In der Nacht zum Sonntag erneut verbreitet Ausbildung
-einer Bodeninversion.
+In der Nacht zum Sonntag verbreitet Ausbildung einer Bodeninversion
+unterhalb 1000 FT AGL, bis zum Vormittag langsam auflösend.
 
-Zeiten in UTC: BDA  |  SA   |  SU   |  BDE
-Berlin  04.23 | 04.58 | 16.55 | 17.29
-Leipzig  04.29 | 05.03 | 17.01 | 17.34
+Zeiten in UTC: SU   |  BDE  |  BDA  |  SA
+  heute  |  morgen
+Berlin  16.55 | 17.29  | 04.25 | 05.00
+Leipzig  17.01 | 17.34  | 04.31 | 05.05
 BDA/BDE = Anfang/Ende Bürgerliche Dämmerung
 SA/SU   = Sonnenauf/untergang
 
-Die nächste planmäßige Aktualisierung erfolgt um 11.00 UTC
+Die nächste planmäßige Aktualisierung erfolgt um 17.00 UTC
 
-Luftfahrtberatungszentrale Berlin/Hi
+Luftfahrtberatungszentrale Berlin/Qe
